@@ -8,7 +8,7 @@ Affiliation: [to be added]
 
 Correspondence: [email to be added]
 
-ORCID: [to be added, if applicable]
+ORCID: https://orcid.org/0000-0001-6843-9720
 
 ## Short Title
 
@@ -503,7 +503,7 @@ No new experimental datasets were generated for this study. All primary and supp
 
 ## Code availability
 
-Analysis code used to generate the manuscript figures, supplementary tables, and processed summary outputs will be deposited in a public code repository before publication, with a versioned archival DOI assigned at release. The code archive will include the final analysis scripts, a run-order manifest, environment information, and a mapping between scripts, manuscript figures, supplementary tables, and result-level provenance in the Supplementary Table packet. Large public raw datasets are not redistributed with the code archive; download sources and accessions are provided in the Data Availability statement and supplementary tables.
+Analysis code, run-order documentation, curated summary outputs, manuscript-facing figures, and supplementary table packets are available at GitHub (https://github.com/Ghostneuron/granule-cell-convergence) and archived on Zenodo (https://doi.org/10.5281/zenodo.21018501). The archive includes the final analysis scripts, environment information, and mappings between scripts, manuscript figures, supplementary tables, and result-level provenance in the Supplementary Table packet. Large public raw datasets are not redistributed with the code archive; download sources and accessions are provided in the Data Availability statement and supplementary tables.
 
 ## References
 

@@ -5,11 +5,11 @@ type: software
 authors:
   - family-names: Lu
     given-names: Jie
-    orcid: "ORCID-to-be-added"
+    orcid: "https://orcid.org/0000-0001-6843-9720"
 version: "v0.9-submission-prep"
 date-released: "2026-06-28"
-repository-code: "GitHub-URL-to-be-added"
-doi: "Zenodo-DOI-to-be-added"
+repository-code: "https://github.com/Ghostneuron/granule-cell-convergence"
+doi: "10.5281/zenodo.21018501"
 keywords:
   - granule cell
   - dentate gyrus

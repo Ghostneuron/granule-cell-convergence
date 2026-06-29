@@ -36,7 +36,7 @@ Affiliation: [to be added]
 
 Correspondence: [email to be added]
 
-ORCID: [to be added, if applicable]"""
+ORCID: https://orcid.org/0000-0001-6843-9720"""
 
 
 def section_body(markdown: str, heading: str) -> str:

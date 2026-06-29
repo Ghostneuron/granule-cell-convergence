@@ -43,5 +43,5 @@ data/documentation license if desired.
 
 ## Citation
 
-Use the metadata in `CITATION.cff`; update DOI, ORCID and affiliation
-fields before final public release.
+Use the metadata in `CITATION.cff`. The current public records are:
+GitHub `https://github.com/Ghostneuron/granule-cell-convergence` and Zenodo `https://doi.org/10.5281/zenodo.21018501`.

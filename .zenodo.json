@@ -1,11 +1,11 @@
 {
-  "title": "Granule-cell convergence analysis code",
+  "title": "Granule-cell convergence analysis code and curated manuscript outputs",
   "upload_type": "software",
   "description": "Analysis scripts, manuscript-facing summary outputs, figures and supplementary table packet for a computational study of dentate and cerebellar granule-cell convergence.",
   "creators": [
     {
       "name": "Lu, Jie",
-      "orcid": "ORCID-to-be-added"
+      "orcid": "https://orcid.org/0000-0001-6843-9720"
     }
   ],
   "keywords": [
@@ -17,6 +17,12 @@
     "sparse coding"
   ],
   "version": "v0.9-submission-prep",
-  "related_identifiers": [],
-  "notes": "Replace ORCID, GitHub URL, manuscript DOI and license metadata before final Zenodo deposition."
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Ghostneuron/granule-cell-convergence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "License metadata should be finalized before public reuse. Raw public datasets and large intermediate matrices are not redistributed."
 }

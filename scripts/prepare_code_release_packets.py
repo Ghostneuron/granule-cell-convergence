@@ -25,6 +25,10 @@ PROJECT = ROOT / "Project"
 RELEASE_ROOT = PROJECT / "release"
 VERSION = "v0.9-submission-prep"
 SLUG = "granule-cell-convergence"
+GITHUB_URL = "https://github.com/Ghostneuron/granule-cell-convergence"
+ZENODO_DOI = "10.5281/zenodo.21018501"
+ZENODO_URL = f"https://doi.org/{ZENODO_DOI}"
+ORCID = "https://orcid.org/0000-0001-6843-9720"
 GITHUB_DIR = RELEASE_ROOT / "github_packet" / SLUG
 ZENODO_DIR = RELEASE_ROOT / "zenodo_packet" / f"{SLUG}_{VERSION}"
 ZENODO_ZIP = RELEASE_ROOT / "zenodo_packet" / f"{SLUG}_{VERSION}.zip"
@@ -87,6 +91,8 @@ def write_manifest(root: Path) -> None:
     rows = []
     for path in sorted(root.rglob("*")):
         if not path.is_file():
+            continue
+        if ".git" in path.parts:
             continue
         if path.name == "included_file_manifest.tsv":
             continue
@@ -220,8 +226,8 @@ def write_release_docs(root: Path, packet_kind: str) -> None:
 
         ## Citation
 
-        Use the metadata in `CITATION.cff`; update DOI, ORCID and affiliation
-        fields before final public release.
+        Use the metadata in `CITATION.cff`. The current public records are:
+        GitHub `{GITHUB_URL}` and Zenodo `{ZENODO_URL}`.
         """,
     )
 
@@ -285,11 +291,11 @@ def write_release_docs(root: Path, packet_kind: str) -> None:
         authors:
           - family-names: Lu
             given-names: Jie
-            orcid: "ORCID-to-be-added"
+            orcid: "{ORCID}"
         version: "{VERSION}"
         date-released: "{today}"
-        repository-code: "GitHub-URL-to-be-added"
-        doi: "Zenodo-DOI-to-be-added"
+        repository-code: "{GITHUB_URL}"
+        doi: "{ZENODO_DOI}"
         keywords:
           - granule cell
           - dentate gyrus
@@ -301,13 +307,13 @@ def write_release_docs(root: Path, packet_kind: str) -> None:
     )
 
     zenodo = {
-        "title": "Granule-cell convergence analysis code",
+        "title": "Granule-cell convergence analysis code and curated manuscript outputs",
         "upload_type": "software",
         "description": (
             "Analysis scripts, manuscript-facing summary outputs, figures and supplementary table packet "
             "for a computational study of dentate and cerebellar granule-cell convergence."
         ),
-        "creators": [{"name": "Lu, Jie", "orcid": "ORCID-to-be-added"}],
+        "creators": [{"name": "Lu, Jie", "orcid": ORCID}],
         "keywords": [
             "granule cell",
             "dentate gyrus",
@@ -317,8 +323,14 @@ def write_release_docs(root: Path, packet_kind: str) -> None:
             "sparse coding",
         ],
         "version": VERSION,
-        "related_identifiers": [],
-        "notes": "Replace ORCID, GitHub URL, manuscript DOI and license metadata before final Zenodo deposition.",
+        "related_identifiers": [
+            {
+                "identifier": GITHUB_URL,
+                "relation": "isSupplementTo",
+                "scheme": "url",
+            }
+        ],
+        "notes": "License metadata should be finalized before public reuse. Raw public datasets and large intermediate matrices are not redistributed.",
     }
     (root / ".zenodo.json").write_text(json.dumps(zenodo, indent=2) + "\n", encoding="utf-8")
 
@@ -386,10 +398,10 @@ def write_release_docs(root: Path, packet_kind: str) -> None:
         """
         # Release Checklist Before Public Upload
 
-        - [ ] Replace author affiliation, email and ORCID placeholders.
+        - [ ] Replace author affiliation and email placeholders.
         - [ ] Choose a license and replace `LICENSE_PENDING.txt` with `LICENSE`.
-        - [ ] Update `CITATION.cff` with GitHub URL and Zenodo DOI.
-        - [ ] Update `.zenodo.json` with final ORCID, license and related manuscript DOI if available.
+        - [ ] Confirm `CITATION.cff` and `.zenodo.json` carry the final GitHub URL, Zenodo DOI and ORCID.
+        - [ ] Add license and related manuscript DOI metadata if available.
         - [ ] Confirm no raw data or private files are present.
         - [ ] Confirm all included files are listed in `included_file_manifest.tsv`.
         - [ ] Tag the GitHub repository, then archive the release on Zenodo.

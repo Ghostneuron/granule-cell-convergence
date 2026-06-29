@@ -1,0 +1,68 @@
+gene	panel	candidate_role	notes	human_bridge_sources_present	dentate_sources_detected_at_5pct	dentate_sources_detected_at_20pct	dentate_candidate_median_detection	dentate_candidate_max_detection	dentate_candidate_median_log1p_value	background_or_ambiguous_median_detection	broad_warning_median_detection	support_tier	dentate_vs_background_detection_delta
+Ncam1	morphogenesis_cytoskeleton	shared_structural_executor	neurite outgrowth/adhesion	3	3	3	0.90408	0.963711	1.85501	0.585313	0.87743	high_priority_shared_structural_executor	0.318767
+Mapt	morphogenesis_cytoskeleton	shared_structural_executor	axon microtubule protein	3	3	3	0.82726	0.845779	1.28884	0.202156	0.472759	high_priority_shared_structural_executor	0.625104
+Plxna4	axon_guidance_synapse	shared_structural_executor	plexin guidance receptor	3	3	3	0.82681	0.925187	1.92274	0.303264	0.632475	high_priority_shared_structural_executor	0.523546
+Dpysl2	morphogenesis_cytoskeleton	shared_structural_executor	axon guidance/cytoskeleton	3	3	3	0.776827	0.866433	1.10503	0.39511	0.736831	high_priority_shared_structural_executor	0.381718
+Cntn5	axon_guidance_synapse	shared_structural_executor	Allen CB granule subset marker/adhesion	3	3	3	0.773104	0.911245	1.82628	0.30122	0.589962	high_priority_shared_structural_executor	0.471884
+Robo2	axon_guidance_synapse	shared_structural_executor	axon guidance receptor	3	3	3	0.767616	0.808337	1.53153	0.288278	0.736159	high_priority_shared_structural_executor	0.479338
+Nrp1	axon_guidance_synapse	shared_structural_executor	semaphorin receptor component	3	3	3	0.743767	0.867519	1.46056	0.195754	0.52372	high_priority_shared_structural_executor	0.548013
+Epha4	axon_guidance_synapse	shared_structural_executor	axon guidance receptor	3	3	3	0.710722	0.826662	1.17877	0.221344	0.57695	high_priority_shared_structural_executor	0.489378
+Robo1	axon_guidance_synapse	shared_structural_executor	axon guidance receptor	3	3	3	0.687878	0.792608	1.20761	0.301948	0.721645	high_priority_shared_structural_executor	0.385931
+Plxna2	axon_guidance_synapse	shared_structural_executor	plexin guidance receptor	3	3	3	0.563316	0.662653	0.67303	0.16268	0.450034	high_priority_shared_structural_executor	0.400636
+Slit2	axon_guidance_synapse	shared_structural_executor	axon guidance ligand	3	3	3	0.539529	0.737555	0.887535	0.216183	0.515928	high_priority_shared_structural_executor	0.323345
+Stmn2	morphogenesis_cytoskeleton	shared_structural_executor	axon growth/microtubule dynamics	3	3	3	0.50109	0.539413	0.603507	0.157344	0.525557	high_priority_shared_structural_executor	0.343746
+Gap43	morphogenesis_cytoskeleton	shared_structural_executor	axon growth/plasticity	3	3	3	0.497634	0.515508	0.610148	0.164628	0.449806	high_priority_shared_structural_executor	0.333007
+Nrp2	axon_guidance_synapse	shared_structural_executor	semaphorin receptor component	3	3	3	0.47784	0.553742	0.538284	0.0922732	0.215588	high_priority_shared_structural_executor	0.385567
+Ephb1	axon_guidance_synapse	shared_structural_executor	axon guidance/synapse receptor	3	3	3	0.434763	0.474859	0.466987	0.137176	0.302133	high_priority_shared_structural_executor	0.297587
+Cfl1	morphogenesis_cytoskeleton	shared_structural_executor	actin dynamics	3	3	3	0.364289	0.3844	0.351962	0.134241	0.274093	high_priority_shared_structural_executor	0.230048
+Cdk5r1	morphogenesis_cytoskeleton	shared_structural_executor	neuronal migration and neurite outgrowth	3	3	3	0.345921	0.499331	0.394933	0.0801698	0.242951	high_priority_shared_structural_executor	0.265751
+Elavl4	morphogenesis_cytoskeleton	shared_structural_executor	neuronal RNA-binding/maturation	3	3	3	0.332745	0.411298	0.345743	0.107899	0.393631	high_priority_shared_structural_executor	0.224846
+Cntn4	axon_guidance_synapse	shared_structural_executor	neuronal adhesion/guidance	3	3	3	0.322129	0.403165	0.558148	0.165538	0.413513	high_priority_shared_structural_executor	0.156591
+Ephb2	axon_guidance_synapse	shared_structural_executor	axon guidance/synapse receptor	3	3	3	0.291863	0.313565	0.27343	0.0694814	0.277464	high_priority_shared_structural_executor	0.222382
+Stmn3	morphogenesis_cytoskeleton	shared_structural_executor	neuronal microtubule dynamics	3	3	3	0.257983	0.421877	0.271057	0.0718661	0.229065	high_priority_shared_structural_executor	0.186117
+Dpysl3	morphogenesis_cytoskeleton	shared_structural_executor	axon guidance/cytoskeleton	3	3	1	0.104771	0.254783	0.145657	0.0979602	0.16487	moderate_priority_shared_structural_executor	0.00681117
+Cntn2	morphogenesis_cytoskeleton	shared_structural_executor	axonal adhesion/guidance	3	3	1	0.0675609	0.214449	0.0663377	0.105045	0.173218	moderate_priority_shared_structural_executor	-0.0374844
+L1cam	morphogenesis_cytoskeleton	shared_structural_executor	axon growth/adhesion	3	3	0	0.12954	0.181541	0.137691	0.0309063	0.149021	moderate_priority_shared_structural_executor	0.0986341
+Cntn6	axon_guidance_synapse	shared_structural_executor	Allen DG Glut supertype marker/adhesion	3	3	0	0.0961132	0.125141	0.0961372	0.029771	0.162728	moderate_priority_shared_structural_executor	0.0663423
+Sema3a	axon_guidance_synapse	shared_structural_executor	axon/dendrite guidance ligand	3	2	0	0.0531124	0.109597	0.052423	0.026479	0.0733637	moderate_priority_shared_structural_executor	0.0266334
+Sema3f	axon_guidance_synapse	shared_structural_executor	axon guidance ligand	3	0	0	0.00251725	0.00438023	0.00203515	0.00182668	0.00404817	low_current_human_bridge_support	0.000690572
+Prox1	dentate_identity	regional_dentate_identity	strict dentate granule lineage anchor, still check cerebellar leakage	3	3	3	0.705552	0.713004	0.930639	0.133561	0.132357	dentate_identity_supported_in_human_bridge	0.571991
+Calb1	dentate_identity	regional_dentate_identity	mature dentate granule marker, also broad neuronal/calcium marker	3	3	3	0.400578	0.452084	0.474215	0.0282511	0.0647006	dentate_identity_supported_in_human_bridge	0.372327
+C1ql3	dentate_identity	regional_dentate_identity	Allen dentate glutamatergic marker	3	3	3	0.392152	0.473859	0.403017	0.0273901	0.0903585	dentate_identity_supported_in_human_bridge	0.364762
+Glis3	dentate_identity	regional_dentate_identity	Allen dentate glutamatergic TF marker	3	3	3	0.315431	0.578068	0.31776	0.124635	0.109631	dentate_identity_supported_in_human_bridge	0.190796
+Egr3	dentate_identity	regional_dentate_identity	Allen dentate glutamatergic TF marker	3	3	1	0.136456	0.240706	0.143806	0.0146649	0.0366689	dentate_identity_supported_in_human_bridge	0.121791
+Itpka	dentate_identity	regional_dentate_identity	Allen dentate glutamatergic marker	3	3	0	0.130677	0.157003	0.104262	0.012993	0.0426994	dentate_identity_supported_in_human_bridge	0.117684
+Calb2	dentate_identity	regional_dentate_identity	immature dentate/DG-PIR marker, context dependent	3	1	0	0.0153953	0.0660684	0.0276813	0.00703865	0.00979771	dentate_identity_panel_gene_needs_context	0.00835669
+Mex3a	dentate_identity	regional_dentate_identity	immature dentate-enriched marker	3	0	0	0.00582887	0.0112852	0.00790428	0.00280566	0.00399215	dentate_identity_panel_gene_needs_context	0.00302321
+Ror1	cerebellar_identity	regional_cerebellar_identity	Allen CB granule marker, validate specificity	3	3	2	0.282513	0.321399	0.314081	0.0620476	0.249436	cerebellar_identity_gene_with_human_bridge_leakage_warning	0.220465
+Etv1	cerebellar_identity	regional_cerebellar_identity	Allen CB granule TF marker, validate specificity	3	3	2	0.238175	0.239825	0.229588	0.0662766	0.42678	cerebellar_identity_gene_with_human_bridge_leakage_warning	0.171898
+Gabra6	cerebellar_identity	regional_cerebellar_identity	mature cerebellar granule marker	3	3	0	0.14397	0.167388	0.130368	0.00980062	0.168661	cerebellar_identity_gene_with_human_bridge_leakage_warning	0.134169
+Grin2c	cerebellar_identity	regional_cerebellar_identity	cerebellar granule receptor marker	3	1	0	0.0058882	0.0659468	0.0046286	0.0162087	0.0216469	clean_low_human_dentate_detection_cerebellar_identity	-0.0103205
+Zic1	cerebellar_identity	regional_cerebellar_identity	cerebellar granule TF	3	1	0	0.00418255	0.148411	0.00371907	0.0333621	0.0496528	clean_low_human_dentate_detection_cerebellar_identity	-0.0291795
+Zic2	cerebellar_identity	regional_cerebellar_identity	cerebellar granule TF	3	0	0	0.00137935	0.0356502	0.00108081	0.00953888	0.00553308	clean_low_human_dentate_detection_cerebellar_identity	-0.00815953
+Cbln3	cerebellar_identity	regional_cerebellar_identity	cerebellar granule marker	3	0	0	0.000264047	0.00130798	0.000183024	0.000484927	0.000832453	clean_low_human_dentate_detection_cerebellar_identity	-0.00022088
+Barhl2	cerebellar_identity	regional_cerebellar_identity	cerebellar granule marker	3	0	0	0.000163149	0.000456274	0.000141369	2.64809e-05	0.000866477	clean_low_human_dentate_detection_cerebellar_identity	0.000136668
+Barhl1	cerebellar_identity	regional_cerebellar_identity	cerebellar granule differentiation TF	3	0	0	0.000118654	0.000152091	7.7867e-05	3.39282e-05	0.000300405	clean_low_human_dentate_detection_cerebellar_identity	8.47257e-05
+En2	cerebellar_identity	regional_cerebellar_identity	cerebellar patterning/CB granule marker	3	0	0	8.80158e-05	0.0010038	6.90146e-05	0.000357837	0.000581658	clean_low_human_dentate_detection_cerebellar_identity	-0.000269822
+Atoh1	cerebellar_identity	regional_cerebellar_identity	cerebellar granule progenitor TF	3	0	0	1.76032e-05	4.44952e-05	1.22016e-05	1.32405e-05	0.000205465	clean_low_human_dentate_detection_cerebellar_identity	4.36268e-06
+Syt1	shared_granule_neuronal	shared_granule_neuronal_state	synaptic vesicle marker	3	3	3	0.980511	0.984738	3.36608	0.577204	0.884752	broad_shared_neuronal_state_high_detection	0.403307
+Map2	shared_granule_neuronal	shared_granule_neuronal_state	dendritic neuronal cytoskeleton	3	3	3	0.934592	0.962083	2.36839	0.564208	0.877227	broad_shared_neuronal_state_high_detection	0.370384
+Snap25	shared_granule_neuronal	shared_granule_neuronal_state	presynaptic neuronal marker	3	3	3	0.812806	0.967769	1.9185	0.415974	0.726309	broad_shared_neuronal_state_high_detection	0.396832
+St18	shared_granule_neuronal	shared_granule_neuronal_state	Allen DG/CB marker context	3	3	3	0.642973	0.710144	0.835383	0.311455	0.331602	broad_shared_neuronal_state_high_detection	0.331518
+Slc17a7	shared_granule_neuronal	shared_granule_neuronal_state	glutamatergic neuron marker	3	3	3	0.566988	0.786879	0.761066	0.137408	0.401108	broad_shared_neuronal_state_high_detection	0.429579
+Syn1	shared_granule_neuronal	shared_granule_neuronal_state	synaptic vesicle marker	3	3	3	0.353825	0.586062	0.360848	0.09364	0.296343	broad_shared_neuronal_state_high_detection	0.260185
+Neurod2	shared_granule_neuronal	shared_granule_neuronal_state	granule neuron TF	3	3	2	0.28689	0.352679	0.319164	0.0272286	0.154877	broad_shared_neuronal_state_high_detection	0.259662
+Tubb3	shared_granule_neuronal	shared_granule_neuronal_state	neuronal microtubule cytoskeleton	3	3	1	0.193795	0.203228	0.164776	0.0505387	0.137098	shared_neuronal_state_context_dependent	0.143256
+Tbr1	shared_granule_neuronal	shared_granule_neuronal_state	immature excitatory identity, not strict dentate	3	3	1	0.140806	0.232767	0.11473	0.0248135	0.0913278	shared_neuronal_state_context_dependent	0.115993
+Neurod1	shared_granule_neuronal	shared_granule_neuronal_state	granule/neurogenic differentiation TF	3	2	1	0.101414	0.237044	0.0825031	0.0148775	0.0893929	shared_neuronal_state_context_dependent	0.0865369
+Dcx	shared_granule_neuronal	shared_granule_neuronal_state	immature neuron migration/cytoskeleton	3	2	0	0.0936921	0.107042	0.116081	0.0273644	0.209655	shared_neuronal_state_context_dependent	0.0663277
+Pax6	shared_granule_neuronal	shared_granule_neuronal_state	granule lineage TF, cerebellum and neurogenic contexts	3	1	0	0.00535426	0.124502	0.00542781	0.0219426	0.0144119	shared_neuronal_state_context_dependent	-0.0165883
+Eomes	shared_granule_neuronal	shared_granule_neuronal_state	immature excitatory/neuroblast and CB subset marker	3	0	0	0.000222476	0.000760456	0.000363202	0.000107647	0.000360607	shared_neuronal_state_context_dependent	0.000114829
+Ndufa4	metabolic_proteomic_validation	supporting_metabolic_validation	mitochondrial complex marker	3	3	3	0.361094	0.498373	0.329868	0.16264	0.299782	supporting_or_contextual	0.198454
+Cox6c	metabolic_proteomic_validation	supporting_metabolic_validation	mitochondrial oxidative phosphorylation	3	3	3	0.293057	0.439392	0.252859	0.110744	0.285622	supporting_or_contextual	0.182314
+Sod1	metabolic_proteomic_validation	supporting_metabolic_validation	redox homeostasis	3	3	3	0.258995	0.36724	0.21735	0.093323	0.248719	supporting_or_contextual	0.165672
+Tubb4a	metabolic_proteomic_validation	supporting_metabolic_validation	microtubule, proteomic-relevant category	3	3	3	0.246418	0.336995	0.233572	0.111986	0.193578	supporting_or_contextual	0.134433
+Atp5f1a	metabolic_proteomic_validation	supporting_metabolic_validation	mitochondrial ATP synthase	3	3	2	0.292582	0.338677	0.249661	0.053816	0.163383	supporting_or_contextual	0.238766
+Ndufb8	metabolic_proteomic_validation	supporting_metabolic_validation	mitochondrial complex marker	3	2	2	0.328668	0.380624	0.287786	0.0668169	0.200692	supporting_or_contextual	0.261852
+Prdx2	metabolic_proteomic_validation	supporting_metabolic_validation	redox homeostasis	3	2	2	0.203133	0.264347	0.176305	0.0615526	0.117407	supporting_or_contextual	0.14158
+Prdx1	metabolic_proteomic_validation	supporting_metabolic_validation	redox homeostasis	3	3	1	0.107555	0.241825	0.0835829	0.0884307	0.12358	supporting_or_contextual	0.0191246

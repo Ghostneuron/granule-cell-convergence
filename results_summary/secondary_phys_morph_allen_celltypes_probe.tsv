@@ -1,0 +1,5 @@
+probe	query_scope	matched_rows	interpretation	cache_file
+all_celltypes_api_rows	ApiCellTypesSpecimenDetail; one-row fetch with total_rows	2333	Allen Cell Types has a large ephys/morphology/model table suitable for comparator calibration.	Project/dataset_search_cache/phys_morph/allen_celltypes_all_num1.json
+dentate_structure_name	structure__name contains dentate	0	No direct dentate Cell Types rows in this API probe.	Project/dataset_search_cache/phys_morph/allen_celltypes_dentate_probe.json
+cerebell_structure_name	structure__name contains cerebell	0	No direct cerebellar Cell Types rows in this API probe.	Project/dataset_search_cache/phys_morph/allen_celltypes_cerebell_probe.json
+DG_structure_acronym	structure__acronym contains DG	0	No dentate-gyrus acronym matches in this API probe.	Project/dataset_search_cache/phys_morph/allen_celltypes_dg_acronym_probe.json

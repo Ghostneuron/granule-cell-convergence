@@ -1,0 +1,11 @@
+hierarchy_level	term_symbol	term	n_evidence_units	total_weight	weighted_mean_score	median_normalized_score	fraction_positive_units	support_class	quality_classes
+branch_context	N	NicheSignal	20	14.600000000000001	0.27654882708694084	0.6470588235294117	0.6	weak_or_mixed_support	expression_pathway_model;expression_sender_receiver_model
+branch_stage	T	Stage/Pseudotime	8	5.0	0.45148055555555555	0.6238888888888889	0.875	moderate_support	stage_branch_model;stage_branch_model_limited
+epigenomic_sensitivity	E	EpigenomicCompatibility	263	114.9	0.3283388346332508	0.203099110956228	1.0	moderate_support	provisional_epigenomic_robust_positive
+external_calibration	A	ActivitySparsity	5	2.75	0.7752043194234429	0.8986612257777995	1.0	strong_support	external_activity_calibration
+external_calibration	M	MorphologySparseSampling	7	4.2	0.7565548899636176	0.7902069603422361	1.0	strong_support	external_morphology_calibration
+sample_contrast	C	ConstructionBalance	63	56.699999999999996	0.08531746031746035	0.0	0.4126984126984127	weak_or_mixed_support	direct_primary_core
+sample_contrast	F	FatePolarity	63	56.699999999999996	0.3968253968253968	0.4166666666666667	0.9523809523809523	moderate_support	direct_primary_core
+sample_contrast	I	ConfigurationCoupling	63	50.39999999999998	0.5238095238095241	0.25	0.9523809523809523	moderate_support	direct_primary_core_decomposition
+sample_contrast	Y	GranuleDesign	63	63.0	0.4001322751322752	0.4166666666666667	0.8253968253968254	moderate_support	direct_primary_core
+simulation_calibration	R	CircuitResourceConstraint	5	3.0	0.84	0.8	1.0	strong_support	computational_simulation

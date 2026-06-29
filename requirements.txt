@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+h5py
+python-docx
+openpyxl
+requests

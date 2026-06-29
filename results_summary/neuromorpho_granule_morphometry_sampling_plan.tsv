@@ -1,0 +1,5 @@
+sampling_group	query_total	query_total_pages	selected_pages	metadata_rows
+DG_mouse_sample	7649	153	0,38,76,114,152	249
+DG_rat_sample	1532	31	0,8,15,22,30	232
+DG_human_all	77	2	0,1	77
+CB_all_species_all	62	2	0,1	62

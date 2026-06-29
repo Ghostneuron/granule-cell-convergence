@@ -1,0 +1,73 @@
+panel	gene	notes
+dentate_identity	Prox1	dentate granule lineage TF
+dentate_identity	Tbr1	DG-PIR/immature excitatory identity
+dentate_identity	Mex3a	immature DG marker
+dentate_identity	Neurod1	granule/neurogenic differentiation TF
+dentate_identity	Neurod2	granule neuron TF
+dentate_identity	C1ql3	Allen DG Glut marker
+dentate_identity	Itpka	Allen DG Glut marker
+dentate_identity	Glis3	Allen DG Glut TF marker
+dentate_identity	Egr3	Allen DG Glut TF marker
+dentate_identity	Calb1	mature dentate granule marker
+dentate_identity	Calb2	immature DG/DG-PIR marker
+dentate_identity	Dcx	immature neuron/neuroblast marker
+cerebellar_identity	Atoh1	cerebellar granule progenitor TF
+cerebellar_identity	Pax6	cerebellar granule lineage TF
+cerebellar_identity	Zic1	cerebellar granule TF
+cerebellar_identity	Zic2	cerebellar granule TF
+cerebellar_identity	Barhl1	cerebellar granule differentiation TF
+cerebellar_identity	Barhl2	cerebellar granule marker
+cerebellar_identity	Gabra6	mature cerebellar granule marker
+cerebellar_identity	Ror1	Allen CB Granule marker
+cerebellar_identity	Etv1	Allen CB Granule TF marker
+cerebellar_identity	Cbln3	cerebellar granule marker
+cerebellar_identity	Grin2c	cerebellar granule receptor marker
+cerebellar_identity	En2	cerebellar patterning/CB granule marker
+shared_granule_neuronal	Neurod1	granule/neurogenic differentiation TF
+shared_granule_neuronal	Neurod2	granule neuron TF
+shared_granule_neuronal	Pax6	granule lineage TF, cerebellum and neurogenic contexts
+shared_granule_neuronal	Eomes	immature excitatory/neuroblast and CB subset marker
+shared_granule_neuronal	St18	Allen DG/CB marker context
+shared_granule_neuronal	Slc17a7	glutamatergic neuron marker
+shared_granule_neuronal	Snap25	presynaptic neuronal marker
+shared_granule_neuronal	Syt1	synaptic vesicle marker
+shared_granule_neuronal	Syn1	synaptic vesicle marker
+shared_granule_neuronal	Map2	dendritic neuronal cytoskeleton
+shared_granule_neuronal	Tubb3	neuronal microtubule cytoskeleton
+shared_granule_neuronal	Dcx	immature neuron migration/cytoskeleton
+morphogenesis_cytoskeleton	Gap43	axon growth/plasticity
+morphogenesis_cytoskeleton	Stmn2	axon growth/microtubule dynamics
+morphogenesis_cytoskeleton	Stmn3	neuronal microtubule dynamics
+morphogenesis_cytoskeleton	Dpysl2	axon guidance/cytoskeleton
+morphogenesis_cytoskeleton	Dpysl3	axon guidance/cytoskeleton
+morphogenesis_cytoskeleton	Ncam1	neurite outgrowth/adhesion
+morphogenesis_cytoskeleton	L1cam	axon growth/adhesion
+morphogenesis_cytoskeleton	Cntn2	axonal adhesion/guidance
+morphogenesis_cytoskeleton	Elavl4	neuronal RNA-binding/maturation
+morphogenesis_cytoskeleton	Tau	axon microtubule protein, human symbol MAPT may appear in human data
+morphogenesis_cytoskeleton	Mapt	axon microtubule protein
+morphogenesis_cytoskeleton	Cdk5r1	neuronal migration and neurite outgrowth
+morphogenesis_cytoskeleton	Cfl1	actin dynamics
+axon_guidance_synapse	Sema3a	axon/dendrite guidance ligand
+axon_guidance_synapse	Sema3f	axon guidance ligand
+axon_guidance_synapse	Plxna2	plexin guidance receptor
+axon_guidance_synapse	Plxna4	plexin guidance receptor
+axon_guidance_synapse	Nrp1	semaphorin receptor component
+axon_guidance_synapse	Nrp2	semaphorin receptor component
+axon_guidance_synapse	Robo1	axon guidance receptor
+axon_guidance_synapse	Robo2	axon guidance receptor
+axon_guidance_synapse	Slit2	axon guidance ligand
+axon_guidance_synapse	Epha4	axon guidance receptor
+axon_guidance_synapse	Ephb1	axon guidance/synapse receptor
+axon_guidance_synapse	Ephb2	axon guidance/synapse receptor
+axon_guidance_synapse	Cntn4	neuronal adhesion/guidance
+axon_guidance_synapse	Cntn5	Allen CB granule subset marker/adhesion
+axon_guidance_synapse	Cntn6	Allen DG Glut supertype marker/adhesion
+metabolic_proteomic_validation	Ndufa4	mitochondrial complex marker
+metabolic_proteomic_validation	Ndufb8	mitochondrial complex marker
+metabolic_proteomic_validation	Cox6c	mitochondrial oxidative phosphorylation
+metabolic_proteomic_validation	Atp5f1a	mitochondrial ATP synthase
+metabolic_proteomic_validation	Prdx1	redox homeostasis
+metabolic_proteomic_validation	Prdx2	redox homeostasis
+metabolic_proteomic_validation	Sod1	redox homeostasis
+metabolic_proteomic_validation	Tubb4a	microtubule, proteomic-relevant category

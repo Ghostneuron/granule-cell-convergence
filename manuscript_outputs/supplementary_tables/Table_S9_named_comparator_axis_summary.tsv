@@ -1,0 +1,5 @@
+mechanism_axis	mechanism_axis_label	dentate_granule_median_rank	pyramidal_comparator_median_rank	cerebellar_granule_median_rank	purkinje_comparator_median_rank	dentate_vs_pyramidal_rank_delta	cerebellar_vs_purkinje_rank_delta	granule_min_rank	comparator_max_rank	granule_specificity_index	specificity_call
+developmental_regulatory_control	Developmental regulatory	0.71875	0.75	0.8125	0.1875	-0.03125	0.625	0.71875	0.75	-0.03125	cerebellar_granule_enriched_but_not_dentate_vs_pyramidal
+neurite_cytoskeleton_morphogenesis	Neurite/cytoskeleton	0.6041666666666667	0.9375	0.8125	0.875	-0.33333333333333326	-0.0625	0.6041666666666667	0.9375	-0.33333333333333326	not_granule_specific_vs_named_comparators
+axon_guidance_adhesion	Axon guidance/adhesion	0.3958333333333333	0.9270833333333333	0.75	1.0	-0.53125	-0.25	0.3958333333333333	1.0	-0.6041666666666667	not_granule_specific_vs_named_comparators
+synaptic_excitability_maturation	Synaptic/excitability	0.875	0.9375	0.8125	1.0	-0.0625	-0.1875	0.8125	1.0	-0.1875	not_granule_specific_vs_named_comparators

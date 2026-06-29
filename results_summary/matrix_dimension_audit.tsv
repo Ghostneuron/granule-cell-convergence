@@ -1,0 +1,16 @@
+dataset	sample	format	source_path	features_or_genes	observations	nonzero_entries	notes
+GSE104323	10X_all_cells	wide_gene_by_observation_table	External_Data/GEO/GSE104323/GSE104323_10X_expression_data_V2.tab.gz	27933	24185		
+GSE95752	C1_all_cells	wide_gene_by_observation_table	External_Data/GEO/GSE95752/GSE95752_C1_expression_data.tab.gz	16313	2303		
+GSE214905	patch_RNA_QC_counts	wide_gene_by_observation_table	External_Data/GEO/GSE214905/GSE214905_Data-counts.tsv.gz	22962	95		
+GSE214309	snRNA_counts	wide_gene_by_observation_table	External_Data/GEO/GSE214309/GSE214309_counts.txt.gz	46615	401		comma_delimited;ensembl_gene_ids
+GSE292261	SS2_filtered_counts	wide_observation_by_gene_table	External_Data/GEO/GSE292261/GSE292261_counts_SS2_filtered_raw.csv.gz	13101	509		cell_by_gene_orientation
+GSE165657	Cerebellum_aggr	10x_matrix_market	External_Data/GEO/GSE165657/GSE165657_Cerebellum_aggr_matrix.mtx.gz	32738	73550	108932951	features_lines=32738;barcodes_lines=73550
+GSE312658	Ctrl	10x_matrix_market	External_Data/GEO/GSE312658/GSM9350909_Ctrl_matrix.mtx.gz	32285	4857	10340803	features_lines=32285;barcodes_lines=4857
+GSE312658	cKO	10x_matrix_market	External_Data/GEO/GSE312658/GSM9350910_cKO_matrix.mtx.gz	32285	6946	15633030	features_lines=32285;barcodes_lines=6946
+GSE150153	NAY6153A1_125	10x_matrix_market	External_Data/GEO/GSE150153/GSM4524697_NAY6153A1_125_matrix.mtx.gz	33694	1189	4656369	features_lines=33694;barcodes_lines=1189
+GSE150153	NAY6153A2_678	10x_matrix_market	External_Data/GEO/GSE150153/GSM4524699_NAY6153A2_678_matrix.mtx.gz	33694	1323	5147224	features_lines=33694;barcodes_lines=1323
+GSE122357	GSM3464549_P0	wide_gene_by_observation_table	External_Data/GEO/GSE122357/GSE122357_RAW.tar:GSM3464549_P0.csv.gz	16963	7468		inside_tar
+GSE122357	GSM3464550_P8a	wide_gene_by_observation_table	External_Data/GEO/GSE122357/GSE122357_RAW.tar:GSM3464550_P8a.csv.gz	17313	6088		inside_tar
+GSE122357	GSM3464551_P8b	wide_gene_by_observation_table	External_Data/GEO/GSE122357/GSE122357_RAW.tar:GSM3464551_P8b.csv.gz	17321	8168		inside_tar
+GSE242688	GSM7767079_WT_ZT12_rep1	10x_matrix_market_spatial	External_Data/Proteomics/GSE242688/GSE242688_RAW.tar:GSM7767079_WT_ZT12_rep1_matrix.mtx.gz	32285	3167	16052041	inside_tar;10x_visium_spatial
+GSE242688	GSM7767080_WT_ZT12_rep2	10x_matrix_market_spatial	External_Data/Proteomics/GSE242688/GSE242688_RAW.tar:GSM7767080_WT_ZT12_rep2_matrix.mtx.gz	32285	2533	14653699	inside_tar;10x_visium_spatial

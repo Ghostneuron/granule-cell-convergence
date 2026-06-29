@@ -1,0 +1,5 @@
+No public reuse license has been selected yet.
+
+Before uploading this packet to GitHub or Zenodo, choose and add a real
+license file. Common choices for analysis code include MIT, BSD-3-Clause,
+Apache-2.0 or GPL-3.0. Data/table reuse can be licensed separately if desired.

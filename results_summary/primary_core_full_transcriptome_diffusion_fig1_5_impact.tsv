@@ -1,0 +1,6 @@
+figure	current_result	trajectory_effect	recommended_action	basis
+Figure 1	primary-core design and convergence hypothesis	no structural change	Add note that trajectory support is now available as an Aim 2 refinement.	10 primary datasets processed in trajectory layer.
+Figure 2	ortholog candidate tiers	candidate tiers unchanged for now	Do not rerank genes until trajectory-aware gene tests are built; use module overlays as supporting evidence.	The diffusion layer tests module timing, not gene-level tier statistics.
+Figure 3	specificity/niche/circuit model	refines interpretation	Mention that downstream modules are stage-windowed and not uniquely granule-specific.	median neurite-morphology rho across key trajectory datasets = 0.064.
+Figure 4	transcriptomic configuration model	strengthens but makes it stage-aware	Add a trajectory panel or caption sentence that configuration is identity-coupled and maturation-window dependent.	median neuronal-maturation rho across developmental anchors = 0.284.
+Figure 5	final Aim2/Aim3 model	should be revised/expanded	Add pseudotime as an explicit layer between regional fate/niche and terminal morphology.	median TGF/SMAD trajectory rho across selected anchors = 0.010.

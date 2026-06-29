@@ -1,0 +1,2 @@
+matrix_path	file_exists	actual_bytes	matrix_market_header	n_rows	n_cols	n_nonzero_entries	header_read_error	n_features_file	n_barcodes_file	rows_match_features	cols_match_barcodes
+External_Data/GEO/GSE268609/GSE268609_matrix.mtx.gz	True	4573344069	%%MatrixMarket matrix coordinate integer general	177931	366175	1451618555		177931	366175	True	True

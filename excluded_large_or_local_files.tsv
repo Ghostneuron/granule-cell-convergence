@@ -1,0 +1,38 @@
+path	reason
+Project/processed	Excluded from code release: raw/processed/cache/render-QA material; regenerate or download via manifests.
+Project/dataset_search_cache	Excluded from code release: raw/processed/cache/render-QA material; regenerate or download via manifests.
+Project/manuscript/render_QA	Excluded from code release: raw/processed/cache/render-QA material; regenerate or download via manifests.
+Project/dataset_search_cache/causal_perturbation/GSE84786_gene_exp.xls	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/gse268609_rna_selected/cell_metadata.tsv.gz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/gse268609_rna_selected/matrix_cells_by_selected_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/gse325391_adult_dg_selected/matrix_cells_by_selected_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/gse325391_adult_dg_selected/selected_present_genes_csc_i_int32.bin	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/gse325391_adult_dg_selected/selected_present_genes_csc_x_float64.bin	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_core_normalized_reduced_object/X_log1p_cp10k_selected_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_core_normalized_reduced_object/obs.tsv.gz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_dg_taxonomy_sparse_objects/GSE186538/DG_GC_candidates/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185277/GSM5609934_sample1_humanHippocampus_1_lib1/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185277/GSM5609934_sample1_humanHippocampus_1_lib2/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185277/GSM5610939_GEO_Sample9_seq1BC79_S4/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185277/GSM5610940_GEO_sample13_HCT15HBW_seq12BC82_S7/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185277/GSM5610941_sample15_BC80_S5/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185553/GSM5618237_GEO_sample7_4yrs_plate1_seq12BC80_S5/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185553/GSM5618237_GEO_sample7_4yrs_plate2_seq12BC81_S6/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185553/GSM5618238_Sample16_B1_lib1/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185553/GSM5618238_Sample16_B1_lib2/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185553/GSM5618238_Sample39_B1_lib1/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185553/GSM5618238_Sample39_lib2/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185553/GSM5618240_Sample17/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/processed/human_seed_sparse_objects/GSE185553/GSM5618240_Sample18/matrix_cells_by_genes.npz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/results/gse268609_human_core_label_projection.tsv.gz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/results/gse325391_human_core_label_projection.tsv.gz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/results/human_core_marker_validation_scores.tsv.gz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/results/human_core_normalized_svd_embedding.tsv.gz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/results/human_core_tuned_labels.tsv.gz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/results/primary_core_expanded_gene_pseudobulk_expression.tsv.gz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/results/primary_core_genomewide_symbol_pseudobulk_expression.tsv.gz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/results/primary_core_mgi_ortholog_expanded_meta_model_unit_deltas.tsv.gz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/results/primary_core_mgi_ortholog_formal_rank_branch_tests.tsv	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/results/primary_core_mgi_ortholog_formal_rank_gene_summary.tsv	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/results/primary_core_mgi_ortholog_full_matrix_expression.tsv.gz	Large local file excluded unless represented by supplementary table archive or figure output.
+Project/results/primary_core_mgi_ortholog_meta_model_unit_deltas.tsv.gz	Large local file excluded unless represented by supplementary table archive or figure output.

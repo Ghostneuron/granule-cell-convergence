@@ -1,0 +1,10 @@
+target_source	model_term_supported	priority	n_rows	n_unique_genes	n_gse268609_gene_expression_present	n_regulatory_candidates
+developmental_origin_module	EpigenomicCompatibility	medium	32	28	32	2
+developmental_origin_module	FatePolarity	medium_high	62	52	62	39
+manuscript_candidate_tier	ConstructionBalance	high	9	9	9	0
+manuscript_candidate_tier	ConstructionBalance	highest	6	6	6	3
+manuscript_candidate_tier	ConstructionBalance	medium	46	46	45	3
+manuscript_candidate_tier	ConstructionBalance	medium_high	5	5	5	1
+niche_circuit_module	ConstructionBalance	high	41	41	41	0
+niche_circuit_module	FatePolarity	high	30	30	30	22
+niche_circuit_module	NicheSignal	high	21	21	21	5

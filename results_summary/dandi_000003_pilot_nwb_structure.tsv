@@ -1,0 +1,196 @@
+path	kind	shape	dtype
+/acquisition	group		
+/acquisition/ch_SsolL	group		
+/acquisition/ch_SsolL/data	dataset	(21312875,)	int16
+/acquisition/ch_SsolL/starting_time	dataset	()	float64
+/acquisition/ch_SsolR	group		
+/acquisition/ch_SsolR/data	dataset	(21312875,)	int16
+/acquisition/ch_SsolR/starting_time	dataset	()	float64
+/acquisition/ch_arm	group		
+/acquisition/ch_arm/data	dataset	(21312875,)	int16
+/acquisition/ch_arm/starting_time	dataset	()	float64
+/acquisition/ch_dig1	group		
+/acquisition/ch_dig1/data	dataset	(21312875,)	int16
+/acquisition/ch_dig1/starting_time	dataset	()	float64
+/acquisition/ch_dig2	group		
+/acquisition/ch_dig2/data	dataset	(21312875,)	int16
+/acquisition/ch_dig2/starting_time	dataset	()	float64
+/acquisition/ch_entL	group		
+/acquisition/ch_entL/data	dataset	(21312875,)	int16
+/acquisition/ch_entL/starting_time	dataset	()	float64
+/acquisition/ch_entR	group		
+/acquisition/ch_entR/data	dataset	(21312875,)	int16
+/acquisition/ch_entR/starting_time	dataset	()	float64
+/acquisition/ch_solL	group		
+/acquisition/ch_solL/data	dataset	(21312875,)	int16
+/acquisition/ch_solL/starting_time	dataset	()	float64
+/acquisition/ch_solR	group		
+/acquisition/ch_solR/data	dataset	(21312875,)	int16
+/acquisition/ch_solR/starting_time	dataset	()	float64
+/acquisition/ch_wait	group		
+/acquisition/ch_wait/data	dataset	(21312875,)	int16
+/acquisition/ch_wait/starting_time	dataset	()	float64
+/acquisition/position_sensor0	group		
+/acquisition/position_sensor0/data	dataset	(666029, 2)	float64
+/acquisition/position_sensor0/reference_frame	dataset	()	object
+/acquisition/position_sensor0/starting_time	dataset	()	float64
+/acquisition/position_sensor1	group		
+/acquisition/position_sensor1/data	dataset	(666029, 2)	float64
+/acquisition/position_sensor1/reference_frame	dataset	()	object
+/acquisition/position_sensor1/starting_time	dataset	()	float64
+/analysis	group		
+/file_create_date	dataset	(1,)	object
+/general	group		
+/general/devices	group		
+/general/devices/Device	group		
+/general/devices/Implant	group		
+/general/experimenter	dataset	(1,)	object
+/general/extracellular_ephys	group		
+/general/extracellular_ephys/electrodes	group		
+/general/extracellular_ephys/electrodes/filtering	dataset	(64,)	object
+/general/extracellular_ephys/electrodes/group	dataset	(64,)	object
+/general/extracellular_ephys/electrodes/group_name	dataset	(64,)	object
+/general/extracellular_ephys/electrodes/id	dataset	(64,)	int64
+/general/extracellular_ephys/electrodes/imp	dataset	(64,)	float64
+/general/extracellular_ephys/electrodes/location	dataset	(64,)	object
+/general/extracellular_ephys/electrodes/shank_electrode_number	dataset	(64,)	int64
+/general/extracellular_ephys/electrodes/theta_reference	dataset	(64,)	bool
+/general/extracellular_ephys/electrodes/x	dataset	(64,)	float64
+/general/extracellular_ephys/electrodes/y	dataset	(64,)	float64
+/general/extracellular_ephys/electrodes/z	dataset	(64,)	float64
+/general/extracellular_ephys/shank1	group		
+/general/extracellular_ephys/shank2	group		
+/general/extracellular_ephys/shank3	group		
+/general/extracellular_ephys/shank4	group		
+/general/extracellular_ephys/shank5	group		
+/general/extracellular_ephys/shank6	group		
+/general/extracellular_ephys/shank7	group		
+/general/extracellular_ephys/shank8	group		
+/general/institution	dataset	()	object
+/general/lab	dataset	()	object
+/general/related_publications	dataset	(1,)	object
+/general/session_id	dataset	()	object
+/general/subject	group		
+/general/subject/age	dataset	()	object
+/general/subject/genotype	dataset	()	object
+/general/subject/species	dataset	()	object
+/general/subject/subject_id	dataset	()	object
+/identifier	dataset	()	object
+/processing	group		
+/processing/behavior	group		
+/processing/behavior/states	group		
+/processing/behavior/states/id	dataset	(40,)	int64
+/processing/behavior/states/label	dataset	(40,)	object
+/processing/behavior/states/start_time	dataset	(40,)	float32
+/processing/behavior/states/stop_time	dataset	(40,)	float32
+/processing/ecephys	group		
+/processing/ecephys/LFP	group		
+/processing/ecephys/LFP/LFP	group		
+/processing/ecephys/LFP/LFP/data	dataset	(21312875, 64)	int16
+/processing/ecephys/LFP/LFP/electrodes	dataset	(64,)	int64
+/processing/ecephys/LFP/LFP/starting_time	dataset	()	float64
+/session_description	dataset	()	object
+/session_start_time	dataset	()	object
+/specifications	group		
+/specifications/core	group		
+/specifications/core/2.2.5	group		
+/specifications/core/2.2.5/namespace	dataset	()	object
+/specifications/core/2.2.5/nwb.base	dataset	()	object
+/specifications/core/2.2.5/nwb.behavior	dataset	()	object
+/specifications/core/2.2.5/nwb.device	dataset	()	object
+/specifications/core/2.2.5/nwb.ecephys	dataset	()	object
+/specifications/core/2.2.5/nwb.epoch	dataset	()	object
+/specifications/core/2.2.5/nwb.file	dataset	()	object
+/specifications/core/2.2.5/nwb.icephys	dataset	()	object
+/specifications/core/2.2.5/nwb.image	dataset	()	object
+/specifications/core/2.2.5/nwb.misc	dataset	()	object
+/specifications/core/2.2.5/nwb.ogen	dataset	()	object
+/specifications/core/2.2.5/nwb.ophys	dataset	()	object
+/specifications/core/2.2.5/nwb.retinotopy	dataset	()	object
+/specifications/hdmf-common	group		
+/specifications/hdmf-common/1.3.0	group		
+/specifications/hdmf-common/1.3.0/base	dataset	()	object
+/specifications/hdmf-common/1.3.0/namespace	dataset	()	object
+/specifications/hdmf-common/1.3.0/resources	dataset	()	object
+/specifications/hdmf-common/1.3.0/sparse	dataset	()	object
+/specifications/hdmf-common/1.3.0/table	dataset	()	object
+/stimulus	group		
+/stimulus/presentation	group		
+/stimulus/presentation/DS1.ch0	group		
+/stimulus/presentation/DS1.ch0/data	dataset	(6315,)	object
+/stimulus/presentation/DS1.ch0/timestamps	dataset	(6315,)	float64
+/stimulus/presentation/DS2.ch0	group		
+/stimulus/presentation/DS2.ch0/data	dataset	(46869,)	object
+/stimulus/presentation/DS2.ch0/timestamps	dataset	(46869,)	float64
+/stimulus/presentation/PulseStim_2.3V_200ms_LD1	group		
+/stimulus/presentation/PulseStim_2.3V_200ms_LD1/data	dataset	(50,)	object
+/stimulus/presentation/PulseStim_2.3V_200ms_LD1/timestamps	dataset	(50,)	float64
+/stimulus/presentation/PulseStim_2.3V_200ms_LD2	group		
+/stimulus/presentation/PulseStim_2.3V_200ms_LD2/data	dataset	(50,)	object
+/stimulus/presentation/PulseStim_2.3V_200ms_LD2/timestamps	dataset	(50,)	float64
+/stimulus/presentation/PulseStim_2.5V_1000ms_LD1200	group		
+/stimulus/presentation/PulseStim_2.5V_1000ms_LD1200/data	dataset	(25,)	object
+/stimulus/presentation/PulseStim_2.5V_1000ms_LD1200/timestamps	dataset	(25,)	float64
+/stimulus/presentation/PulseStim_2.5V_10ms_LD12	group		
+/stimulus/presentation/PulseStim_2.5V_10ms_LD12/data	dataset	(1600,)	object
+/stimulus/presentation/PulseStim_2.5V_10ms_LD12/timestamps	dataset	(1600,)	float64
+/stimulus/presentation/PulseStim_2.5V_200ms_LD1	group		
+/stimulus/presentation/PulseStim_2.5V_200ms_LD1/data	dataset	(50,)	object
+/stimulus/presentation/PulseStim_2.5V_200ms_LD1/timestamps	dataset	(50,)	float64
+/stimulus/presentation/PulseStim_2.5V_200ms_LD2	group		
+/stimulus/presentation/PulseStim_2.5V_200ms_LD2/data	dataset	(50,)	object
+/stimulus/presentation/PulseStim_2.5V_200ms_LD2/timestamps	dataset	(50,)	float64
+/stimulus/presentation/PulseStim_3.5V_1000ms_LD1200	group		
+/stimulus/presentation/PulseStim_3.5V_1000ms_LD1200/data	dataset	(25,)	object
+/stimulus/presentation/PulseStim_3.5V_1000ms_LD1200/timestamps	dataset	(25,)	float64
+/stimulus/presentation/PulseStim_3.5V_10ms_LD12	group		
+/stimulus/presentation/PulseStim_3.5V_10ms_LD12/data	dataset	(1600,)	object
+/stimulus/presentation/PulseStim_3.5V_10ms_LD12/timestamps	dataset	(1600,)	float64
+/stimulus/presentation/PulseStim_3.5V_200ms_LD1	group		
+/stimulus/presentation/PulseStim_3.5V_200ms_LD1/data	dataset	(50,)	object
+/stimulus/presentation/PulseStim_3.5V_200ms_LD1/timestamps	dataset	(50,)	float64
+/stimulus/presentation/PulseStim_3.5V_200ms_LD2	group		
+/stimulus/presentation/PulseStim_3.5V_200ms_LD2/data	dataset	(50,)	object
+/stimulus/presentation/PulseStim_3.5V_200ms_LD2/timestamps	dataset	(50,)	float64
+/stimulus/presentation/PulseStim_3V_200ms_LD1	group		
+/stimulus/presentation/PulseStim_3V_200ms_LD1/data	dataset	(50,)	object
+/stimulus/presentation/PulseStim_3V_200ms_LD1/timestamps	dataset	(50,)	float64
+/stimulus/presentation/PulseStim_3V_200ms_LD2	group		
+/stimulus/presentation/PulseStim_3V_200ms_LD2/data	dataset	(50,)	object
+/stimulus/presentation/PulseStim_3V_200ms_LD2/timestamps	dataset	(50,)	float64
+/stimulus/presentation/PulseStim_5V_1000ms_LD12	group		
+/stimulus/presentation/PulseStim_5V_1000ms_LD12/data	dataset	(2628,)	object
+/stimulus/presentation/PulseStim_5V_1000ms_LD12/timestamps	dataset	(2628,)	float64
+/stimulus/presentation/PulseStim_5V_1000ms_LD1200	group		
+/stimulus/presentation/PulseStim_5V_1000ms_LD1200/data	dataset	(24,)	object
+/stimulus/presentation/PulseStim_5V_1000ms_LD1200/timestamps	dataset	(24,)	float64
+/stimulus/presentation/PulseStim_5V_10ms_LD12	group		
+/stimulus/presentation/PulseStim_5V_10ms_LD12/data	dataset	(1600,)	object
+/stimulus/presentation/PulseStim_5V_10ms_LD12/timestamps	dataset	(1600,)	float64
+/stimulus/presentation/PulseStim_5V_1ms_LD12	group		
+/stimulus/presentation/PulseStim_5V_1ms_LD12/data	dataset	(1875,)	object
+/stimulus/presentation/PulseStim_5V_1ms_LD12/timestamps	dataset	(1875,)	float64
+/stimulus/presentation/PulseStim_5V_2000ms_LD120	group		
+/stimulus/presentation/PulseStim_5V_2000ms_LD120/data	dataset	(25,)	object
+/stimulus/presentation/PulseStim_5V_2000ms_LD120/timestamps	dataset	(25,)	float64
+/stimulus/presentation/PulseStim_5V_200ms_LD1	group		
+/stimulus/presentation/PulseStim_5V_200ms_LD1/data	dataset	(50,)	object
+/stimulus/presentation/PulseStim_5V_200ms_LD1/timestamps	dataset	(50,)	float64
+/stimulus/presentation/PulseStim_5V_200ms_LD2	group		
+/stimulus/presentation/PulseStim_5V_200ms_LD2/data	dataset	(50,)	object
+/stimulus/presentation/PulseStim_5V_200ms_LD2/timestamps	dataset	(50,)	float64
+/stimulus/presentation/PulseStim_5V_50ms_LD12	group		
+/stimulus/presentation/PulseStim_5V_50ms_LD12/data	dataset	(200,)	object
+/stimulus/presentation/PulseStim_5V_50ms_LD12/timestamps	dataset	(200,)	float64
+/stimulus/templates	group		
+/timestamps_reference_time	dataset	()	object
+/units	group		
+/units/cell_type	dataset	(23,)	object
+/units/global_id	dataset	(23,)	uint16
+/units/id	dataset	(23,)	int64
+/units/shank_id	dataset	(23,)	int64
+/units/spike_times	dataset	(953531,)	float64
+/units/spike_times_index	dataset	(23,)	uint32
+/units/waveforms	dataset	(7628248, 32)	float64
+/units/waveforms_index	dataset	(953531,)	uint32
+/units/waveforms_index_index	dataset	(23,)	uint32

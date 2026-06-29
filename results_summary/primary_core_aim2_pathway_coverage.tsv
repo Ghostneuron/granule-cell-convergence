@@ -1,0 +1,19 @@
+expression_layer	pathway_id	pathway_label	pathway_family	n_defined_genes	n_present_genes	present_genes	missing_genes
+full_mgi_ortholog_matrix	tgf_beta_smad	TGF-beta/SMAD	differentiation_stop	15	15	ID1,ID2,ID3,SERPINE1,SMAD2,SMAD3,SMAD4,SMAD7,TGFB1,TGFB2,TGFB3,TGFBI,TGFBR1,TGFBR2,TGFBR3	
+full_mgi_ortholog_matrix	bdnf_trkb_mapk	BDNF/TrkB/MAPK	differentiation_stop	18	18	BDNF,CREB1,DUSP6,EGR1,ELK1,FOS,GRB2,JUN,MAP2K1,MAPK1,MAPK14,MAPK3,NGFR,NTRK2,RAF1,SHC1,SORT1,SOS1	
+full_mgi_ortholog_matrix	bmp_smad	BMP/SMAD	differentiation_stop	15	15	ACVR1,BMP2,BMP4,BMP7,BMPR1A,BMPR1B,BMPR2,ID1,ID2,ID3,ID4,NOG,SMAD1,SMAD5,SMAD9	
+full_mgi_ortholog_matrix	reelin_migration_stop	Reelin/migration-stop	differentiation_stop	10	10	CDK5,CDK5R1,CRK,CRKL,DAB1,LRP8,PAFAH1B1,RAP1A,RELN,VLDLR	
+full_mgi_ortholog_matrix	semaphorin_guidance	Semaphorin/plexin guidance	differentiation_stop	17	17	NRP1,NRP2,PLXNA1,PLXNA2,PLXNA3,PLXNA4,PLXNB1,PLXNC1,RAC1,RHOA,SEMA3A,SEMA3C,SEMA3E,SEMA5A,SEMA6A,SEMA6D,SEMA7A	
+full_mgi_ortholog_matrix	shh_granule_expansion	SHH/PTCH/GLI	progenitor_expansion_or_regional_fate	10	10	ATOH1,GLI1,GLI2,GLI3,HHIP,MYCN,PTCH1,PTCH2,SHH,SMO	
+full_mgi_ortholog_matrix	wnt_beta_catenin	WNT/beta-catenin	neurogenic_permissive	16	16	AXIN2,CTNNB1,DKK1,DKK3,FZD1,FZD3,FZD5,FZD7,LEF1,LRP5,LRP6,TCF7L2,WNT3A,WNT5A,WNT7A,WNT7B	
+full_mgi_ortholog_matrix	fgf_mapk	FGF/MAPK	neurogenic_permissive	17	17	ETV4,ETV5,FGF10,FGF17,FGF2,FGF8,FGF9,FGFR1,FGFR2,FGFR3,FRS2,MAP2K1,MAPK1,MAPK3,SPRY1,SPRY2,SPRY4	
+full_mgi_ortholog_matrix	notch_hes	Notch/HES	neurogenic_permissive	14	14	DLL1,DLL3,DLL4,HES1,HES5,HEY1,HEY2,JAG1,JAG2,LFNG,NOTCH1,NOTCH2,NOTCH3,RBPJ	
+selected_feature_matrix	tgf_beta_smad	TGF-beta/SMAD	differentiation_stop	15	1	SMAD3	ID1,ID2,ID3,SERPINE1,SMAD2,SMAD4,SMAD7,TGFB1,TGFB2,TGFB3,TGFBI,TGFBR1,TGFBR2,TGFBR3
+selected_feature_matrix	bdnf_trkb_mapk	BDNF/TrkB/MAPK	differentiation_stop	18	7	BDNF,GRB2,MAP2K1,MAPK1,NTRK2,SORT1,SOS1	CREB1,DUSP6,EGR1,ELK1,FOS,JUN,MAPK14,MAPK3,NGFR,RAF1,SHC1
+selected_feature_matrix	bmp_smad	BMP/SMAD	differentiation_stop	15	3	ACVR1,BMPR1A,BMPR2	BMP2,BMP4,BMP7,BMPR1B,ID1,ID2,ID3,ID4,NOG,SMAD1,SMAD5,SMAD9
+selected_feature_matrix	reelin_migration_stop	Reelin/migration-stop	differentiation_stop	10	3	CDK5R1,DAB1,PAFAH1B1	CDK5,CRK,CRKL,LRP8,RAP1A,RELN,VLDLR
+selected_feature_matrix	semaphorin_guidance	Semaphorin/plexin guidance	differentiation_stop	17	9	NRP1,NRP2,PLXNA2,PLXNA4,RAC1,SEMA3A,SEMA3C,SEMA5A,SEMA6D	PLXNA1,PLXNA3,PLXNB1,PLXNC1,RHOA,SEMA3E,SEMA6A,SEMA7A
+selected_feature_matrix	shh_granule_expansion	SHH/PTCH/GLI	progenitor_expansion_or_regional_fate	10	1	ATOH1	GLI1,GLI2,GLI3,HHIP,MYCN,PTCH1,PTCH2,SHH,SMO
+selected_feature_matrix	wnt_beta_catenin	WNT/beta-catenin	neurogenic_permissive	16	1	DKK3	AXIN2,CTNNB1,DKK1,FZD1,FZD3,FZD5,FZD7,LEF1,LRP5,LRP6,TCF7L2,WNT3A,WNT5A,WNT7A,WNT7B
+selected_feature_matrix	fgf_mapk	FGF/MAPK	neurogenic_permissive	17	3	FRS2,MAP2K1,MAPK1	ETV4,ETV5,FGF10,FGF17,FGF2,FGF8,FGF9,FGFR1,FGFR2,FGFR3,MAPK3,SPRY1,SPRY2,SPRY4
+selected_feature_matrix	notch_hes	Notch/HES	neurogenic_permissive	14	1	RBPJ	DLL1,DLL3,DLL4,HES1,HES5,HEY1,HEY2,JAG1,JAG2,LFNG,NOTCH1,NOTCH2,NOTCH3

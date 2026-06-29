@@ -1,0 +1,4 @@
+source	subclass_label	n_clusters	n_supertypes	total_v3_size	total_v2_size	markers	tf_markers	recommended_use
+Allen_Institute_WMB_taxonomy	CB Granule Glut	5	2	133778	0	Gabra6,Ror1	Pax6,Neurod2,Etv1	reference atlas for cell-label validation, marker refinement, and figure annotation
+Allen_Institute_WMB_taxonomy	DG Glut	9	4	14294	68049	Prox1,Itpka,C1ql3	Prox1,Glis3,Egr3	reference atlas for cell-label validation, marker refinement, and figure annotation
+Allen_Institute_WMB_taxonomy	DG-PIR Ex IMN	7	3	1832	177	Mex3a,Neurod1	Prox1,Tbr1,Sox4,Pou3f3	reference atlas for cell-label validation, marker refinement, and figure annotation

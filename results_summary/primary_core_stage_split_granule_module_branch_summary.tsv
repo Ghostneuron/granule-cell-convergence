@@ -1,0 +1,41 @@
+branch	stage_bin	module_id	module_label	n_datasets	n_groups	n_cells_total	n_strict_datasets	used_strict_only	median_dataset_score	mean_dataset_score	weighted_mean_group_score	datasets_used	evidence_tiers
+cerebellar	immature	bdnf_erk_response	BDNF/ERK	1	1	2678	1	True	0.5295625	0.5295625	0.5295625	GSE122357	strict_developmental_age
+dentate	immature	bdnf_erk_response	BDNF/ERK	4	19	5741	4	True	0.43547135000000003	0.4348550075	0.3488044227939383	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	immature	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/SHH	1	1	2678	1	True	0.600875	0.600875	0.600875	GSE122357	strict_developmental_age
+dentate	immature	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/SHH	4	19	5741	4	True	0.47831770500000004	0.4444144175	0.49633286898275564	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	immature	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	1	1	2678	1	True	0.509375	0.509375	0.509375	GSE122357	strict_developmental_age
+dentate	immature	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	4	19	5741	4	True	0.64284895	0.57580559125	0.4803641770423271	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	immature	downstream_neurite_morphology	Neurite/morphology	1	1	2678	1	True	0.6425625	0.6425625	0.6425625	GSE122357	strict_developmental_age
+dentate	immature	downstream_neurite_morphology	Neurite/morphology	4	19	5741	4	True	0.694448725	0.59234155	0.46435726591186194	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	immature	downstream_synaptic_excitability	Synaptic/excitability	1	1	2678	1	True	0.55525005	0.55525005	0.55525005	GSE122357	strict_developmental_age
+dentate	immature	downstream_synaptic_excitability	Synaptic/excitability	4	19	5741	4	True	0.407103965	0.401653545	0.320191437630378	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	immature	immature_progenitor_state	Immature/progenitor	1	1	2678	1	True	0.5894375	0.5894375	0.5894375	GSE122357	strict_developmental_age
+dentate	immature	immature_progenitor_state	Immature/progenitor	4	19	5741	4	True	0.583025855	0.54907542125	0.45562988007315797	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	immature	neuronal_differentiation_maturation	Neuronal maturation	1	1	2678	1	True	0.63743746	0.63743746	0.63743746	GSE122357	strict_developmental_age
+dentate	immature	neuronal_differentiation_maturation	Neuronal maturation	4	19	5741	4	True	0.449890635	0.4457168875	0.41361166812750394	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	immature	secreted_stop_candidate_axis	Secreted stop candidates	1	1	2678	1	True	0.550875	0.550875	0.550875	GSE122357	strict_developmental_age
+dentate	immature	secreted_stop_candidate_axis	Secreted stop candidates	4	19	5741	4	True	0.471830715	0.43951197	0.3355110841839401	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	immature	shared_neurogenic_niche_state	Shared neurogenic niche	1	1	2678	1	True	0.50706255	0.50706255	0.50706255	GSE122357	strict_developmental_age
+dentate	immature	shared_neurogenic_niche_state	Shared neurogenic niche	4	19	5741	4	True	0.6300244425	0.6207843525	0.5246501360808221	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	immature	tgf_smad_pai1_response	TGF-beta/SMAD	1	1	2678	1	True	0.42624998	0.42624998	0.42624998	GSE122357	strict_developmental_age
+dentate	immature	tgf_smad_pai1_response	TGF-beta/SMAD	4	19	5741	4	True	0.5421881749999999	0.4636956475	0.4104383358961853	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	mature	bdnf_erk_response	BDNF/ERK	1	2	4151	1	True	0.482437475	0.482437475	0.47624269508552164	GSE122357	strict_developmental_age
+dentate	mature	bdnf_erk_response	BDNF/ERK	4	11	8895	4	True	0.5914375000000001	0.5737753775000001	0.5662206631950535	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	mature	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/SHH	1	2	4151	1	True	0.532875	0.532875	0.5414466393640087	GSE122357	strict_developmental_age
+dentate	mature	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/SHH	4	11	8895	4	True	0.40988612999999996	0.43301859	0.40597298312984825	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	mature	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	1	2	4151	1	True	0.45484375	0.45484375	0.44557028426885087	GSE122357	strict_developmental_age
+dentate	mature	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	4	11	8895	4	True	0.4439704525	0.46817272875	0.5240567224676785	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	mature	downstream_neurite_morphology	Neurite/morphology	1	2	4151	1	True	0.44365625	0.44365625	0.4326048241387618	GSE122357	strict_developmental_age
+dentate	mature	downstream_neurite_morphology	Neurite/morphology	4	11	8895	4	True	0.482291675	0.4642043175	0.5738839072782461	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	mature	downstream_synaptic_excitability	Synaptic/excitability	1	2	4151	1	True	0.52209375	0.52209375	0.5066442122380149	GSE122357	strict_developmental_age
+dentate	mature	downstream_synaptic_excitability	Synaptic/excitability	4	11	8895	4	True	0.5947341925	0.59234496375	0.6657957633535695	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	mature	immature_progenitor_state	Immature/progenitor	1	2	4151	1	True	0.4530625	0.4530625	0.45087280173452177	GSE122357	strict_developmental_age
+dentate	mature	immature_progenitor_state	Immature/progenitor	4	11	8895	4	True	0.29657209250000005	0.35123397125	0.31950524087352444	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	mature	neuronal_differentiation_maturation	Neuronal maturation	1	2	4151	1	True	0.44846874999999997	0.44846874999999997	0.4384466694772343	GSE122357	strict_developmental_age
+dentate	mature	neuronal_differentiation_maturation	Neuronal maturation	4	11	8895	4	True	0.61087624	0.601124315	0.6177825405238898	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	mature	secreted_stop_candidate_axis	Secreted stop candidates	1	2	4151	1	True	0.515562485	0.515562485	0.5075335958516021	GSE122357	strict_developmental_age
+dentate	mature	secreted_stop_candidate_axis	Secreted stop candidates	4	11	8895	4	True	0.5278307375	0.52366103375	0.5567131091894323	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	mature	shared_neurogenic_niche_state	Shared neurogenic niche	1	2	4151	1	True	0.45875	0.45875	0.4594611840520357	GSE122357	strict_developmental_age
+dentate	mature	shared_neurogenic_niche_state	Shared neurogenic niche	4	11	8895	4	True	0.39864958500000003	0.37466073250000004	0.37067811461045536	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label
+cerebellar	mature	tgf_smad_pai1_response	TGF-beta/SMAD	1	2	4151	1	True	0.5395000000000001	0.5395000000000001	0.5322758672609009	GSE122357	strict_developmental_age
+dentate	mature	tgf_smad_pai1_response	TGF-beta/SMAD	4	11	8895	4	True	0.5187407125	0.50288468125	0.47990614067566045	GSE104323,GSE214309,GSE292261,GSE325391	strict_developmental_age,strict_explicit_label,strict_source_label

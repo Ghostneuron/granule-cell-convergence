@@ -1,0 +1,68 @@
+panel	canonical_symbol	human_symbol	mouse_symbol	gene	notes	ortholog_scope	ortholog_basis	used_in_primary_core_species
+axon_guidance_synapse	CNTN4	CNTN4	Cntn4	Cntn4	neuronal adhesion/guidance	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	CNTN5	CNTN5	Cntn5	Cntn5	Allen CB granule subset marker/adhesion	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	CNTN6	CNTN6	Cntn6	Cntn6	Allen DG Glut supertype marker/adhesion	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	EPHA4	EPHA4	Epha4	Epha4	axon guidance receptor	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	EPHB1	EPHB1	Ephb1	Ephb1	axon guidance/synapse receptor	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	EPHB2	EPHB2	Ephb2	Ephb2	axon guidance/synapse receptor	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	NRP1	NRP1	Nrp1	Nrp1	semaphorin receptor component	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	NRP2	NRP2	Nrp2	Nrp2	semaphorin receptor component	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	PLXNA2	PLXNA2	Plxna2	Plxna2	plexin guidance receptor	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	PLXNA4	PLXNA4	Plxna4	Plxna4	plexin guidance receptor	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	ROBO1	ROBO1	Robo1	Robo1	axon guidance receptor	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	ROBO2	ROBO2	Robo2	Robo2	axon guidance receptor	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	SEMA3A	SEMA3A	Sema3a	Sema3a	axon/dendrite guidance ligand	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	SEMA3F	SEMA3F	Sema3f	Sema3f	axon guidance ligand	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+axon_guidance_synapse	SLIT2	SLIT2	Slit2	Slit2	axon guidance ligand	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+cerebellar_identity	ATOH1	ATOH1	Atoh1	Atoh1	cerebellar granule progenitor TF	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+cerebellar_identity	BARHL1	BARHL1	Barhl1	Barhl1	cerebellar granule differentiation TF	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+cerebellar_identity	BARHL2	BARHL2	Barhl2	Barhl2	cerebellar granule marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+cerebellar_identity	CBLN3	CBLN3	Cbln3	Cbln3	cerebellar granule marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+cerebellar_identity	EN2	EN2	En2	En2	cerebellar patterning/CB granule marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+cerebellar_identity	ETV1	ETV1	Etv1	Etv1	Allen CB granule TF marker, validate specificity	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+cerebellar_identity	GABRA6	GABRA6	Gabra6	Gabra6	mature cerebellar granule marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+cerebellar_identity	GRIN2C	GRIN2C	Grin2c	Grin2c	cerebellar granule receptor marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+cerebellar_identity	ROR1	ROR1	Ror1	Ror1	Allen CB granule marker, validate specificity	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+cerebellar_identity	ZIC1	ZIC1	Zic1	Zic1	cerebellar granule TF	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+cerebellar_identity	ZIC2	ZIC2	Zic2	Zic2	cerebellar granule TF	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+dentate_identity	C1QL3	C1QL3	C1ql3	C1ql3	Allen dentate glutamatergic marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+dentate_identity	CALB1	CALB1	Calb1	Calb1	mature dentate granule marker, also broad neuronal/calcium marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+dentate_identity	CALB2	CALB2	Calb2	Calb2	immature dentate/DG-PIR marker, context dependent	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+dentate_identity	EGR3	EGR3	Egr3	Egr3	Allen dentate glutamatergic TF marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+dentate_identity	GLIS3	GLIS3	Glis3	Glis3	Allen dentate glutamatergic TF marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+dentate_identity	ITPKA	ITPKA	Itpka	Itpka	Allen dentate glutamatergic marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+dentate_identity	MEX3A	MEX3A	Mex3a	Mex3a	immature dentate-enriched marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+dentate_identity	PROX1	PROX1	Prox1	Prox1	strict dentate granule lineage anchor, still check cerebellar leakage	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+metabolic_proteomic_validation	ATP5F1A	ATP5F1A	Atp5f1a	Atp5f1a	mitochondrial ATP synthase	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+metabolic_proteomic_validation	COX6C	COX6C	Cox6c	Cox6c	mitochondrial oxidative phosphorylation	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+metabolic_proteomic_validation	NDUFA4	NDUFA4	Ndufa4	Ndufa4	mitochondrial complex marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+metabolic_proteomic_validation	NDUFB8	NDUFB8	Ndufb8	Ndufb8	mitochondrial complex marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+metabolic_proteomic_validation	PRDX1	PRDX1	Prdx1	Prdx1	redox homeostasis	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+metabolic_proteomic_validation	PRDX2	PRDX2	Prdx2	Prdx2	redox homeostasis	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+metabolic_proteomic_validation	SOD1	SOD1	Sod1	Sod1	redox homeostasis	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+metabolic_proteomic_validation	TUBB4A	TUBB4A	Tubb4a	Tubb4a	microtubule, proteomic-relevant category	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+morphogenesis_cytoskeleton	CDK5R1	CDK5R1	Cdk5r1	Cdk5r1	neuronal migration and neurite outgrowth	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+morphogenesis_cytoskeleton	CFL1	CFL1	Cfl1	Cfl1	actin dynamics	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+morphogenesis_cytoskeleton	CNTN2	CNTN2	Cntn2	Cntn2	axonal adhesion/guidance	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+morphogenesis_cytoskeleton	DPYSL2	DPYSL2	Dpysl2	Dpysl2	axon guidance/cytoskeleton	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+morphogenesis_cytoskeleton	DPYSL3	DPYSL3	Dpysl3	Dpysl3	axon guidance/cytoskeleton	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+morphogenesis_cytoskeleton	ELAVL4	ELAVL4	Elavl4	Elavl4	neuronal RNA-binding/maturation	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+morphogenesis_cytoskeleton	GAP43	GAP43	Gap43	Gap43	axon growth/plasticity	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+morphogenesis_cytoskeleton	L1CAM	L1CAM	L1cam	L1cam	axon growth/adhesion	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+morphogenesis_cytoskeleton	MAPT	MAPT	Mapt	Mapt	axon microtubule protein	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+morphogenesis_cytoskeleton	NCAM1	NCAM1	Ncam1	Ncam1	neurite outgrowth/adhesion	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+morphogenesis_cytoskeleton	STMN2	STMN2	Stmn2	Stmn2	axon growth/microtubule dynamics	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+morphogenesis_cytoskeleton	STMN3	STMN3	Stmn3	Stmn3	neuronal microtubule dynamics	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	DCX	DCX	Dcx	Dcx	immature neuron migration/cytoskeleton	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	EOMES	EOMES	Eomes	Eomes	immature excitatory/neuroblast and CB subset marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	MAP2	MAP2	Map2	Map2	dendritic neuronal cytoskeleton	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	NEUROD1	NEUROD1	Neurod1	Neurod1	granule/neurogenic differentiation TF	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	NEUROD2	NEUROD2	Neurod2	Neurod2	granule neuron TF	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	PAX6	PAX6	Pax6	Pax6	granule lineage TF, cerebellum and neurogenic contexts	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	SLC17A7	SLC17A7	Slc17a7	Slc17a7	glutamatergic neuron marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	SNAP25	SNAP25	Snap25	Snap25	presynaptic neuronal marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	ST18	ST18	St18	St18	Allen DG/CB marker context	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	SYN1	SYN1	Syn1	Syn1	synaptic vesicle marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	SYT1	SYT1	Syt1	Syt1	synaptic vesicle marker	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	TBR1	TBR1	Tbr1	Tbr1	immature excitatory identity, not strict dentate	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse
+shared_granule_neuronal	TUBB3	TUBB3	Tubb3	Tubb3	neuronal microtubule cytoskeleton	refined_marker_panel	same-root mouse-human marker symbol curated for panel-level module scoring	human;mouse

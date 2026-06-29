@@ -1,0 +1,4 @@
+sample_accession	donor_id	organism	file_name	n_matrix_rows	n_barcodes	n_nonzero	n_gene_expression_features	n_peak_features	local_size_bytes
+GSM9558423	H187	Homo sapiens	GSM9558423_H187CBm_feature_bc_matrix.h5	149672	702475	67911459	36601	113071	108249812
+GSM9558427	H628	Homo sapiens	GSM9558427_H628CBm_feature_bc_matrix.h5	151221	694285	69475245	36601	114620	112009608
+GSM9558425	H390	Homo sapiens	GSM9558425_H390CBm_feature_bc_matrix.h5	153544	698843	77609892	36601	116943	123214360

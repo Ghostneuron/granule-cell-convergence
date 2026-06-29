@@ -1,0 +1,97 @@
+concordance_class	comparator	feature_type	model_term_supported	n_contrasts	mean_broad_delta	mean_cluster_supported_delta	mean_shift_strict_minus_broad	max_robust_rank_score
+cluster_supported_only_positive	purkinje_candidate	Peaks	EpigenomicCompatibility	22	0.02873970335788895	0.16822970294736925	0.1394899995894803	0.0970583150121189
+cluster_supported_only_positive	purkinje_candidate	Peaks	FatePolarity	16	0.013835263535654837	0.1465331844636608	0.13269792092800595	0.0846288266110349
+cluster_supported_only_positive	purkinje_candidate	Peaks	ConstructionBalance	15	0.012216318625148558	0.13920326111258088	0.1269869424874323	0.046258880693858
+cluster_supported_only_positive	oligodendrocyte_candidate	Peaks	ConstructionBalance	12	0.07599551058850496	0.23517604758745914	0.15918053699895418	0.096887310029236
+cluster_supported_only_positive	oligodendrocyte_candidate	Peaks	FatePolarity	12	0.05405312885646061	0.2100795967917365	0.1560264679352759	0.0945162934287787
+cluster_supported_only_positive	purkinje_candidate	Peaks	NicheSignal	11	0.032671199812423085	0.16752799530586257	0.13485679549343946	0.0970583150121189
+cluster_supported_only_positive	oligodendrocyte_candidate	Peaks	NicheSignal	10	0.03613061266712626	0.20573112579475597	0.16960051312762972	0.0644298686009185
+cluster_supported_only_positive	purkinje_candidate	Gene Expression	EpigenomicCompatibility	5	-0.013541008037579122	0.2736331627667074	0.28717417080428653	0.0077724095712651
+cluster_supported_only_positive	astrocyte_bergmann_candidate	Peaks	FatePolarity	4	0.03427757403224877	0.15984660746183726	0.1255690334295885	0.0742315900897501
+cluster_supported_only_positive	purkinje_candidate	Gene Expression	FatePolarity	4	0.0038876982379210737	0.19747462889066492	0.19358693065274385	0.0343087823160837
+cluster_supported_only_positive	purkinje_candidate	Gene Expression	ConstructionBalance	3	-0.07861032501737414	0.2551518593527828	0.33376218437015687	-0.0595518691710421
+cluster_supported_only_positive	astrocyte_bergmann_candidate	Peaks	ConstructionBalance	2	0.0752385735114148	0.1544106784979934	0.07917210498657859	0.0999754620373904
+cluster_supported_only_positive	astrocyte_bergmann_candidate	Peaks	NicheSignal	2	0.00839120071907635	0.11832926648546925	0.1099380657663929	0.0118277859988548
+cluster_supported_only_positive	oligodendrocyte_candidate	Gene Expression	FatePolarity	1	0.0990830643902442	0.2395391387328582	0.140456074342614	0.0990830643902442
+cluster_supported_only_positive	oligodendrocyte_candidate	Gene Expression	ConstructionBalance	1	0.0976039092413992	0.5062513550406665	0.4086474457992674	0.0976039092413992
+cluster_supported_only_positive	oligodendrocyte_candidate	Peaks	EpigenomicCompatibility	1	0.083369298103655	0.216197889106822	0.13282859100316702	0.083369298103655
+cluster_supported_only_positive	astrocyte_bergmann_candidate	Gene Expression	FatePolarity	1	0.0622816063698004	0.2402370398938553	0.1779554335240549	0.0622816063698004
+discordant_strict_positive_broad_negative	purkinje_candidate	Gene Expression	ConstructionBalance	6	-0.14778643447113082	0.2277921303483876	0.3755785648195184	-0.104314468424522
+discordant_strict_positive_broad_negative	purkinje_candidate	Gene Expression	EpigenomicCompatibility	4	-0.1508199843989701	0.21411216724478907	0.36493215164375914	-0.1088590493175364
+discordant_strict_positive_broad_negative	purkinje_candidate	Gene Expression	NicheSignal	2	-0.1237721546411872	0.2327614900156783	0.3565336446568655	-0.1237721546411872
+discordant_strict_positive_broad_negative	astrocyte_bergmann_candidate	Gene Expression	ConstructionBalance	1	-0.150426218277077	0.4850012143886	0.635427432665677	-0.150426218277077
+discordant_strict_positive_broad_negative	astrocyte_bergmann_candidate	Gene Expression	EpigenomicCompatibility	1	-0.237026200386778	0.3576824134316229	0.5947086138184009	-0.237026200386778
+missing_layer	ambiguous_neuronal	Peaks	EpigenomicCompatibility	42	0.17975755770112847			-inf
+missing_layer	opc_candidate	Peaks	EpigenomicCompatibility	42		0.4705052001436703		-inf
+missing_layer	ambiguous_neuronal	Peaks	ConstructionBalance	40	0.1455054014115814			-inf
+missing_layer	opc_candidate	Peaks	ConstructionBalance	40		0.34960009713125767		-inf
+missing_layer	ambiguous_neuronal	Peaks	FatePolarity	36	0.15611571980905653			-inf
+missing_layer	opc_candidate	Peaks	FatePolarity	36		0.3475689571706255		-inf
+missing_layer	ambiguous_neuronal	Peaks	NicheSignal	31	0.1316698023223963			-inf
+missing_layer	opc_candidate	Peaks	NicheSignal	31		0.12935303966443254		-inf
+missing_layer	ambiguous_neuronal	Gene Expression	EpigenomicCompatibility	11	0.5342618988586691			-inf
+missing_layer	opc_candidate	Gene Expression	EpigenomicCompatibility	11		1.1651272438480342		-inf
+missing_layer	ambiguous_neuronal	Gene Expression	ConstructionBalance	9	0.6059968781049024			-inf
+missing_layer	opc_candidate	Gene Expression	ConstructionBalance	9		1.2580989708479582		-inf
+missing_layer	ambiguous_neuronal	Gene Expression	FatePolarity	8	0.23685849526701785			-inf
+missing_layer	ambiguous_neuronal	Gene Expression	NicheSignal	8	0.10627010442455523			-inf
+missing_layer	opc_candidate	Gene Expression	FatePolarity	8		0.44542902418729446		-inf
+missing_layer	opc_candidate	Gene Expression	NicheSignal	8		0.06966300174521813		-inf
+missing_layer	ambiguous_neuronal	Gene Expression	marker_or_unassigned	1	0.2193693999771978			-inf
+missing_layer	opc_candidate	Gene Expression	marker_or_unassigned	1		0.0740495163440347		-inf
+robust_negative	astrocyte_bergmann_candidate	Gene Expression	FatePolarity	2	-0.23140168426371954	-0.18010056936834962	0.05130111489536994	-0.1551874751166506
+robust_negative	astrocyte_bergmann_candidate	Gene Expression	NicheSignal	2	-0.3092195319261198	-0.26040653203769587	0.04881299988842393	-0.2645611530323865
+robust_negative	oligodendrocyte_candidate	Gene Expression	NicheSignal	1	-0.1419000591883668	-0.1314693512169869	0.010430707971379877	-0.1419000591883668
+robust_negative	oligodendrocyte_candidate	Peaks	NicheSignal	1	-0.2680239803489472	-0.1492468681701039	0.11877711217884329	-0.2680239803489472
+robust_negative	purkinje_candidate	Gene Expression	EpigenomicCompatibility	1	-0.4035202443742474	-0.2097529061614138	0.1937673382128336	-0.4035202443742474
+robust_positive	astrocyte_bergmann_candidate	Peaks	ConstructionBalance	28	0.17834897360634197	0.34836198508543953	0.1700130114790976	0.2448312648667508
+robust_positive	oligodendrocyte_candidate	Peaks	EpigenomicCompatibility	27	0.15594618865603085	0.30983794454032254	0.15389175588429171	0.2160217956496439
+robust_positive	astrocyte_bergmann_candidate	Peaks	EpigenomicCompatibility	23	0.16484727213445455	0.3213077846279818	0.15646051249352727	0.2155326170324682
+robust_positive	astrocyte_bergmann_candidate	Peaks	FatePolarity	22	0.17450396987245634	0.34202831901873404	0.1675243491462777	0.2492891052923015
+robust_positive	oligodendrocyte_candidate	Peaks	ConstructionBalance	22	0.1500786952802075	0.33077641557017917	0.18069772028997166	0.2292432648128704
+robust_positive	oligodendrocyte_candidate	Peaks	FatePolarity	16	0.15852985991752352	0.3412616954158139	0.18273183549829042	0.2333599337946736
+robust_positive	astrocyte_bergmann_candidate	Peaks	NicheSignal	11	0.1908030053043964	0.4011216541031221	0.21031864879872575	0.2357965714415619
+robust_positive	oligodendrocyte_candidate	Peaks	NicheSignal	6	0.14540319366801152	0.3277129625540026	0.18230976888599107	0.1787741044528551
+robust_positive	oligodendrocyte_candidate	Gene Expression	FatePolarity	3	0.14287555203473148	0.34155608910123236	0.1986805370665009	0.2142612756822385
+robust_positive	oligodendrocyte_candidate	Gene Expression	NicheSignal	3	0.17767489767182518	0.44955706859494793	0.2718821709231227	0.1878246323808179
+robust_positive	astrocyte_bergmann_candidate	Gene Expression	ConstructionBalance	1	0.2137433559884892	0.6440452566309923	0.4303019006425031	0.2137433559884892
+robust_positive	oligodendrocyte_candidate	Gene Expression	EpigenomicCompatibility	1	0.1573754282538397	0.3039540498230546	0.14657862156921486	0.1573754282538397
+robust_positive	astrocyte_bergmann_candidate	Gene Expression	FatePolarity	1	0.1511840248567061	0.4370393401532808	0.2858553152965747	0.1511840248567061
+robust_positive	astrocyte_bergmann_candidate	Gene Expression	EpigenomicCompatibility	1	0.1417712497302275	0.3106435620849708	0.1688723123547433	0.1417712497302275
+robust_positive	astrocyte_bergmann_candidate	Gene Expression	NicheSignal	1	0.1417712497302275	0.3106435620849708	0.1688723123547433	0.1417712497302275
+robust_positive_strong	astrocyte_bergmann_candidate	Peaks	EpigenomicCompatibility	18	0.47710221045837553	0.82579519512316	0.3486929846647845	1.037628986875718
+robust_positive_strong	oligodendrocyte_candidate	Peaks	EpigenomicCompatibility	13	0.46925278996636455	0.8217002995912466	0.3524475096248821	0.9456528307360298
+robust_positive_strong	oligodendrocyte_candidate	Gene Expression	EpigenomicCompatibility	10	0.8477363022659608	1.4171146386272604	0.5693783363612995	1.2070715264060368
+robust_positive_strong	astrocyte_bergmann_candidate	Gene Expression	EpigenomicCompatibility	9	0.6850131710531813	1.3120820256745651	0.6270688546213838	1.1249653121028893
+robust_positive_strong	oligodendrocyte_candidate	Gene Expression	ConstructionBalance	8	0.78081485857246	1.4528309729101552	0.672016114337695	1.200265518150297
+robust_positive_strong	astrocyte_bergmann_candidate	Peaks	ConstructionBalance	8	0.36428985844049266	0.6710765672411373	0.3067867088006446	0.5035823449350957
+robust_positive_strong	astrocyte_bergmann_candidate	Peaks	FatePolarity	7	0.4418934650939227	0.7876270900219325	0.3457336249280098	1.037628986875718
+robust_positive_strong	astrocyte_bergmann_candidate	Gene Expression	ConstructionBalance	7	0.6239428198728435	1.325098457523374	0.7011556376505304	0.9614376970437408
+robust_positive_strong	oligodendrocyte_candidate	Peaks	FatePolarity	4	0.5161463342406468	0.8718391295263361	0.3556927952856894	0.9456528307360298
+robust_positive_strong	astrocyte_bergmann_candidate	Peaks	NicheSignal	4	0.5150897608613705	0.8944144021542393	0.3793246412928688	0.8985741601542487
+robust_positive_strong	oligodendrocyte_candidate	Peaks	NicheSignal	3	0.4351316353605512	0.8085566042927074	0.3734249689321561	0.797546619755594
+robust_positive_strong	oligodendrocyte_candidate	Peaks	ConstructionBalance	3	0.3047776682998904	0.619086850388331	0.31430918208844055	0.4131594252968347
+robust_positive_strong	oligodendrocyte_candidate	Gene Expression	FatePolarity	2	0.648015110993936	1.0136852485755858	0.3656701375816497	0.8906385476818731
+robust_positive_strong	astrocyte_bergmann_candidate	Gene Expression	FatePolarity	1	0.8459014280807174	1.3727578877129063	0.5268564596321889	0.8459014280807174
+weak_or_neutral	purkinje_candidate	Peaks	ConstructionBalance	25	0.003347630311041936	0.07052980524853084	0.0671821749374889	0.0197501424872189
+weak_or_neutral	purkinje_candidate	Peaks	EpigenomicCompatibility	20	0.005663509294456021	0.07020963653373659	0.06454612723928058	0.0529566642524841
+weak_or_neutral	purkinje_candidate	Peaks	FatePolarity	20	-0.004039008673860235	0.07390313908666452	0.07794214776052474	0.0092189468777321
+weak_or_neutral	purkinje_candidate	Peaks	NicheSignal	20	-0.037148896959426476	0.03453307147487557	0.07168196843430205	0.0041336754680299
+weak_or_neutral	astrocyte_bergmann_candidate	Peaks	NicheSignal	14	-0.11264331841332649	-0.04595087836914019	0.0666924400441863	-0.0268266209672236
+weak_or_neutral	oligodendrocyte_candidate	Peaks	NicheSignal	11	-0.03552181468188584	0.0021559067666737895	0.037677721448559624	0.0097612547153908
+weak_or_neutral	purkinje_candidate	Gene Expression	NicheSignal	6	-0.038173636830041234	-0.010350370937547633	0.027823265892493603	-0.0175966480625816
+weak_or_neutral	astrocyte_bergmann_candidate	Gene Expression	NicheSignal	5	-0.16176125648834863	-0.04636399929555858	0.11539725719279006	-0.1048963620364145
+weak_or_neutral	oligodendrocyte_candidate	Peaks	FatePolarity	4	-0.0366464430306008	0.040528639562409804	0.0771750825930106	0.025236113464762
+weak_or_neutral	purkinje_candidate	Gene Expression	FatePolarity	4	-0.08390905190273655	0.0318377561063085	0.11574680800904505	-0.0023948324805195
+weak_or_neutral	oligodendrocyte_candidate	Gene Expression	NicheSignal	4	-0.0068932614009173	0.0231395849935525	0.0300328463944698	-0.0047522986454771
+weak_or_neutral	astrocyte_bergmann_candidate	Peaks	FatePolarity	3	0.0245452813789807	0.07461500932921143	0.050069727950230736	0.0595719261344069
+weak_or_neutral	oligodendrocyte_candidate	Peaks	ConstructionBalance	3	-0.009330584030479334	0.047650247177128006	0.05698083120760734	0.025236113464762
+weak_or_neutral	astrocyte_bergmann_candidate	Gene Expression	FatePolarity	3	-0.09295576876152517	0.079233105931242	0.1721888746927672	-0.0522406882080749
+weak_or_neutral	astrocyte_bergmann_candidate	Peaks	ConstructionBalance	2	0.0418037783765408	0.0782300560048487	0.036426277628307906	0.0595719261344069
+weak_or_neutral	oligodendrocyte_candidate	Gene Expression	FatePolarity	2	-0.01386078670062215	0.0525834025229178	0.06644418922353995	0.0345187714189966
+weak_or_neutral	astrocyte_bergmann_candidate	Peaks	EpigenomicCompatibility	1	-0.0062621191668344	-0.0276100533115805	-0.0213479341447461	-0.0276100533115805
+weak_or_neutral	oligodendrocyte_candidate	Peaks	EpigenomicCompatibility	1	-0.033704143145454	-0.0346730547850835	-0.0009689116396294981	-0.0346730547850835
+weak_or_neutral	purkinje_candidate	Gene Expression	EpigenomicCompatibility	1	-0.047703330805273	-0.0667273443172025	-0.01902401351192949	-0.0667273443172025
+weak_or_neutral	astrocyte_bergmann_candidate	Gene Expression	marker_or_unassigned	1	-0.1386378464441541	0.0247860152234695	0.16342386166762363	-0.1386378464441541
+weak_or_neutral	oligodendrocyte_candidate	Gene Expression	marker_or_unassigned	1	-0.1418169199693779	0.0559594736488875	0.1977763936182654	-0.1418169199693779
+weak_or_neutral	purkinje_candidate	Gene Expression	marker_or_unassigned	1	-0.1674249719429184	-0.077043460218407	0.09038151172451139	-0.1674249719429184

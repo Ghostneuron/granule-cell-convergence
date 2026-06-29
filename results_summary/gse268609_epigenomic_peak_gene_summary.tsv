@@ -1,0 +1,154 @@
+gene	gene_feature_row_1based	gene_feature_id	gene_feature_name	chrom	gene_start	gene_end	target_sources	target_sets	model_terms_supported	best_priority	is_tf_or_regulatory_candidate	n_target_rows	n_distal_100kb	n_gene_body_overlap	n_gene_edge_2kb	n_proximal_10kb	n_peaks_total_100kb
+GABRA2	8268	ENSG00000151834	GABRA2	chr4	46388712	46475230	developmental_origin_module;manuscript_candidate_tier;niche_circuit_module	Tier 1 core convergent program;downstream_neurite_synapse_construction;downstream_synaptic_excitability	ConstructionBalance;EpigenomicCompatibility	highest	False	3	5	3	1	0	9
+GPM6A	9243	ENSG00000150625	GPM6A	chr4	175787675	176002664	developmental_origin_module;manuscript_candidate_tier;niche_circuit_module	Tier 1 core convergent program;downstream_neurite_morphology;downstream_neurite_synapse_construction;shared_postmitotic_granule_maturation	ConstructionBalance;EpigenomicCompatibility	highest	False	4	11	19	2	0	32
+KCNK1	3199	ENSG00000135750	KCNK1	chr1	233614105	233614106	developmental_origin_module;manuscript_candidate_tier;niche_circuit_module	Tier 1 core convergent program;downstream_neurite_synapse_construction;downstream_synaptic_excitability	ConstructionBalance;EpigenomicCompatibility	highest	False	3	15	1	1	0	17
+NFIA	1201	ENSG00000162599	NFIA	chr1	60865258	61404076	developmental_origin_module;manuscript_candidate_tier	Tier 1 core convergent program;shared_postmitotic_granule_maturation	ConstructionBalance;EpigenomicCompatibility	highest	True	2	4	54	0	3	61
+NFIB	16304	ENSG00000147862	NFIB	chr9	14180791	14398983	manuscript_candidate_tier	Tier 1 core convergent program	ConstructionBalance	highest	True	1	9	28	1	1	39
+RFX3	16229	ENSG00000080298	RFX3	chr9	3395587	3526001	manuscript_candidate_tier	Tier 1 core convergent program	ConstructionBalance	highest	True	1	7	11	0	0	18
+ASCL1	22385	ENSG00000139352	ASCL1	chr12	102957673	102957674	developmental_origin_module;niche_circuit_module	deep_neural_progenitor;shared_neurogenic_niche_state	FatePolarity;NicheSignal	high	True	2	10	1	2	5	18
+ATOH1	8644	ENSG00000172238	ATOH1	chr4	93828752	93828753	developmental_origin_module;niche_circuit_module	cerebellar_fate_rhombic_lip_shh;hindbrain_rhombic_lip_pattern	FatePolarity	high	True	2	10	1	2	1	14
+BARHL1	17346	ENSG00000125492	BARHL1	chr9	132582605	132582659	developmental_origin_module;niche_circuit_module	cerebellar_fate_rhombic_lip_shh;hindbrain_rhombic_lip_pattern	FatePolarity	high	False	2	6	1	0	1	8
+BASP1	9567	ENSG00000176788	BASP1	chr5	17216822	17217631	developmental_origin_module;manuscript_candidate_tier;niche_circuit_module	Tier 3 broad both-screen mechanism support;downstream_neurite_morphology;downstream_neurite_synapse_construction	ConstructionBalance;EpigenomicCompatibility	high	False	3	12	2	1	1	16
+BCL11B	24833	ENSG00000127152	BCL11B	chr14	99271484	99272197	developmental_origin_module;niche_circuit_module	dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	True	2	6	1	1	6	14
+BMP4	24271	ENSG00000125378	BMP4	chr14	53953454	53956825	niche_circuit_module	shared_neurogenic_niche_state	NicheSignal	high	False	1	3	2	0	2	7
+BMPR1A	18331	ENSG00000107779	BMPR1A	chr10	86756649	86756650	niche_circuit_module	shared_neurogenic_niche_state	NicheSignal	high	False	1	15	1	0	0	16
+C1QL3	17710	ENSG00000165985	C1QL3	chr10	16521144	16521879	developmental_origin_module;niche_circuit_module	dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	False	2	6	1	0	0	7
+CACNA2D1	13797	ENSG00000153956	CACNA2D1	chr7	82443714	82443777	manuscript_candidate_tier;niche_circuit_module	Tier 2 high-confidence wiring/synaptic executor;downstream_synaptic_excitability	ConstructionBalance	high	False	2	7	1	0	0	8
+CADM3	2261	ENSG00000162706	CADM3	chr1	159171608	159171615	developmental_origin_module;manuscript_candidate_tier;niche_circuit_module	Tier 4 screen-specific mechanism support;downstream_neurite_morphology;downstream_neurite_synapse_construction	ConstructionBalance;EpigenomicCompatibility	high	False	3	13	1	1	2	17
+CALB1	15630	ENSG00000104327	CALB1	chr8	90081520	90082879	developmental_origin_module;niche_circuit_module	dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	False	2	6	1	0	0	7
+CALM1	24701	ENSG00000198668	CALM1	chr14	90397028	90399082	niche_circuit_module	downstream_synaptic_excitability	ConstructionBalance	high	False	1	14	2	1	1	18
+CALM2	3962	ENSG00000143933	CALM2	chr2	47175538	47176921	niche_circuit_module	downstream_synaptic_excitability	ConstructionBalance	high	False	1	17	2	0	0	19
+CAMK2A	10799	ENSG00000070808	CAMK2A	chr5	150289737	150290291	niche_circuit_module	downstream_synaptic_excitability	ConstructionBalance	high	False	1	20	1	0	0	21
+CAMK2B	13506	ENSG00000058404	CAMK2B	chr7	44325420	44325656	niche_circuit_module	downstream_synaptic_excitability	ConstructionBalance	high	False	1	20	0	2	4	26
+CFL1	20025	ENSG00000172757	CFL1	chr11	65856963	65861421	niche_circuit_module	downstream_neurite_morphology	ConstructionBalance	high	False	1	20	4	0	1	25
+CNTN5	20497	ENSG00000149972	CNTN5	chr11	99020948	99844808	niche_circuit_module	downstream_neurite_morphology	ConstructionBalance	high	False	1	0	24	0	1	25
+DCC	30570	ENSG00000187323	DCC	chr18	52340196	52934772	developmental_origin_module;manuscript_candidate_tier;niche_circuit_module	Tier 4 screen-specific mechanism support;downstream_neurite_morphology;downstream_neurite_synapse_construction	ConstructionBalance;EpigenomicCompatibility	high	False	3	1	34	0	0	35
+DCX	36052	ENSG00000077279	DCX	chrX	111410948	111412429	developmental_origin_module;niche_circuit_module	shared_neurogenic_niche_state;shared_postmitotic_granule_maturation	EpigenomicCompatibility;NicheSignal	high	False	2	7	1	0	0	8
+DKK3	19267	ENSG00000050165	DKK3	chr11	12009081	12009769	developmental_origin_module;niche_circuit_module	dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	False	2	22	1	0	1	24
+DLL1	13005	ENSG00000198719	DLL1	chr6	170291077	170291078	niche_circuit_module	shared_neurogenic_niche_state	NicheSignal	high	False	1	18	1	1	2	22
+DPYSL2	15057	ENSG00000092964	DPYSL2	chr8	26514030	26578405	developmental_origin_module;niche_circuit_module	downstream_neurite_morphology;downstream_neurite_synapse_construction	ConstructionBalance;EpigenomicCompatibility	high	False	2	26	6	2	2	36
+DPYSL3	10749	ENSG00000113657	DPYSL3	chr5	147453958	147510068	developmental_origin_module;niche_circuit_module	downstream_neurite_morphology;downstream_neurite_synapse_construction	ConstructionBalance;EpigenomicCompatibility	high	False	2	11	5	0	2	18
+EMX2	18713	ENSG00000170370	EMX2	chr10	117542444	117542746	developmental_origin_module;niche_circuit_module	anterior_telencephalic_pattern;dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	True	3	10	1	0	4	15
+EN1	4775	ENSG00000163064	EN1	chr2	118847677	118847678	developmental_origin_module;niche_circuit_module	cerebellar_fate_rhombic_lip_shh;hindbrain_rhombic_lip_pattern	FatePolarity	high	True	2	7	0	0	1	8
+EN2	14659	ENSG00000164778	EN2	chr7	155458128	155458129	developmental_origin_module;niche_circuit_module	cerebellar_fate_rhombic_lip_shh;hindbrain_rhombic_lip_pattern	FatePolarity	high	True	2	12	0	1	1	14
+EOMES	6183	ENSG00000163508	EOMES	chr3	27722322	27722711	developmental_origin_module;niche_circuit_module	anterior_telencephalic_pattern;dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	True	3	5	1	0	1	7
+GABRB3	25254	ENSG00000166206	GABRB3	chr15	26629089	26939539	developmental_origin_module;manuscript_candidate_tier;niche_circuit_module	Tier 2 high-confidence wiring/synaptic executor;downstream_neurite_synapse_construction;downstream_synaptic_excitability	ConstructionBalance;EpigenomicCompatibility	high	False	3	12	21	0	1	34
+GAP43	6955	ENSG00000172020	GAP43	chr3	115623323	115623510	developmental_origin_module;niche_circuit_module	downstream_neurite_morphology;downstream_neurite_synapse_construction;shared_postmitotic_granule_maturation	ConstructionBalance;EpigenomicCompatibility	high	False	3	10	1	0	0	11
+GFAP	29251	ENSG00000131095	GFAP	chr17	44915485	44915500	niche_circuit_module	shared_neurogenic_niche_state	NicheSignal	high	False	1	14	1	1	2	18
+GLI1	21961	ENSG00000111087	GLI1	chr12	57459784	57460151	developmental_origin_module;niche_circuit_module	cerebellar_fate_rhombic_lip_shh;hindbrain_rhombic_lip_pattern;shared_neurogenic_niche_state	FatePolarity;NicheSignal	high	True	3	9	1	0	2	12
+GLI2	4798	ENSG00000074047	GLI2	chr2	120792408	120797291	developmental_origin_module;niche_circuit_module	cerebellar_fate_rhombic_lip_shh;hindbrain_rhombic_lip_pattern	FatePolarity	high	True	2	15	0	0	0	15
+GLIS3	16233	ENSG00000107249	GLIS3	chr9	4152146	4300068	developmental_origin_module;niche_circuit_module	dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	False	2	15	8	1	2	26
+GRIN2B	21298	ENSG00000273079	GRIN2B	chr12	13980362	13980363	developmental_origin_module;manuscript_candidate_tier;niche_circuit_module	Tier 2 high-confidence wiring/synaptic executor;downstream_neurite_synapse_construction;downstream_synaptic_excitability	ConstructionBalance;EpigenomicCompatibility	high	False	3	7	1	1	0	9
+HES1	7752	ENSG00000114315	HES1	chr3	194136147	194136148	developmental_origin_module;niche_circuit_module	deep_neural_progenitor;shared_neurogenic_niche_state	FatePolarity;NicheSignal	high	True	2	14	0	2	3	19
+HES5	111	ENSG00000197921	HES5	chr1	2530262	2530263	developmental_origin_module;niche_circuit_module	deep_neural_progenitor;shared_neurogenic_niche_state	FatePolarity;NicheSignal	high	True	2	17	0	0	1	18
+ID1	33253	ENSG00000125968	ID1	chr20	31605282	31605289	niche_circuit_module	shared_neurogenic_niche_state	NicheSignal	high	False	1	17	1	1	3	22
+ID2	3514	ENSG00000115738	ID2	chr2	8678844	8682056	niche_circuit_module	shared_neurogenic_niche_state	NicheSignal	high	False	1	9	2	1	3	15
+JAG1	33044	ENSG00000101384	JAG1	chr20	10673998	10673999	niche_circuit_module	shared_neurogenic_niche_state	NicheSignal	high	False	1	7	1	0	1	9
+KCND2	14172	ENSG00000184408	KCND2	chr7	120273174	120273175	manuscript_candidate_tier;niche_circuit_module	Tier 2 high-confidence wiring/synaptic executor;downstream_synaptic_excitability	ConstructionBalance	high	False	2	3	1	0	0	4
+KCNJ3	5025	ENSG00000162989	KCNJ3	chr2	154697854	154698695	manuscript_candidate_tier;niche_circuit_module	Tier 2 high-confidence wiring/synaptic executor;downstream_synaptic_excitability	ConstructionBalance	high	False	2	9	1	0	0	10
+KCNJ6	34180	ENSG00000157542	KCNJ6	chr21	37916456	38121345	manuscript_candidate_tier;niche_circuit_module	Tier 2 high-confidence wiring/synaptic executor;downstream_synaptic_excitability	ConstructionBalance	high	False	2	14	6	1	1	22
+L1CAM	36381	ENSG00000198910	L1CAM	chrX	153875846	153886173	developmental_origin_module;niche_circuit_module	downstream_neurite_morphology;downstream_neurite_synapse_construction	ConstructionBalance;EpigenomicCompatibility	high	False	2	20	1	0	0	21
+LEF1	8753	ENSG00000138795	LEF1	chr4	108166300	108168956	developmental_origin_module;niche_circuit_module	anterior_telencephalic_pattern;dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	True	3	3	1	0	1	5
+LHX2	17161	ENSG00000106689	LHX2	chr9	124011767	124011768	developmental_origin_module;niche_circuit_module	anterior_telencephalic_pattern;dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	True	3	10	1	0	0	11
+MAP1B	9980	ENSG00000131711	MAP1B	chr5	72107474	72107475	developmental_origin_module;manuscript_candidate_tier;niche_circuit_module	Tier 4 screen-specific mechanism support;downstream_neurite_morphology;downstream_neurite_synapse_construction	ConstructionBalance;EpigenomicCompatibility	high	False	3	12	1	1	3	17
+MEIS1	4112	ENSG00000143995	MEIS1	chr2	66435124	66439321	developmental_origin_module;niche_circuit_module	cerebellar_fate_rhombic_lip_shh;hindbrain_rhombic_lip_pattern	FatePolarity	high	True	2	5	1	1	2	9
+MYCN	3596	ENSG00000134323	MYCN	chr2	15940549	15940566	developmental_origin_module;niche_circuit_module	cerebellar_fate_rhombic_lip_shh;hindbrain_rhombic_lip_pattern	FatePolarity	high	True	2	15	0	1	0	16
+NCAM1	20627	ENSG00000149294	NCAM1	chr11	112961246	112961480	developmental_origin_module;niche_circuit_module	downstream_neurite_morphology;downstream_neurite_synapse_construction	ConstructionBalance;EpigenomicCompatibility	high	False	2	12	0	0	0	12
+NES	2204	ENSG00000132688	NES	chr1	156677406	156677407	developmental_origin_module;niche_circuit_module	deep_neural_progenitor;shared_neurogenic_niche_state	FatePolarity;NicheSignal	high	False	2	28	0	1	1	30
+NEUROD1	5263	ENSG00000162992	NEUROD1	chr2	181680875	181680876	developmental_origin_module;niche_circuit_module	dentate_fate_wnt_prox1;medial_pallium_dentate_lineage;shared_postmitotic_granule_maturation	EpigenomicCompatibility;FatePolarity	high	True	3	8	1	0	2	11
+NEUROD2	29004	ENSG00000171532	NEUROD2	chr17	39607919	39607920	developmental_origin_module;niche_circuit_module	dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	True	2	23	0	0	2	25
+NOTCH1	17436	ENSG00000148400	NOTCH1	chr9	136546047	136546048	developmental_origin_module;niche_circuit_module	deep_neural_progenitor;shared_neurogenic_niche_state	FatePolarity;NicheSignal	high	False	2	22	1	2	1	26
+NOTCH2	1797	ENSG00000134250	NOTCH2	chr1	120051713	120069662	niche_circuit_module	shared_neurogenic_niche_state	NicheSignal	high	False	1	8	1	0	0	9
+NRP1	17857	ENSG00000099250	NRP1	chr10	33334381	33336262	niche_circuit_module	downstream_neurite_morphology	ConstructionBalance	high	False	1	14	1	0	1	16
+NRXN1	3984	ENSG00000179915	NRXN1	chr2	49973938	51032561	niche_circuit_module	downstream_neurite_morphology	ConstructionBalance	high	False	1	3	51	1	1	56
+PAX6	19445	ENSG00000007372	PAX6	chr11	31804045	31817961	developmental_origin_module;niche_circuit_module	anterior_telencephalic_pattern;cerebellar_fate_rhombic_lip_shh;deep_neural_progenitor	FatePolarity	high	True	3	12	4	0	5	21
+PLXNA2	2883	ENSG00000076356	PLXNA2	chr1	208244383	208244384	niche_circuit_module	downstream_neurite_morphology	ConstructionBalance	high	False	1	13	1	2	4	20
+PLXNA4	14301	ENSG00000221866	PLXNA4	chr7	132576469	132648688	niche_circuit_module	downstream_neurite_morphology	ConstructionBalance	high	False	1	9	6	0	1	16
+PPP3CA	8697	ENSG00000138814	PPP3CA	chr4	101346841	101347526	manuscript_candidate_tier;niche_circuit_module	Tier 2 high-confidence wiring/synaptic executor;downstream_synaptic_excitability	ConstructionBalance	high	False	2	4	1	0	0	5
+PROX1	2965	ENSG00000117707	PROX1	chr1	213987934	213988517	developmental_origin_module;niche_circuit_module	dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	True	2	6	1	0	3	10
+PTCH1	16873	ENSG00000185920	PTCH1	chr9	95507198	95517057	developmental_origin_module;niche_circuit_module	cerebellar_fate_rhombic_lip_shh;hindbrain_rhombic_lip_pattern;shared_neurogenic_niche_state	FatePolarity;NicheSignal	high	False	3	14	4	1	0	19
+ROBO2	6741	ENSG00000185008	ROBO2	chr3	75906694	77477410	developmental_origin_module;manuscript_candidate_tier;niche_circuit_module	Tier 2 high-confidence wiring/synaptic executor;downstream_neurite_morphology;downstream_neurite_synapse_construction	ConstructionBalance;EpigenomicCompatibility	high	False	3	2	47	0	0	49
+RTN1	24340	ENSG00000139970	RTN1	chr14	59630608	59870776	niche_circuit_module	downstream_neurite_morphology	ConstructionBalance	high	False	1	9	23	0	0	32
+RTN3	19915	ENSG00000133318	RTN3	chr11	63681445	63681573	manuscript_candidate_tier;niche_circuit_module	Tier 4 screen-specific mechanism support;downstream_neurite_morphology	ConstructionBalance	high	False	2	17	1	0	1	19
+SLC17A6	19386	ENSG00000091664	SLC17A6	chr11	22338380	22338381	developmental_origin_module;manuscript_candidate_tier;niche_circuit_module	Tier 4 screen-specific mechanism support;downstream_neurite_synapse_construction;downstream_synaptic_excitability	ConstructionBalance;EpigenomicCompatibility	high	False	3	5	0	1	0	6
+SLC17A7	32442	ENSG00000104888	SLC17A7	chr19	49441526	49442360	developmental_origin_module;niche_circuit_module	downstream_neurite_synapse_construction;downstream_synaptic_excitability	ConstructionBalance;EpigenomicCompatibility	high	False	2	27	0	1	1	29
+SNAP25	33038	ENSG00000132639	SNAP25	chr20	10218829	10218833	developmental_origin_module;niche_circuit_module	downstream_neurite_synapse_construction;downstream_synaptic_excitability	ConstructionBalance;EpigenomicCompatibility	high	False	2	8	0	2	0	10
+SOX2	7594	ENSG00000181449	SOX2	chr3	181711924	181711925	developmental_origin_module;niche_circuit_module	deep_neural_progenitor;shared_neurogenic_niche_state	FatePolarity;NicheSignal	high	True	2	24	1	2	4	31
+STMN2	15544	ENSG00000104435	STMN2	chr8	79610813	79611735	developmental_origin_module;manuscript_candidate_tier;niche_circuit_module	Tier 4 screen-specific mechanism support;downstream_neurite_morphology;downstream_neurite_synapse_construction;shared_postmitotic_granule_maturation	ConstructionBalance;EpigenomicCompatibility	high	False	4	3	2	1	1	7
+STMN3	33813	ENSG00000197457	STMN3	chr20	63652765	63653424	developmental_origin_module;niche_circuit_module	downstream_neurite_morphology;downstream_neurite_synapse_construction;shared_postmitotic_granule_maturation	ConstructionBalance;EpigenomicCompatibility	high	False	3	16	1	0	1	18
+STXBP1	17212	ENSG00000136854	STXBP1	chr9	127579369	127612361	niche_circuit_module	downstream_synaptic_excitability	ConstructionBalance	high	False	1	14	5	1	2	22
+STXBP5L	7003	ENSG00000145087	STXBP5L	chr3	120908071	120908314	manuscript_candidate_tier;niche_circuit_module	Tier 2 high-confidence wiring/synaptic executor;downstream_synaptic_excitability	ConstructionBalance	high	False	2	10	1	0	0	11
+SYNPR	6651	ENSG00000163630	SYNPR	chr3	63278307	63443337	niche_circuit_module	downstream_synaptic_excitability	ConstructionBalance	high	False	1	8	8	0	0	16
+SYT1	22186	ENSG00000067715	SYT1	chr12	78863992	79045631	developmental_origin_module;niche_circuit_module	downstream_neurite_synapse_construction;downstream_synaptic_excitability	ConstructionBalance;EpigenomicCompatibility	high	False	2	10	12	0	0	22
+TBR1	5073	ENSG00000136535	TBR1	chr2	161416296	161417895	developmental_origin_module;niche_circuit_module	anterior_telencephalic_pattern;dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	True	3	8	0	2	3	13
+TCF7L2	18667	ENSG00000148737	TCF7L2	chr10	112950246	112950757	developmental_origin_module;niche_circuit_module	anterior_telencephalic_pattern;dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	True	3	7	1	2	2	12
+TUBB3	28070	ENSG00000258947	TUBB3	chr16	89921850	89923366	developmental_origin_module;niche_circuit_module	shared_neurogenic_niche_state;shared_postmitotic_granule_maturation	EpigenomicCompatibility;NicheSignal	high	False	2	21	1	0	3	25
+VIM	17719	ENSG00000026025	VIM	chr10	17229277	17229278	developmental_origin_module;niche_circuit_module	deep_neural_progenitor;shared_neurogenic_niche_state	FatePolarity;NicheSignal	high	False	2	8	1	1	0	10
+WNT3A	3112	ENSG00000154342	WNT3A	chr1	228006997	228006998	developmental_origin_module;niche_circuit_module	anterior_telencephalic_pattern;dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	False	3	13	0	0	1	14
+WNT5A	6594	ENSG00000114251	WNT5A	chr3	55481392	55489945	niche_circuit_module	shared_neurogenic_niche_state	NicheSignal	high	False	1	2	2	1	0	5
+WNT7A	6086	ENSG00000154764	WNT7A	chr3	13880070	13880071	developmental_origin_module;niche_circuit_module	anterior_telencephalic_pattern;dentate_fate_wnt_prox1;medial_pallium_dentate_lineage;shared_neurogenic_niche_state	FatePolarity;NicheSignal	high	False	4	14	1	0	2	17
+ZBTB20	6946	ENSG00000181722	ZBTB20	chr3	114383640	115147271	developmental_origin_module;niche_circuit_module	anterior_telencephalic_pattern;dentate_fate_wnt_prox1;medial_pallium_dentate_lineage	FatePolarity	high	True	3	12	65	0	1	78
+ZIC1	7298	ENSG00000152977	ZIC1	chr3	147409364	147409365	developmental_origin_module;niche_circuit_module	cerebellar_fate_rhombic_lip_shh;hindbrain_rhombic_lip_pattern	FatePolarity	high	True	2	7	1	0	1	9
+ZIC2	23525	ENSG00000043355	ZIC2	chr13	99981783	99981784	developmental_origin_module;niche_circuit_module	cerebellar_fate_rhombic_lip_shh;hindbrain_rhombic_lip_pattern	FatePolarity	high	True	2	18	1	1	5	25
+ZIC3	36247	ENSG00000156925	ZIC3	chrX	137566126	137566518	developmental_origin_module;niche_circuit_module	cerebellar_fate_rhombic_lip_shh;hindbrain_rhombic_lip_pattern	FatePolarity	high	True	2	0	1	0	0	1
+DYNLL1	22648	ENSG00000088986	DYNLL1	chr12	120469849	120496113	manuscript_candidate_tier	Tier 3 broad both-screen mechanism support	ConstructionBalance	medium_high	False	1	17	6	1	1	25
+EMX1	4194	ENSG00000135638	EMX1	chr2	72916259	72917519	developmental_origin_module	anterior_telencephalic_pattern	FatePolarity	medium_high	True	1	11	2	0	1	14
+FGF8	18557	ENSG00000107831	FGF8	chr10	101775958	101780369	developmental_origin_module	hindbrain_rhombic_lip_pattern	FatePolarity	medium_high	False	1	11	2	1	1	15
+FOXG1	24044	ENSG00000176165	FOXG1	chr14	28766786	28766787	developmental_origin_module	anterior_telencephalic_pattern	FatePolarity	medium_high	True	1	13	1	1	3	18
+GBX2	5829	ENSG00000168505	GBX2	chr2	236168008	236168386	developmental_origin_module	hindbrain_rhombic_lip_pattern	FatePolarity	medium_high	False	1	6	1	1	3	11
+HMGA2	22056	ENSG00000149948	HMGA2	chr12	65824130	65825123	developmental_origin_module	deep_neural_progenitor	FatePolarity	medium_high	False	1	6	0	0	0	6
+MAPKAP1	17187	ENSG00000119487	MAPKAP1	chr9	125672642	125707234	manuscript_candidate_tier	Tier 3 broad both-screen mechanism support	ConstructionBalance	medium_high	False	1	10	1	0	0	11
+MSI1	22642	ENSG00000135097	MSI1	chr12	120369163	120369164	developmental_origin_module	deep_neural_progenitor	FatePolarity	medium_high	False	1	17	1	0	2	20
+OTX2	24307	ENSG00000165588	OTX2	chr14	56805647	56816693	developmental_origin_module	anterior_telencephalic_pattern	FatePolarity	medium_high	True	1	5	2	1	1	9
+PAX2	18530	ENSG00000075891	PAX2	chr10	100745710	100746220	developmental_origin_module	hindbrain_rhombic_lip_pattern	FatePolarity	medium_high	False	1	5	0	0	1	6
+PAX5	16538	ENSG00000196092	PAX5	chr9	37025747	37034268	developmental_origin_module	hindbrain_rhombic_lip_pattern	FatePolarity	medium_high	False	1	3	2	0	1	6
+PAX8	4737	ENSG00000125618	PAX8	chr2	113241778	113278921	developmental_origin_module	hindbrain_rhombic_lip_pattern	FatePolarity	medium_high	False	1	19	2	2	3	26
+PROM1	8074	ENSG00000007062	PROM1	chr4	16076117	16084378	developmental_origin_module	deep_neural_progenitor	FatePolarity	medium_high	False	1	9	3	0	1	13
+RFX7	25697	ENSG00000181827	RFX7	chr15	56243265	56243266	manuscript_candidate_tier	Tier 3 broad both-screen mechanism support	ConstructionBalance	medium_high	True	1	1	0	2	1	4
+SIX3	3928	ENSG00000138083	SIX3	chr2	44941701	44941702	developmental_origin_module	anterior_telencephalic_pattern	FatePolarity	medium_high	False	1	8	1	0	1	10
+SOX1	23632	ENSG00000182968	SOX1	chr13	112067148	112067149	developmental_origin_module	deep_neural_progenitor	FatePolarity	medium_high	True	1	13	1	0	3	17
+SOX3	36258	ENSG00000134595	SOX3	chrX	140505115	140505116	developmental_origin_module	deep_neural_progenitor	FatePolarity	medium_high	True	1	3	0	1	1	5
+TUBA1A	21659	ENSG00000167552	TUBA1A	chr12	49186863	49189080	manuscript_candidate_tier	Tier 3 broad both-screen mechanism support	ConstructionBalance	medium_high	False	1	20	2	0	1	23
+WNT1	21647	ENSG00000125084	WNT1	chr12	48978321	48978453	developmental_origin_module	hindbrain_rhombic_lip_pattern	FatePolarity	medium_high	False	1	20	0	0	4	24
+ACTB	13112	ENSG00000075624	ACTB	chr7	5530600	5530602	manuscript_candidate_tier	Tier 4 screen-specific mechanism support	ConstructionBalance	medium	False	1	23	1	1	2	27
+ACTG1	29978	ENSG00000184009	ACTG1	chr17	81512754	81512818	manuscript_candidate_tier	Tier 4 screen-specific mechanism support	ConstructionBalance	medium	False	1	19	1	0	0	20
+BCL7A	22696	ENSG00000110987	BCL7A	chr12	122019421	122021886	manuscript_candidate_tier	Tier 4 screen-specific mechanism support	ConstructionBalance	medium	True	1	14	1	0	1	16
+C14ORF119	23945	ENSG00000179933	C14orf119	chr14	23095504	23095525	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	25	1	0	1	27
+C16ORF87	27305	ENSG00000155330	C16orf87	chr16	46831161	46831180	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	19	1	0	1	21
+C17ORF75	28813	ENSG00000108666	C17orf75	chr17	32342172	32342209	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	15	1	0	1	17
+C1ORF174	148	ENSG00000198912	C1orf174	chr1	3900271	3900272	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	9	1	0	2	12
+C1ORF21	2617	ENSG00000116667	C1orf21	chr1	184387028	184387029	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	8	1	0	0	9
+C5ORF34	9774	ENSG00000172244	C5orf34	chr5	43515147	43515148	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	6	1	0	0	7
+C9ORF85	16682	ENSG00000155621	C9orf85	chr9	71911544	71911661	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	10	1	0	0	11
+CALB2	27710	ENSG00000172137	CALB2	chr16	71358712	71358723	developmental_origin_module	shared_postmitotic_granule_maturation	EpigenomicCompatibility	medium	False	1	8	1	0	1	10
+FOXN2	3973	ENSG00000170802	FOXN2	chr2	48314681	48346217	manuscript_candidate_tier	Tier 4 screen-specific mechanism support	ConstructionBalance	medium	True	1	13	6	0	1	20
+HMGN2	602	ENSG00000198830	HMGN2	chr1	26472439	26472515	developmental_origin_module	shared_postmitotic_granule_maturation	EpigenomicCompatibility	medium	False	1	12	1	1	0	14
+KCNMB4	22114	ENSG00000135643	KCNMB4	chr12	70366289	70366290	manuscript_candidate_tier	Tier 4 screen-specific mechanism support	ConstructionBalance	medium	False	1	6	1	0	0	7
+KIAA1143	6352	ENSG00000163807	KIAA1143	chr3	44761618	44761619	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	5	1	0	0	6
+KIAA1328	30461	ENSG00000150477	KIAA1328	chr18	36829126	37066866	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	6	10	0	0	16
+MAP3K13	7658	ENSG00000073803	MAP3K13	chr3	185282940	185363136	manuscript_candidate_tier	Tier 4 screen-specific mechanism support	ConstructionBalance	medium	False	1	13	5	0	1	19
+MAPK14	11850	ENSG00000112062	MAPK14	chr6	36027676	36028158	manuscript_candidate_tier	Tier 4 screen-specific mechanism support	ConstructionBalance	medium	False	1	6	1	0	1	8
+POT1	14211	ENSG00000128513	POT1	chr7	124929800	124929983	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	8	1	0	0	9
+RAB7A	7112	ENSG00000075785	RAB7A	chr3	128726121	128795359	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	17	4	0	3	24
+RBFOX3	29914	ENSG00000167281	RBFOX3	chr17	79235804	79516148	developmental_origin_module	shared_postmitotic_granule_maturation	EpigenomicCompatibility	medium	False	1	11	10	0	0	21
+SEMA7A	25987	ENSG00000138623	SEMA7A	chr15	74433703	74433958	manuscript_candidate_tier	Tier 4 screen-specific mechanism support	ConstructionBalance	medium	False	1	14	1	0	2	17
+TCF4	30584	ENSG00000196628	TCF4	chr18	55302625	55636027	manuscript_candidate_tier	Tier 4 screen-specific mechanism support	ConstructionBalance	medium	True	1	10	39	0	0	49
+TMEM178A	3884	ENSG00000152154	TMEM178A	chr2	39665916	39665967	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	19	1	0	1	21
+TP53I11	19555	ENSG00000175274	TP53I11	chr11	44938334	44951306	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	8	2	1	1	12
+TUBA1B	21657	ENSG00000123416	TUBA1B	chr12	49131394	49131395	manuscript_candidate_tier	Tier 4 screen-specific mechanism support	ConstructionBalance	medium	False	1	21	1	1	1	24
+TUBB	11644	ENSG00000196230	TUBB	chr6	30720351	30721699	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	14	2	0	2	18
+ZNF148	7052	ENSG00000163848	ZNF148	chr3	125375248	125375354	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	6	1	0	1	8
+ZNF260	31935	ENSG00000254004	ZNF260	chr19	36525298	36528271	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	5	1	0	0	6
+ZNF277	14117	ENSG00000198839	ZNF277	chr7	112206694	112206701	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	17	1	0	1	19
+ZNF280D	25705	ENSG00000137871	ZNF280D	chr15	56733493	56734086	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	6	1	0	0	7
+ZNF281	2718	ENSG00000162702	ZNF281	chr1	200409991	200410056	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	8	1	0	1	10
+ZNF292	12283	ENSG00000188994	ZNF292	chr6	87152832	87155581	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	8	1	1	1	11
+ZNF3	13948	ENSG00000166526	ZNF3	chr7	100079166	100081764	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	20	2	0	1	23
+ZNF32	17923	ENSG00000169740	ZNF32	chr10	43648703	43648881	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	9	1	0	0	10
+ZNF410	24521	ENSG00000119725	ZNF410	chr14	73886616	73902206	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	10	2	0	0	12
+ZNF536	31766	ENSG00000198597	ZNF536	chr19	30372383	30372384	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	16	1	1	2	20
+ZNF706	15758	ENSG00000120963	ZNF706	chr8	101204700	101206064	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	20	1	0	1	22
+ZNF780A	32068	ENSG00000197782	ZNF780A	chr19	40090234	40090938	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	8	1	0	1	10
+ZNF800	14221	ENSG00000048405	ZNF800	chr7	127392365	127392708	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	6	1	0	0	7
+ZNF821	27730	ENSG00000102984	ZNF821	chr16	71883508	71884204	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	12	1	0	0	13
+ZNF827	9014	ENSG00000151612	ZNF827	chr4	145938421	145938823	manuscript_candidate_tier	Tier 5 exploratory non-identical ortholog	ConstructionBalance	medium	False	1	9	1	1	0	11

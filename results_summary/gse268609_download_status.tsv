@@ -1,0 +1,5 @@
+dataset	file	expected_bytes	actual_bytes	download_complete_by_size	status
+GSE268609	External_Data/GEO/GSE268609/GSE268609_barcodes.tsv.gz	1449649	1449649	True	downloaded
+GSE268609	External_Data/GEO/GSE268609/GSE268609_features.tsv.gz	2946511	2946511	True	downloaded
+GSE268609	External_Data/GEO/GSE268609/GSE268609_matrix.mtx.gz	4573344069	0	False	removed_after_selected_npz_export
+GSE268609	External_Data/GEO/GSE268609/GSE268609_family.soft.gz	14120	14120	True	downloaded

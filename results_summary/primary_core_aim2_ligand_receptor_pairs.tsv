@@ -1,0 +1,24 @@
+pair_id	pathway_id	pathway_label	pathway_family	pair_label	ligand_gene	ligand_canonical_gene	receptor_gene	receptor_canonical_gene
+LR001	tgf_beta_smad	TGF-beta/SMAD	differentiation_stop	TGF-beta2 to TGFBR1	TGFB2	TGFB2	TGFBR1	TGFBR1
+LR002	tgf_beta_smad	TGF-beta/SMAD	differentiation_stop	TGF-beta2 to TGFBR2	TGFB2	TGFB2	TGFBR2	TGFBR2
+LR003	tgf_beta_smad	TGF-beta/SMAD	differentiation_stop	TGF-beta1 to TGFBR2	TGFB1	TGFB1	TGFBR2	TGFBR2
+LR004	bdnf_trkb_mapk	BDNF/TrkB/MAPK	differentiation_stop	BDNF to TrkB	BDNF	BDNF	NTRK2	NTRK2
+LR005	shh_granule_expansion	SHH/PTCH/GLI	progenitor_expansion_or_regional_fate	SHH to PTCH1	SHH	SHH	PTCH1	PTCH1
+LR006	shh_granule_expansion	SHH/PTCH/GLI	progenitor_expansion_or_regional_fate	SHH to SMO readiness	SHH	SHH	SMO	SMO
+LR007	wnt_beta_catenin	WNT/beta-catenin	neurogenic_permissive	WNT3A to FZD5	WNT3A	WNT3A	FZD5	FZD5
+LR008	wnt_beta_catenin	WNT/beta-catenin	neurogenic_permissive	WNT7A to FZD3	WNT7A	WNT7A	FZD3	FZD3
+LR009	wnt_beta_catenin	WNT/beta-catenin	neurogenic_permissive	WNT7A to LRP6 readiness	WNT7A	WNT7A	LRP6	LRP6
+LR010	fgf_mapk	FGF/MAPK	neurogenic_permissive	FGF2 to FGFR1	FGF2	FGF2	FGFR1	FGFR1
+LR011	fgf_mapk	FGF/MAPK	neurogenic_permissive	FGF8 to FGFR1	FGF8	FGF8	FGFR1	FGFR1
+LR012	fgf_mapk	FGF/MAPK	neurogenic_permissive	FGF9 to FGFR3	FGF9	FGF9	FGFR3	FGFR3
+LR013	bmp_smad	BMP/SMAD	differentiation_stop	BMP4 to BMPR1A	BMP4	BMP4	BMPR1A	BMPR1A
+LR014	bmp_smad	BMP/SMAD	differentiation_stop	BMP7 to BMPR2	BMP7	BMP7	BMPR2	BMPR2
+LR015	notch_hes	Notch/HES	neurogenic_permissive	DLL1 to NOTCH1	DLL1	DLL1	NOTCH1	NOTCH1
+LR016	notch_hes	Notch/HES	neurogenic_permissive	JAG1 to NOTCH1	JAG1	JAG1	NOTCH1	NOTCH1
+LR017	notch_hes	Notch/HES	neurogenic_permissive	JAG1 to NOTCH2	JAG1	JAG1	NOTCH2	NOTCH2
+LR018	reelin_migration_stop	Reelin/migration-stop	differentiation_stop	Reelin to VLDLR	RELN	RELN	VLDLR	VLDLR
+LR019	reelin_migration_stop	Reelin/migration-stop	differentiation_stop	Reelin to LRP8	RELN	RELN	LRP8	LRP8
+LR020	semaphorin_guidance	Semaphorin/plexin guidance	differentiation_stop	SEMA6A to PLXNA2	SEMA6A	SEMA6A	PLXNA2	PLXNA2
+LR021	semaphorin_guidance	Semaphorin/plexin guidance	differentiation_stop	SEMA6A to PLXNA4	SEMA6A	SEMA6A	PLXNA4	PLXNA4
+LR022	semaphorin_guidance	Semaphorin/plexin guidance	differentiation_stop	SEMA3A to NRP1	SEMA3A	SEMA3A	NRP1	NRP1
+LR023	semaphorin_guidance	Semaphorin/plexin guidance	differentiation_stop	SEMA7A to PLXNC1	SEMA7A	SEMA7A	PLXNC1	PLXNC1

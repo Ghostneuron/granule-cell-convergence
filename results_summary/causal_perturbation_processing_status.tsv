@@ -1,0 +1,6 @@
+accession	status	n_gene_effects	notes
+GSE84786	processed	192	direct RBFOX3 hippocampal KO table
+GSE71916	processed	178	direct RBFOX-family neuronal knockdown table
+GSE242199	processed	565	mapped 113 module genes
+GSE81962	processed	752	kept 16 GNP samples; mapped 188 module genes
+GSE107252	deferred_annotation	0	series matrix downloaded, but GPL16570 platform annotation is too large for this first pass; retained for later targeted annotation or external chip map

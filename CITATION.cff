@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Granule-cell convergence analysis code"
+message: "If you use this code or release packet, please cite the manuscript and archived software release."
+type: software
+authors:
+  - family-names: Lu
+    given-names: Jie
+    orcid: "ORCID-to-be-added"
+version: "v0.9-submission-prep"
+date-released: "2026-06-28"
+repository-code: "GitHub-URL-to-be-added"
+doi: "Zenodo-DOI-to-be-added"
+keywords:
+  - granule cell
+  - dentate gyrus
+  - cerebellum
+  - single-cell transcriptomics
+  - neuronal morphology
+  - sparse coding

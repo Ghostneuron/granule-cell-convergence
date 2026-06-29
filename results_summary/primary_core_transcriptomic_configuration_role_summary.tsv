@@ -1,0 +1,6 @@
+specificity_role	role_label	role_order	n_group_units	n_datasets	n_samples	median_cerebellar_fate_rank	median_dentate_fate_rank	median_niche_rank	median_neurite_morphology_rank	median_synaptic_excitability_rank	median_downstream_mean_rank	median_downstream_construction_balance	median_regional_fate_balance	median_configuration_score
+dentate_granule	Dentate granule	0	4	1	1	0.2708333333333333	0.8958333333333334	0.3020833333333333	0.7291666666666667	0.8125	0.75	0.48958333333333337	0.47916666666666663	1.0520833333333335
+pyramidal_comparator	Pyramidal comparator	1	2	1	1	0.2708333333333333	0.8333333333333333	0.5625	0.9583333333333333	0.9166666666666667	0.9375	0.375	0.5625	0.9375
+cerebellar_granule	Cerebellar granule	2	6	1	3	0.9375	0.75	0.5	0.8125	0.8125	0.8125	0.28125	0.1875	0.40625
+purkinje_comparator	Purkinje comparator	3	3	1	3	0.375	0.875	0.875	1.0	1.0	1.0	0.125	-0.4375	-0.3125
+other_local_cell_type	Other local cells	4	33	2	4	0.625	0.375	0.5416666666666666	0.375	0.375	0.375	-0.08333333333333337	-0.10416666666666663	-0.16666666666666666

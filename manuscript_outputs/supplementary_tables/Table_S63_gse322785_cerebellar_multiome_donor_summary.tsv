@@ -1,0 +1,15 @@
+donor_id	species_inferred_from_prefix	n_geo_samples	library_types	sample_titles
+C796	Callithrix jacchus	2	ATAC;mRNA	C796CBm_ATAC;C796CBm_RNA
+C797	Callithrix jacchus	2	ATAC;mRNA	C797CBm_ATAC;C797CBm_RNA
+C798	Callithrix jacchus	2	ATAC;mRNA	C798CBm_ATAC;C798CBm_RNA
+C799	Callithrix jacchus	2	ATAC;mRNA	C799CBm_ATAC;C799CBm_RNA
+H187	Homo sapiens	2	ATAC;mRNA	H187CBm_ATAC;H187CBm_RNA
+H390	Homo sapiens	2	ATAC;mRNA	H390CBm_ATAC;H390CBm_RNA
+H628	Homo sapiens	2	ATAC;mRNA	H628CBm_ATAC;H628CBm_RNA
+P165	Pan troglodytes	2	ATAC;mRNA	P165CBm_ATAC;P165CBm_RNA
+P166	Pan troglodytes	2	ATAC;mRNA	P166CBm_ATAC;P166CBm_RNA
+P795	Pan troglodytes	2	ATAC;mRNA	P795CBm_ATAC;P795CBm_RNA
+R160	Macaca mulatta	2	ATAC;mRNA	R160CBm_ATAC;R160CBm_RNA
+R161	Macaca mulatta	2	ATAC;mRNA	R161CBm_ATAC;R161CBm_RNA
+R218	Macaca mulatta	2	ATAC;mRNA	R218CBm_ATAC;R218CBm_RNA
+R250	Macaca mulatta	2	ATAC;mRNA	R250CBm_ATAC;R250CBm_RNA

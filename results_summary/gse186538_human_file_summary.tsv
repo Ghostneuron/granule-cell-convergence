@@ -1,0 +1,4 @@
+dataset	species	file_role	path	rows	columns	matrix_market_header	matrix_rows	matrix_columns	matrix_nnz	orientation_inference
+GSE186538	Homo sapiens	cell_metadata	External_Data/GEO/GSE186538/GSE186538_Human_cell_meta.txt.gz	219058	7					
+GSE186538	Homo sapiens	genes	External_Data/GEO/GSE186538/GSE186538_Human_genes.txt.gz	33939	1					
+GSE186538	Homo sapiens	counts_matrix	External_Data/GEO/GSE186538/GSE186538_Human_counts.mtx.gz			%%MatrixMarket matrix coordinate integer general	33939	219058	482429742	genes_by_cells

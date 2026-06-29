@@ -1,0 +1,9 @@
+comparison	metric	n_units_a	n_units_b	median_of_unit_medians_a	median_of_unit_medians_b	difference_a_minus_b	mann_whitney_p	note
+dentate_candidate_vs_cerebellar_candidate	identity_contrast	41	8	0.64912	-0.237306	0.886426	9.7378e-06	Dataset-level identity separation; positive difference supports distinct regional identity.
+dentate_candidate_vs_known_non_dentate_reference	identity_contrast	41	20	0.64912	0	0.64912	2.76263e-10	Dataset-level dentate candidate separation from curated non-dentate references.
+cerebellar_candidate_vs_other_or_ambiguous	cerebellar_identity	8	42	0.367424	0.0630134	0.304411	5.67636e-05	Dataset-level cerebellar enrichment relative to ambiguous cells/spots.
+dentate_candidate_vs_cerebellar_candidate	structural_rank	41	8	0.6231	0.683107	-0.0600075	0.760232	Structural rank difference is not expected to separate identity; both groups being above 0.5 supports partial convergence.
+dentate_candidate_sign_test_greater_0.0	identity_contrast	41		0.64912	0.0	0.64912	4.54747e-13	Dentate candidate units should have positive identity contrast.; successes=41/41
+cerebellar_candidate_sign_test_less_0.0	identity_contrast	8		-0.237306	0.0	-0.237306	0.00390625	Cerebellar candidate units should have negative identity contrast.; successes=8/8
+dentate_candidate_sign_test_greater_0.5	structural_rank	41		0.6231	0.5	0.1231	5.61107e-05	Dentate candidate units above median within-sample structural rank support structural program activity.; successes=33/41
+cerebellar_candidate_sign_test_greater_0.5	structural_rank	8		0.683107	0.5	0.183107	0.0351562	Cerebellar candidate units above median within-sample structural rank support structural program activity.; successes=7/8

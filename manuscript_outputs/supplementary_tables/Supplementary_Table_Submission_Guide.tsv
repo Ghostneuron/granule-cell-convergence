@@ -1,0 +1,13 @@
+table_range	submission_packet	evidence_tier	reviewer_priority	topic_group	recommended_use
+Tables S1-S2	Reader-facing primary supplementary tables	Primary result	1_read_first	Dataset frame and curation	Directly supports Figure 1 and the primary-core dataset design.
+Tables S3-S8	Reader-facing primary supplementary tables	Primary result	1_read_first	Candidate discovery and tiering	Directly supports Figure 2 and the ortholog-aware candidate-tiering pipeline.
+Tables S9-S18	Reader-facing primary supplementary tables	Primary result	1_read_first	Comparator and configuration tests	Directly supports Figures 3 and 4, including named comparators and configuration scores.
+Tables S19-S28	Reader-facing primary supplementary tables	Primary result	1_read_first	Stage-window and signaling reinterpretation	Directly supports Figure 5 pathway, stage-window, conditioned-medium, and 2005-paper comparison analyses.
+Tables S29-S37	Reader-facing primary supplementary tables	Primary result	1_read_first	Morphology, physiology and sparse-coding calibration	Directly supports Figure 5 morphology/activity validation and model calibration.
+Tables S38-S40	Reader-facing primary supplementary tables	Primary result	1_read_first	Sender-receiver predictions	Directly supports Figure 6 ligand-receptor sender-receiver predictions.
+Tables S41-S53	Reader-facing supplementary controls	Supporting result	2_read_for_supplementary_figures	Stage split, granule specificity and developmental-origin controls	Supports Supplementary Figures S1-S4 and the argument against a recent common granule progenitor.
+Tables S54-S88	Supplementary Data archive	Archive/provenance	3_machine_readable_archive	Regulatory-compatibility extension	Retain as machine-readable regulatory-resource, feature-manifest, and sensitivity-analysis support rather than as primary evidence.
+Tables S89-S93	Reader-facing supplementary controls	Supporting result	2_read_for_supplementary_figures	Hierarchical integrative evidence model	Supports Supplementary Figure S5 and summarizes the term-balanced evidence synthesis.
+Tables S94-S100	Supplementary Data archive	Archive/provenance	3_machine_readable_archive	Public perturbation audit	Retain as hypothesis-generating perturbation-resource triage and module-shift support for Supplementary Figure S6.
+Table S101	Supplementary Data archive	Provenance map	3_machine_readable_archive	Result-level evidence anchors	Maps each Results section to source analysis files and the corresponding supplementary tables.
+Tables S102-S103	Reader-facing primary supplementary tables	Primary result	1_read_first	Hypothesis-support matrix	Directly supports Figure 7 and the evidence-weighted H1/H2/H3 comparison.

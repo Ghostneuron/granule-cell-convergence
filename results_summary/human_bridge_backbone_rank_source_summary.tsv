@@ -1,0 +1,17 @@
+source_layer	broad_class	n_units	n_cells_or_spots	median_identity_rank_contrast	median_structural_rank	median_dentate_rank	median_cerebellar_rank
+backbone_refined	broad_neuronal_structural_warning	8	17122	0.622166	0.638471	0.887862	0.279749
+backbone_refined	cerebellar_candidate	8	36982	-0.391897	0.683107	0.404965	0.789971
+backbone_refined	dentate_candidate	30	11053	0.377281	0.686093	0.782139	0.384064
+backbone_refined	dentate_low_support	31	1275	0.018781	0.400786	0.402845	0.384064
+backbone_refined	non_dentate_background	20	14352	-0.243312	0.252723	0.260699	0.387761
+backbone_refined	other_or_ambiguous	23	61580	-0.07839	0.267758	0.233732	0.384064
+gse268609_hippocampus_rna	broad_neuronal_structural_warning	39	32081	-0.0567626	0.675932	0.272561	0.310305
+gse268609_hippocampus_rna	dentate_candidate	113	32832	0.307385	0.548666	0.881615	0.567435
+gse268609_hippocampus_rna	other_or_ambiguous	39	29474	-0.0513447	0.213607	0.206307	0.278523
+gse325391_adult_dg	dentate_candidate	48	56808	-0.00789423	0.39911	0.504688	0.322826
+gse325391_adult_dg	non_dentate_background	8	419	-0.189243	0.0743965	0.127311	0.233835
+human_core_tuned	broad_neuronal_structural_warning	25	10520	-0.553005	0.77284	0.32329	0.894744
+human_core_tuned	dentate_candidate	57	67412	-0.00386706	0.781794	0.500103	0.404331
+human_core_tuned	dentate_low_support	19	3074	0.357255	0.533909	0.794438	0.404331
+human_core_tuned	non_dentate_background	26	37763	-0.078056	0.286594	0.32355	0.4044
+human_core_tuned	other_or_ambiguous	52	36805	-0.078056	0.369429	0.323327	0.4044

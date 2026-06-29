@@ -1,0 +1,22 @@
+{
+  "title": "Granule-cell convergence analysis code",
+  "upload_type": "software",
+  "description": "Analysis scripts, manuscript-facing summary outputs, figures and supplementary table packet for a computational study of dentate and cerebellar granule-cell convergence.",
+  "creators": [
+    {
+      "name": "Lu, Jie",
+      "orcid": "ORCID-to-be-added"
+    }
+  ],
+  "keywords": [
+    "granule cell",
+    "dentate gyrus",
+    "cerebellum",
+    "single-cell transcriptomics",
+    "neuronal morphology",
+    "sparse coding"
+  ],
+  "version": "v0.9-submission-prep",
+  "related_identifiers": [],
+  "notes": "Replace ORCID, GitHub URL, manuscript DOI and license metadata before final Zenodo deposition."
+}

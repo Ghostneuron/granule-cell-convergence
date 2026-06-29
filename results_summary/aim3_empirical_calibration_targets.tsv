@@ -1,0 +1,7 @@
+target_id	value	source	model_mapping	caveat
+input_sampling_stems_cerebellar	4.0	NeuroMorpho	direct lower-bound proxy for sparse input sampling/claws	stems are not synaptic input count
+input_sampling_stems_dentate	1.5	NeuroMorpho	direct lower-bound proxy for dentate primary dendritic input sampling	dentate branch complexity and dendritic field scale are separate from stem count
+branch_complexity_shared	20.5	NeuroMorpho	morphology-complexity prior, not identical to model input_degree	branch count should not be collapsed into one input-degree parameter
+active_spatial_bin_fraction_dentate	0.5489137678262028	DANDI 000003	upper-bound empirical activity support; not the same as instantaneous output active fraction	spatial-bin activity should not be forced to equal model output_active_fraction
+spatial_information_dentate	0.7800233536711016	DANDI 000003	supports nontrivial information retention and spatial selectivity	no direct cerebellar counterpart in this public layer
+pv_far_minus_near_dentate	0.12286382132147619	DANDI 000003	weak direct pattern-separation support	requires task/trajectory-specific validation before strong behavioral claims

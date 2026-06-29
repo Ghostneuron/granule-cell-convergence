@@ -1,0 +1,2 @@
+dataset	matrix_path	cell_metadata_path	var_path	n_cells	n_selected_genes	n_present_selected_genes	n_missing_selected_genes	nnz	total_selected_counts	median_selected_counts_per_cell	median_selected_genes_per_cell	data_dtype	max_fractional_error_before_cast
+GSE325391	Project/processed/gse325391_adult_dg_selected/matrix_cells_by_selected_genes.npz	Project/processed/gse325391_adult_dg_selected/cell_metadata.tsv.gz	Project/processed/gse325391_adult_dg_selected/var_selected_features.tsv	59075	2169	2083	86	80156246	557751570	6675.0	1480.0	int32	0.0

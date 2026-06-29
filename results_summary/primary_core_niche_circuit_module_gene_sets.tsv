@@ -1,0 +1,93 @@
+module_id	module_label	module_family	hypothesis_role	gene	canonical_gene	default_mouse_symbol	gene_order
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	ATOH1	ATOH1	Atoh1	1
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	BARHL1	BARHL1	Barhl1	2
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	PAX6	PAX6	Pax6	3
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	ZIC1	ZIC1	Zic1	4
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	ZIC2	ZIC2	Zic2	5
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	ZIC3	ZIC3	Zic3	6
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	MYCN	MYCN	Mycn	7
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	PTCH1	PTCH1	Ptch1	8
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	GLI1	GLI1	Gli1	9
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	GLI2	GLI2	Gli2	10
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	EN1	EN1	En1	11
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	EN2	EN2	En2	12
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	cerebellar-specific upstream fate and progenitor-expansion logic	MEIS1	MEIS1	Meis1	13
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	PROX1	PROX1	Prox1	1
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	NEUROD1	NEUROD1	Neurod1	2
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	NEUROD2	NEUROD2	Neurod2	3
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	EOMES	EOMES	Eomes	4
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	TBR1	TBR1	Tbr1	5
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	LEF1	LEF1	Lef1	6
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	LHX2	LHX2	Lhx2	7
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	EMX2	EMX2	Emx2	8
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	ZBTB20	ZBTB20	Zbtb20	9
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	TCF7L2	TCF7L2	Tcf7l2	10
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	WNT3A	WNT3A	Wnt3a	11
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	WNT7A	WNT7A	Wnt7a	12
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	DKK3	DKK3	Dkk3	13
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	BCL11B	BCL11B	Bcl11b	14
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	CALB1	CALB1	Calb1	15
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	C1QL3	C1QL3	C1ql3	16
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	dentate-specific hippocampal granule fate and WNT-associated identity logic	GLIS3	GLIS3	Glis3	17
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	SOX2	SOX2	Sox2	1
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	HES1	HES1	Hes1	2
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	HES5	HES5	Hes5	3
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	NOTCH1	NOTCH1	Notch1	4
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	NOTCH2	NOTCH2	Notch2	5
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	DLL1	DLL1	Dll1	6
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	JAG1	JAG1	Jag1	7
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	ASCL1	ASCL1	Ascl1	8
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	DCX	DCX	Dcx	9
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	TUBB3	TUBB3	Tubb3	10
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	NES	NES	Nes	11
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	VIM	VIM	Vim	12
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	GFAP	GFAP	Gfap	13
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	BMP4	BMP4	Bmp4	14
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	BMPR1A	BMPR1A	Bmpr1a	15
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	ID1	ID1	Id1	16
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	ID2	ID2	Id2	17
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	PTCH1	PTCH1	Ptch1	18
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	GLI1	GLI1	Gli1	19
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	WNT5A	WNT5A	Wnt5a	20
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	general neurogenic stem/progenitor and local niche signaling state	WNT7A	WNT7A	Wnt7a	21
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	GPM6A	GPM6A	Gpm6a	1
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	ROBO2	ROBO2	Robo2	2
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	DCC	DCC	Dcc	3
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	CADM3	CADM3	Cadm3	4
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	STMN2	STMN2	Stmn2	5
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	STMN3	STMN3	Stmn3	6
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	GAP43	GAP43	Gap43	7
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	DPYSL2	DPYSL2	Dpysl2	8
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	DPYSL3	DPYSL3	Dpysl3	9
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	MAP1B	MAP1B	Map1b	10
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	BASP1	BASP1	Basp1	11
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	NCAM1	NCAM1	Ncam1	12
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	L1CAM	L1CAM	L1cam	13
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	CFL1	CFL1	Cfl1	14
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	RTN1	RTN1	Rtn1	15
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	RTN3	RTN3	Rtn3	16
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	NRXN1	NRXN1	Nrxn1	17
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	CNTN5	CNTN5	Cntn5	18
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	PLXNA2	PLXNA2	Plxna2	19
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	PLXNA4	PLXNA4	Plxna4	20
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	convergent neurite, axon, adhesion, and morphology implementation	NRP1	NRP1	Nrp1	21
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	KCNK1	KCNK1	Kcnk1	1
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	KCNJ3	KCNJ3	Kcnj3	2
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	KCNJ6	KCNJ6	Kcnj6	3
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	KCND2	KCND2	Kcnd2	4
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	GABRA2	GABRA2	Gabra2	5
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	GABRB3	GABRB3	Gabrb3	6
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	GRIN2B	GRIN2B	Grin2b	7
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	CACNA2D1	CACNA2D1	Cacna2d1	8
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	PPP3CA	PPP3CA	Ppp3ca	9
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	STXBP5L	STXBP5L	Stxbp5l	10
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	STXBP1	STXBP1	Stxbp1	11
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	SYNPR	SYNPR	Synpr	12
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	SLC17A6	SLC17A6	Slc17a6	13
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	SLC17A7	SLC17A7	Slc17a7	14
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	SNAP25	SNAP25	Snap25	15
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	SYT1	SYT1	Syt1	16
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	CALM1	CALM1	Calm1	17
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	CALM2	CALM2	Calm2	18
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	CAMK2A	CAMK2A	Camk2a	19
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	convergent sparse-coding, synaptic maturation, and excitability implementation	CAMK2B	CAMK2B	Camk2b	20

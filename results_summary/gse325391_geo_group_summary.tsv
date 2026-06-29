@@ -1,0 +1,6 @@
+geo_group	condition_from_title	n_samples	n_male	n_female	age_min	age_median	age_max	runs	libraries
+CTRL	Non-demented control	6	4	2	68.0	85.0	93.0	2;3;4;5	S1R5stored;S2R3;S4R2;S4R4;S4R5;S8R5
+Fetal		3	0	0	24.0	24.0	24.0	6	S3R6;S4R6;S6R6
+MAD	Moderate Alzheimer's Disease	5	3	2	79.0	87.0	92.0	2;4;5;6	S2R2;S2R4;S2R5;S2R6;S6R5
+RES	Resillient	6	4	2	72.0	86.5	96.0	2;4;5;6	S1R6;S3R2;S3R4;S3R5;S5R6;S7R5
+SAD	Severe Alzheimer's Disease	7	5	2	73.0	78.0	93.0	1;2;3;4;5	S1R1;S1R2;S1R3;S1R4;S1R5;S2R5stored;S5R5

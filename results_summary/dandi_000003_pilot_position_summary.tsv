@@ -1,0 +1,2 @@
+n_position_samples	position_rate_hz	recording_duration_s	awake_samples	awake_duration_s	awake_moving_samples	awake_moving_duration_s	movement_speed_min	movement_speed_max	x_min	x_max	y_min	y_max	x_bins	y_bins	occupied_bins_min_0p25s	total_occupancy_s
+666029	39.0625	17050.3168	129569	3316.9664000000002	105390	2697.984	5.0	200.0	332.0	498.18	120.62	220.5	18	14	205	2638.1568

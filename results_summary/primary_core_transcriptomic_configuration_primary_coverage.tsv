@@ -1,0 +1,11 @@
+expression_layer	module_id	module_label	n_defined_genes	n_present_genes	present_genes	missing_genes
+full_mgi_ortholog_matrix	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	13	13	ATOH1,BARHL1,EN1,EN2,GLI1,GLI2,MEIS1,MYCN,PAX6,PTCH1,ZIC1,ZIC2,ZIC3	
+full_mgi_ortholog_matrix	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	17	17	BCL11B,C1QL3,CALB1,DKK3,EMX2,EOMES,GLIS3,LEF1,LHX2,NEUROD1,NEUROD2,PROX1,TBR1,TCF7L2,WNT3A,WNT7A,ZBTB20	
+full_mgi_ortholog_matrix	shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	21	21	ASCL1,BMP4,BMPR1A,DCX,DLL1,GFAP,GLI1,HES1,HES5,ID1,ID2,JAG1,NES,NOTCH1,NOTCH2,PTCH1,SOX2,TUBB3,VIM,WNT5A,WNT7A	
+full_mgi_ortholog_matrix	downstream_neurite_morphology	Downstream neurite/morphology	21	21	BASP1,CADM3,CFL1,CNTN5,DCC,DPYSL2,DPYSL3,GAP43,GPM6A,L1CAM,MAP1B,NCAM1,NRP1,NRXN1,PLXNA2,PLXNA4,ROBO2,RTN1,RTN3,STMN2,STMN3	
+full_mgi_ortholog_matrix	downstream_synaptic_excitability	Downstream synaptic/excitability	20	20	CACNA2D1,CALM1,CALM2,CAMK2A,CAMK2B,GABRA2,GABRB3,GRIN2B,KCND2,KCNJ3,KCNJ6,KCNK1,PPP3CA,SLC17A6,SLC17A7,SNAP25,STXBP1,STXBP5L,SYNPR,SYT1	
+selected_feature_matrix	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	13	6	ATOH1,BARHL1,EN2,PAX6,ZIC1,ZIC2	EN1,GLI1,GLI2,MEIS1,MYCN,PTCH1,ZIC3
+selected_feature_matrix	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	17	11	BCL11B,C1QL3,CALB1,DKK3,EOMES,GLIS3,NEUROD1,NEUROD2,PROX1,TBR1,ZBTB20	EMX2,LEF1,LHX2,TCF7L2,WNT3A,WNT7A
+selected_feature_matrix	shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	21	4	BMPR1A,DCX,GFAP,TUBB3	ASCL1,BMP4,DLL1,GLI1,HES1,HES5,ID1,ID2,JAG1,NES,NOTCH1,NOTCH2,PTCH1,SOX2,VIM,WNT5A,WNT7A
+selected_feature_matrix	downstream_neurite_morphology	Downstream neurite/morphology	21	21	BASP1,CADM3,CFL1,CNTN5,DCC,DPYSL2,DPYSL3,GAP43,GPM6A,L1CAM,MAP1B,NCAM1,NRP1,NRXN1,PLXNA2,PLXNA4,ROBO2,RTN1,RTN3,STMN2,STMN3	
+selected_feature_matrix	downstream_synaptic_excitability	Downstream synaptic/excitability	20	20	CACNA2D1,CALM1,CALM2,CAMK2A,CAMK2B,GABRA2,GABRB3,GRIN2B,KCND2,KCNJ3,KCNJ6,KCNK1,PPP3CA,SLC17A6,SLC17A7,SNAP25,STXBP1,STXBP5L,SYNPR,SYT1	

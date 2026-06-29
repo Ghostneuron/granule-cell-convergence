@@ -1,0 +1,6 @@
+diagnosis	n_rna_samples	sample_ids	age_min	age_median	age_max	pmi_median	tissues
+AD	8	1;2;3;4;26;28;30;34	70.0	81.0	92.0	5.666666666666665	Dentate gyrus;Hippocampal tissue
+HA	9	5;6;7;8;23;27;29;31;36	60.0	87.0	93.0	7.6	Dentate gyrus;Hippocampal tissue
+MCI	8	9;10;11;12;21;22;33;39	80.0	87.5	94.0	6.3	Dentate gyrus;Hippocampal tissue
+SA	6	15;16;17;18;19;20	86.0	91.0	100.0	7.0	Dentate gyrus
+YA	8	13;14;24;25;32;35;37;38	21.0	32.0	38.0	5.75	Dentate gyrus;Hippocampal tissue

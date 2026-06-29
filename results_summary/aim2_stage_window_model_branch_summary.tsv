@@ -1,0 +1,9 @@
+signature_id	branch	n_group_fits	median_slope	median_endpoint_delta	median_peak_stage_norm	median_peak_score	positive_slopes	negative_slopes	slope_sign_test_p_two_sided	interpretation	slope_sign_test_q_bh
+differentiation_stop_index	cerebellum	1	0.19873551106427814	0.06666666666666665	0.9878048780487805	0.8666666666666666	1	0	1.0	increases_with_stage	1.0
+differentiation_stop_index	dentate	4	-0.3159883505917159	-0.4675	0.32298136645962733	0.79	1	3	0.625	decreases_with_stage	1.0
+neurogenic_permissive_index	cerebellum	1	-0.33431180691454665	-0.2777777777777778	0.0	0.9444444444444444	0	1	1.0	decreases_with_stage	1.0
+neurogenic_permissive_index	dentate	4	-0.46831340401051935	-0.5708333333333333	0.21428571428571427	0.7999999999999999	1	3	0.625	decreases_with_stage	1.0
+stop_minus_permissive_index	cerebellum	1	0.5330473179788247	0.3444444444444444	0.9878048780487805	0.3111111111111111	1	0	1.0	increases_with_stage	1.0
+stop_minus_permissive_index	dentate	4	0.05466880341880335	0.029999999999999923	0.4658385093167702	0.08291666666666656	4	0	0.125	increases_with_stage	1.0
+tgf_bdnf_2005_index	cerebellum	1	0.41763259571478745	0.3333333333333333	0.9878048780487805	0.8333333333333333	1	0	1.0	late_stage_or_activity_window	1.0
+tgf_bdnf_2005_index	dentate	4	-0.2927907729289941	-0.415625	0.21428571428571427	0.775	1	3	0.625	early_or_intermediate_stage_window	1.0

@@ -1,0 +1,7 @@
+test	class_a	class_b	metric	n_a	n_b	median_a	median_b	effect_delta_a_minus_b	p_value	interpretation
+mann_whitney_u	dentate_candidate	cerebellar_candidate	identity_contrast	11259	30797	0.356389	-0.149313	0.996773	0	Positive effect means dentate candidates are dentate-identity shifted relative to cerebellar candidates.
+mann_whitney_u	dentate_candidate	known_non_dentate_reference	identity_contrast	11259	14352	0.356389	0.0577623	0.60743	0	Positive effect means dentate candidates separate from curated non-dentate reference cells.
+mann_whitney_u	cerebellar_candidate	other_or_ambiguous	cerebellar_identity	30797	62037	0.374984	0.115525	0.827715	0	Positive effect means cerebellar candidates are cerebellar-identity enriched relative to ambiguous cells.
+mann_whitney_u	dentate_candidate	known_non_dentate_reference	structural_rank	11259	14352	0.528509	0.490201	0.0622921	9.79285e-12	Positive effect means dentate candidates are structurally enriched relative to curated non-dentate references.
+mann_whitney_u	cerebellar_candidate	other_or_ambiguous	structural_rank	30797	62037	0.677558	0.276145	0.726963	0	Positive effect means cerebellar candidates are structurally enriched relative to ambiguous cells/spots.
+mann_whitney_u	dentate_candidate	cerebellar_candidate	structural_rank	11259	30797	0.528509	0.677558	-0.347876	0	Small effect with both medians high would support convergence of structural-program rank.

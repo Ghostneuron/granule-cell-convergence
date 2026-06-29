@@ -1,0 +1,5 @@
+branch_group	n_evidence_units	total_weight	row_weighted_score	Y_GranuleDesign_score	F_FatePolarity_score	C_ConstructionBalance_score	I_ConfigurationCoupling_score	T_Stage/Pseudotime_score	N_NicheSignal_score	E_EpigenomicCompatibility_score	M_MorphologySparseSampling_score	A_ActivitySparsity_score	R_CircuitResourceConstraint_score	term_balanced_score	support_class
+cerebellum	326	168.2	0.40748658270197163	0.8402777777777778	0.5416666666666666	0.5208333333333333	0.8749999999999999	0.5794444444444443	-0.12328767123287668	0.3283388346332508	0.8			0.5452841732028245	moderate_support
+cross_branch_or_external	5	3.0	0.7058435126157313								0.7058435126157313			0.7058435126157313	strong_support
+dentate	224	197.05	0.2924108081902248	0.29656862745098045	0.36274509803921573	-0.01715686274509803	0.4411764705882355	0.35093749999999996	0.6763853254067583		0.9666666666666667	0.7752043194234429		0.4815658931037752	moderate_support
+simulation	5	3.0	0.84										0.84	0.84	strong_support

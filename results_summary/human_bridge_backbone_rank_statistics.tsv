@@ -1,0 +1,10 @@
+comparison	metric	n_units_a	n_units_b	median_a	median_b	delta_a_minus_b	p_value	note	p_adj_bh	min_unit_cells
+dentate_candidate_vs_cerebellar_candidate	identity_rank_contrast	248	8	0.25533	-0.391897	0.647228	1.04486e-10	Rank-based identity contrast across the integrated backbone plus human bridge.	1.56729e-10	20
+dentate_candidate_vs_non_dentate_background	identity_rank_contrast	248	54	0.25533	-0.0870067	0.342337	2.20666e-22	Dentate units should separate from non-dentate/background units.	9.92999e-22	20
+dentate_candidate_vs_cerebellar_candidate	structural_rank	248	8	0.586634	0.683107	-0.096473	0.434732	Structural rank is expected to show convergence rather than identity separation.	0.434732	20
+dentate_candidate_sign_test_greater_0.0	identity_rank_contrast	248		0.25533	0	0.25533	7.21675e-18	Dentate candidate units should rank higher for dentate than cerebellar identity within their sample.; successes=190/248	2.16503e-17	20
+cerebellar_candidate_sign_test_less_0.0	identity_rank_contrast	8		-0.391897	0	-0.391897	0.00390625	Cerebellar candidate units should rank higher for cerebellar than dentate identity within their sample.; successes=8/8	0.00502232	20
+dentate_candidate_sign_test_greater_0.5	structural_rank	248		0.586634	0.5	0.0866345	6.35911e-12	Dentate candidate units above within-sample structural median support structural-program activity.; successes=177/248	1.14464e-11	20
+cerebellar_candidate_sign_test_greater_0.5	structural_rank	8		0.683107	0.5	0.183107	0.0351562	Cerebellar candidate units above within-sample structural median support structural-program activity.; successes=7/8	0.0395508	20
+gse325391_adult_dg_dentate_candidate_vs_gse268609_hippocampus_rna_dentate_candidate	identity_rank_contrast	48	113	-0.00789423	0.307385	-0.315279	6.58348e-23	Source-anchored adult DG units versus projected broader hippocampal RNA units.	5.92513e-22	20
+human_core_tuned_dentate_candidate_vs_gse268609_hippocampus_rna_dentate_candidate	structural_rank	57	113	0.781794	0.548666	0.233128	1.18902e-14	Tuned human-core dentate units versus projected GSE268609 dentate units.	2.67529e-14	20

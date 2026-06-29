@@ -1,0 +1,2 @@
+dataset	object_class	file	file_size_bytes	is_seurat	assays	default_assay	reductions	n_features	n_cells	n_metadata_columns
+GSE325391	Seurat	External_Data/GEO/GSE325391/GSE325391_adultgc_filtered.RDS	3515050479	TRUE	RNA;spliced;unspliced	RNA	pca;umap.unintegrated;harmony;harmony.umap	36588	59075	23

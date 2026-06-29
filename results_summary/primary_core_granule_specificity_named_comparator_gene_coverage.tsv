@@ -1,0 +1,17 @@
+dataset	sample	mechanism_axis	mechanism_axis_label	n_axis_genes	n_present_genes	present_genes	missing_genes
+GSE104323	10X_all_cells	developmental_regulatory_control	Developmental regulatory	7	7	Bcl7a,Foxn2,Nfia,Nfib,Rfx3,Rfx7,Tcf4	
+GSE104323	10X_all_cells	neurite_cytoskeleton_morphogenesis	Neurite/cytoskeleton	13	13	Actb,Actg1,Basp1,Dynll1,Gpm6a,Map1b,Map3k13,Mapk14,Mapkap1,Rtn3,Stmn2,Tuba1a,Tuba1b	
+GSE104323	10X_all_cells	axon_guidance_adhesion	Axon guidance/adhesion	4	4	Cadm3,Dcc,Robo2,Sema7a	
+GSE104323	10X_all_cells	synaptic_excitability_maturation	Synaptic/excitability	12	12	Cacna2d1,Gabra2,Gabrb3,Grin2b,Kcnd2,Kcnj3,Kcnj6,Kcnk1,Kcnmb4,Ppp3ca,Slc17a6,Stxbp5l	
+GSE122357	P0	developmental_regulatory_control	Developmental regulatory	7	7	Bcl7a,Foxn2,Nfia,Nfib,Rfx3,Rfx7,Tcf4	
+GSE122357	P0	neurite_cytoskeleton_morphogenesis	Neurite/cytoskeleton	13	13	Actb,Actg1,Basp1,Dynll1,Gpm6a,Map1b,Map3k13,Mapk14,Mapkap1,Rtn3,Stmn2,Tuba1a,Tuba1b	
+GSE122357	P0	axon_guidance_adhesion	Axon guidance/adhesion	4	4	Cadm3,Dcc,Robo2,Sema7a	
+GSE122357	P0	synaptic_excitability_maturation	Synaptic/excitability	12	12	Cacna2d1,Gabra2,Gabrb3,Grin2b,Kcnd2,Kcnj3,Kcnj6,Kcnk1,Kcnmb4,Ppp3ca,Slc17a6,Stxbp5l	
+GSE122357	P8a	developmental_regulatory_control	Developmental regulatory	7	7	Bcl7a,Foxn2,Nfia,Nfib,Rfx3,Rfx7,Tcf4	
+GSE122357	P8a	neurite_cytoskeleton_morphogenesis	Neurite/cytoskeleton	13	13	Actb,Actg1,Basp1,Dynll1,Gpm6a,Map1b,Map3k13,Mapk14,Mapkap1,Rtn3,Stmn2,Tuba1a,Tuba1b	
+GSE122357	P8a	axon_guidance_adhesion	Axon guidance/adhesion	4	4	Cadm3,Dcc,Robo2,Sema7a	
+GSE122357	P8a	synaptic_excitability_maturation	Synaptic/excitability	12	12	Cacna2d1,Gabra2,Gabrb3,Grin2b,Kcnd2,Kcnj3,Kcnj6,Kcnk1,Kcnmb4,Ppp3ca,Slc17a6,Stxbp5l	
+GSE122357	P8b	developmental_regulatory_control	Developmental regulatory	7	7	Bcl7a,Foxn2,Nfia,Nfib,Rfx3,Rfx7,Tcf4	
+GSE122357	P8b	neurite_cytoskeleton_morphogenesis	Neurite/cytoskeleton	13	13	Actb,Actg1,Basp1,Dynll1,Gpm6a,Map1b,Map3k13,Mapk14,Mapkap1,Rtn3,Stmn2,Tuba1a,Tuba1b	
+GSE122357	P8b	axon_guidance_adhesion	Axon guidance/adhesion	4	4	Cadm3,Dcc,Robo2,Sema7a	
+GSE122357	P8b	synaptic_excitability_maturation	Synaptic/excitability	12	12	Cacna2d1,Gabra2,Gabrb3,Grin2b,Kcnd2,Kcnj3,Kcnj6,Kcnk1,Kcnmb4,Ppp3ca,Slc17a6,Stxbp5l	

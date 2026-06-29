@@ -1,0 +1,11 @@
+priority	task	output	stop_condition	storage_policy
+P0	Draft manuscript skeleton and abstract	Project/manuscript/granule_cell_convergence_manuscript_draft.md	All sections have claim-safe topic sentences and figure callouts	No new downloads
+P0	Convert claim table into Results and Discussion guardrails	Manuscript text	No unsupported causal, universal-stop, or unique-pathway language remains	No new downloads
+P1	Polish Figure 1 biological question and dataset map	Project/results/manuscript_figures/figure1_primary_core_concept.png	Biological question and dataset frame are understandable in one glance	No new downloads
+P1	Polish Figure 5 stage-window and sparse-coding synthesis	Project/results/manuscript_figures/figure5_aim2_aim3_final_model.png	Stage-window and sparse-coding logic are visible without dense explanatory text	No new downloads
+P1	Decide whether Figure 6 is final synthesis figure or graphical abstract	Project/results/manuscript_figures/figure6_integrated_working_model.png	Figure role is assigned in manuscript draft	No new downloads
+P1	Reformat DANDI six-session spatial validation for manuscript	Project/results/dandi_000003_manuscript_validation_summary.tsv	Validation layer includes granule unit counts, spatial information, active-bin fraction, and caveats	Use derived snapshot; do not rerun unless intentional
+P1	Reformat NeuroMorpho validation for manuscript	Project/results/neuromorpho_manuscript_validation_summary.tsv	Validation layer separates stem count, branch count, dendritic-field scale, and caveats	No new downloads
+P1	Build 2005-paper support/revision table	Project/results/development_2005_sequencing_support_revision_table.tsv	Each 2005-conditioned-medium claim is labeled supported, reframed, or still untested	No new downloads
+P2	Optional targeted DANDI expansion	External_Data/DANDI/000003 additional NWB plus updated derived tables	Stop after one added file unless it materially improves Aim 3 validation	One file at a time; first candidate YutaMouse55-160907 at 8.78 GB
+P2	Optional full source rebuild for selected-feature human bridges	Rebuilt full-source sparse object(s)	Only if selected-feature trajectory caveat blocks manuscript framing	Redownload only the exact required source

@@ -1,0 +1,921 @@
+subject	session	unit_index	unit_id	cell_type	state_id	state_label	state_duration_s	spike_count	firing_rate_hz	active_in_state
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	0	awake	436.0	428	0.981651376146789	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	1	awake	107.0	19	0.17757009345794392	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	2	nrem	503.0	228	0.4532803180914513	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	3	transit	14.0	4	0.2857142857142857	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	4	rem	84.0	30	0.35714285714285715	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	5	nrem	502.0	181	0.3605577689243028	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	6	transit	19.0	5	0.2631578947368421	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	7	rem	47.0	19	0.40425531914893614	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	8	nrem	870.0	312	0.3586206896551724	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	9	transit	16.0	4	0.25	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	10	rem	166.0	74	0.4457831325301205	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	11	nrem	885.0	333	0.376271186440678	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	12	transit	14.0	11	0.7857142857142857	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	13	rem	134.0	49	0.3656716417910448	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	14	nrem	568.0	200	0.352112676056338	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	15	awake	1508.0	684	0.4535809018567639	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	16	nrem	1130.0	513	0.4539823008849557	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	17	transit	8.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	18	rem	67.0	43	0.6417910447761194	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	19	nrem	681.0	275	0.40381791483113066	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	20	transit	10.0	2	0.2	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	21	rem	35.0	12	0.34285714285714286	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	22	nrem	766.0	388	0.5065274151436031	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	23	transit	8.0	1	0.125	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	24	rem	52.0	47	0.9038461538461539	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	25	awake	288.0	184	0.6388888888888888	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	26	nrem	408.0	214	0.5245098039215687	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	27	transit	10.0	5	0.5	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	28	rem	200.0	88	0.44	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	29	nrem	811.0	412	0.5080147965474723	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	30	transit	8.0	2	0.25	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	31	rem	41.0	11	0.2682926829268293	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	32	nrem	194.0	118	0.6082474226804123	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	33	awake	978.0	941	0.9621676891615542	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	34	nrem	976.0	460	0.4713114754098361	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	35	transit	6.0	1	0.16666666666666666	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	36	rem	29.0	16	0.5517241379310345	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	37	nrem	35.0	26	0.7428571428571429	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	38	transit	12.0	3	0.25	True
+YutaMouse41	YutaMouse41-150829	0	0	pyramidal cell	39	rem	58.0	31	0.5344827586206896	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	0	awake	436.0	439	1.0068807339449541	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	1	awake	107.0	17	0.1588785046728972	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	2	nrem	503.0	789	1.5685884691848906	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	3	transit	14.0	27	1.9285714285714286	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	4	rem	84.0	253	3.011904761904762	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	5	nrem	502.0	727	1.448207171314741	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	6	transit	19.0	38	2.0	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	7	rem	47.0	148	3.148936170212766	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	8	nrem	870.0	1062	1.2206896551724138	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	9	transit	16.0	30	1.875	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	10	rem	166.0	505	3.0421686746987953	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	11	nrem	885.0	1026	1.159322033898305	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	12	transit	14.0	23	1.6428571428571428	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	13	rem	134.0	387	2.888059701492537	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	14	nrem	568.0	645	1.1355633802816902	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	15	awake	1508.0	790	0.5238726790450928	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	16	nrem	1130.0	1366	1.2088495575221239	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	17	transit	8.0	18	2.25	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	18	rem	67.0	171	2.5522388059701493	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	19	nrem	681.0	720	1.0572687224669604	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	20	transit	10.0	12	1.2	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	21	rem	35.0	92	2.6285714285714286	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	22	nrem	766.0	1207	1.5757180156657964	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	23	transit	8.0	38	4.75	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	24	rem	52.0	114	2.1923076923076925	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	25	awake	288.0	189	0.65625	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	26	nrem	408.0	556	1.3627450980392157	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	27	transit	10.0	58	5.8	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	28	rem	200.0	677	3.385	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	29	nrem	811.0	1143	1.409371146732429	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	30	transit	8.0	13	1.625	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	31	rem	41.0	86	2.097560975609756	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	32	nrem	194.0	245	1.2628865979381443	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	33	awake	978.0	830	0.8486707566462167	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	34	nrem	976.0	1440	1.4754098360655739	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	35	transit	6.0	6	1.0	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	36	rem	29.0	108	3.7241379310344827	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	37	nrem	35.0	65	1.8571428571428572	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	38	transit	12.0	31	2.5833333333333335	True
+YutaMouse41	YutaMouse41-150829	1	1	wide waveform cell (narrower, exclude opto tagged SST cell)	39	rem	58.0	228	3.9310344827586206	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	0	awake	436.0	395	0.9059633027522935	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	1	awake	107.0	68	0.6355140186915887	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	2	nrem	503.0	321	0.6381709741550696	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	3	transit	14.0	8	0.5714285714285714	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	4	rem	84.0	40	0.47619047619047616	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	5	nrem	502.0	277	0.5517928286852589	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	6	transit	19.0	16	0.8421052631578947	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	7	rem	47.0	19	0.40425531914893614	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	8	nrem	870.0	547	0.628735632183908	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	9	transit	16.0	7	0.4375	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	10	rem	166.0	65	0.39156626506024095	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	11	nrem	885.0	498	0.5627118644067797	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	12	transit	14.0	8	0.5714285714285714	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	13	rem	134.0	54	0.40298507462686567	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	14	nrem	568.0	453	0.7975352112676056	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	15	awake	1508.0	1161	0.769893899204244	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	16	nrem	1130.0	772	0.6831858407079646	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	17	transit	8.0	5	0.625	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	18	rem	67.0	35	0.5223880597014925	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	19	nrem	681.0	393	0.5770925110132159	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	20	transit	10.0	9	0.9	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	21	rem	35.0	16	0.45714285714285713	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	22	nrem	766.0	477	0.6227154046997389	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	23	transit	8.0	5	0.625	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	24	rem	52.0	23	0.4423076923076923	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	25	awake	288.0	202	0.7013888888888888	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	26	nrem	408.0	241	0.5906862745098039	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	27	transit	10.0	3	0.3	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	28	rem	200.0	99	0.495	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	29	nrem	811.0	509	0.6276202219482121	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	30	transit	8.0	5	0.625	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	31	rem	41.0	9	0.21951219512195122	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	32	nrem	194.0	135	0.6958762886597938	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	33	awake	978.0	647	0.6615541922290389	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	34	nrem	976.0	720	0.7377049180327869	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	35	transit	6.0	2	0.3333333333333333	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	36	rem	29.0	11	0.3793103448275862	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	37	nrem	35.0	18	0.5142857142857142	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	38	transit	12.0	4	0.3333333333333333	True
+YutaMouse41	YutaMouse41-150829	2	2	pyramidal cell	39	rem	58.0	17	0.29310344827586204	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	0	awake	436.0	310	0.7110091743119266	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	1	awake	107.0	56	0.5233644859813084	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	2	nrem	503.0	398	0.7912524850894632	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	3	transit	14.0	17	1.2142857142857142	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	4	rem	84.0	35	0.4166666666666667	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	5	nrem	502.0	364	0.7250996015936255	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	6	transit	19.0	16	0.8421052631578947	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	7	rem	47.0	19	0.40425531914893614	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	8	nrem	870.0	579	0.6655172413793103	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	9	transit	16.0	12	0.75	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	10	rem	166.0	127	0.7650602409638554	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	11	nrem	885.0	630	0.711864406779661	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	12	transit	14.0	6	0.42857142857142855	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	13	rem	134.0	79	0.5895522388059702	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	14	nrem	568.0	372	0.6549295774647887	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	15	awake	1508.0	1243	0.8242705570291777	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	16	nrem	1130.0	761	0.6734513274336283	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	17	transit	8.0	7	0.875	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	18	rem	67.0	43	0.6417910447761194	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	19	nrem	681.0	530	0.7782672540381792	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	20	transit	10.0	12	1.2	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	21	rem	35.0	13	0.37142857142857144	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	22	nrem	766.0	541	0.706266318537859	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	23	transit	8.0	7	0.875	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	24	rem	52.0	53	1.0192307692307692	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	25	awake	288.0	353	1.2256944444444444	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	26	nrem	408.0	228	0.5588235294117647	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	27	transit	10.0	1	0.1	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	28	rem	200.0	114	0.57	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	29	nrem	811.0	641	0.7903822441430333	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	30	transit	8.0	4	0.5	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	31	rem	41.0	24	0.5853658536585366	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	32	nrem	194.0	154	0.7938144329896907	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	33	awake	978.0	958	0.9795501022494888	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	34	nrem	976.0	611	0.6260245901639344	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	35	transit	6.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	36	rem	29.0	17	0.5862068965517241	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	37	nrem	35.0	15	0.42857142857142855	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	38	transit	12.0	10	0.8333333333333334	True
+YutaMouse41	YutaMouse41-150829	3	3	pyramidal cell	39	rem	58.0	25	0.43103448275862066	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	0	awake	436.0	597	1.3692660550458715	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	1	awake	107.0	53	0.4953271028037383	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	2	nrem	503.0	559	1.1113320079522864	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	3	transit	14.0	17	1.2142857142857142	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	4	rem	84.0	115	1.369047619047619	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	5	nrem	502.0	544	1.0836653386454183	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	6	transit	19.0	16	0.8421052631578947	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	7	rem	47.0	20	0.425531914893617	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	8	nrem	870.0	887	1.0195402298850575	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	9	transit	16.0	12	0.75	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	10	rem	166.0	139	0.8373493975903614	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	11	nrem	885.0	922	1.0418079096045199	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	12	transit	14.0	7	0.5	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	13	rem	134.0	86	0.6417910447761194	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	14	nrem	568.0	459	0.8080985915492958	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	15	awake	1508.0	1130	0.7493368700265252	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	16	nrem	1130.0	1667	1.475221238938053	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	17	transit	8.0	11	1.375	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	18	rem	67.0	143	2.1343283582089554	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	19	nrem	681.0	1091	1.6020558002936858	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	20	transit	10.0	14	1.4	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	21	rem	35.0	39	1.1142857142857143	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	22	nrem	766.0	1580	2.06266318537859	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	23	transit	8.0	8	1.0	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	24	rem	52.0	168	3.230769230769231	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	25	awake	288.0	460	1.5972222222222223	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	26	nrem	408.0	692	1.696078431372549	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	27	transit	10.0	26	2.6	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	28	rem	200.0	378	1.89	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	29	nrem	811.0	1884	2.3230579531442666	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	30	transit	8.0	13	1.625	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	31	rem	41.0	85	2.073170731707317	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	32	nrem	194.0	757	3.902061855670103	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	33	awake	978.0	1695	1.7331288343558282	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	34	nrem	976.0	1809	1.853483606557377	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	35	transit	6.0	10	1.6666666666666667	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	36	rem	29.0	50	1.7241379310344827	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	37	nrem	35.0	71	2.0285714285714285	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	38	transit	12.0	52	4.333333333333333	True
+YutaMouse41	YutaMouse41-150829	4	4	pyramidal cell	39	rem	58.0	44	0.7586206896551724	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	0	awake	436.0	2020	4.63302752293578	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	1	awake	107.0	57	0.5327102803738317	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	2	nrem	503.0	1083	2.1530815109343937	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	3	transit	14.0	14	1.0	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	4	rem	84.0	36	0.42857142857142855	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	5	nrem	502.0	888	1.7689243027888446	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	6	transit	19.0	26	1.368421052631579	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	7	rem	47.0	23	0.48936170212765956	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	8	nrem	870.0	1485	1.706896551724138	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	9	transit	16.0	20	1.25	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	10	rem	166.0	138	0.8313253012048193	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	11	nrem	885.0	1453	1.6418079096045197	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	12	transit	14.0	5	0.35714285714285715	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	13	rem	134.0	87	0.6492537313432836	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	14	nrem	568.0	902	1.5880281690140845	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	15	awake	1508.0	3843	2.5484084880636604	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	16	nrem	1130.0	1896	1.6778761061946903	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	17	transit	8.0	3	0.375	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	18	rem	67.0	43	0.6417910447761194	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	19	nrem	681.0	988	1.4508076358296622	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	20	transit	10.0	7	0.7	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	21	rem	35.0	38	1.0857142857142856	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	22	nrem	766.0	923	1.2049608355091384	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	23	transit	8.0	2	0.25	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	24	rem	52.0	22	0.4230769230769231	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	25	awake	288.0	1132	3.9305555555555554	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	26	nrem	408.0	644	1.5784313725490196	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	27	transit	10.0	14	1.4	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	28	rem	200.0	66	0.33	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	29	nrem	811.0	1293	1.594327990135635	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	30	transit	8.0	2	0.25	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	31	rem	41.0	19	0.4634146341463415	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	32	nrem	194.0	300	1.5463917525773196	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	33	awake	978.0	4353	4.450920245398773	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	34	nrem	976.0	1838	1.8831967213114753	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	35	transit	6.0	6	1.0	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	36	rem	29.0	9	0.3103448275862069	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	37	nrem	35.0	37	1.0571428571428572	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	38	transit	12.0	18	1.5	True
+YutaMouse41	YutaMouse41-150829	5	5	pyramidal cell	39	rem	58.0	47	0.8103448275862069	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	0	awake	436.0	508	1.165137614678899	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	1	awake	107.0	22	0.205607476635514	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	2	nrem	503.0	717	1.4254473161033798	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	3	transit	14.0	15	1.0714285714285714	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	4	rem	84.0	135	1.6071428571428572	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	5	nrem	502.0	821	1.6354581673306774	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	6	transit	19.0	33	1.736842105263158	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	7	rem	47.0	43	0.9148936170212766	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	8	nrem	870.0	1179	1.3551724137931034	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	9	transit	16.0	45	2.8125	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	10	rem	166.0	155	0.9337349397590361	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	11	nrem	885.0	1240	1.4011299435028248	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	12	transit	14.0	10	0.7142857142857143	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	13	rem	134.0	127	0.9477611940298507	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	14	nrem	568.0	627	1.1038732394366197	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	15	awake	1508.0	1040	0.6896551724137931	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	16	nrem	1130.0	1616	1.4300884955752213	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	17	transit	8.0	11	1.375	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	18	rem	67.0	118	1.7611940298507462	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	19	nrem	681.0	940	1.380323054331865	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	20	transit	10.0	7	0.7	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	21	rem	35.0	32	0.9142857142857143	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	22	nrem	766.0	872	1.1383812010443863	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	23	transit	8.0	9	1.125	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	24	rem	52.0	53	1.0192307692307692	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	25	awake	288.0	189	0.65625	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	26	nrem	408.0	603	1.4779411764705883	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	27	transit	10.0	7	0.7	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	28	rem	200.0	162	0.81	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	29	nrem	811.0	1137	1.4019728729963008	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	30	transit	8.0	6	0.75	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	31	rem	41.0	21	0.5121951219512195	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	32	nrem	194.0	266	1.3711340206185567	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	33	awake	978.0	677	0.6922290388548057	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	34	nrem	976.0	1624	1.6639344262295082	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	35	transit	6.0	11	1.8333333333333333	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	36	rem	29.0	51	1.7586206896551724	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	37	nrem	35.0	41	1.1714285714285715	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	38	transit	12.0	30	2.5	True
+YutaMouse41	YutaMouse41-150829	6	6	pyramidal cell	39	rem	58.0	47	0.8103448275862069	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	0	awake	436.0	1263	2.896788990825688	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	1	awake	107.0	194	1.8130841121495327	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	2	nrem	503.0	416	0.827037773359841	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	3	transit	14.0	8	0.5714285714285714	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	4	rem	84.0	75	0.8928571428571429	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	5	nrem	502.0	552	1.099601593625498	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	6	transit	19.0	10	0.5263157894736842	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	7	rem	47.0	49	1.0425531914893618	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	8	nrem	870.0	836	0.960919540229885	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	9	transit	16.0	4	0.25	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	10	rem	166.0	231	1.391566265060241	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	11	nrem	885.0	960	1.0847457627118644	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	12	transit	14.0	7	0.5	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	13	rem	134.0	177	1.3208955223880596	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	14	nrem	568.0	859	1.5123239436619718	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	15	awake	1508.0	3064	2.0318302387267906	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	16	nrem	1130.0	739	0.6539823008849558	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	17	transit	8.0	3	0.375	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	18	rem	67.0	52	0.7761194029850746	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	19	nrem	681.0	428	0.6284875183553598	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	20	transit	10.0	7	0.7	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	21	rem	35.0	7	0.2	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	22	nrem	766.0	499	0.6514360313315927	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	23	transit	8.0	3	0.375	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	24	rem	52.0	62	1.1923076923076923	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	25	awake	288.0	636	2.2083333333333335	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	26	nrem	408.0	203	0.49754901960784315	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	27	transit	10.0	2	0.2	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	28	rem	200.0	106	0.53	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	29	nrem	811.0	435	0.5363748458692972	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	30	transit	8.0	1	0.125	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	31	rem	41.0	9	0.21951219512195122	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	32	nrem	194.0	99	0.5103092783505154	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	33	awake	978.0	1808	1.8486707566462168	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	34	nrem	976.0	516	0.5286885245901639	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	35	transit	6.0	1	0.16666666666666666	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	36	rem	29.0	16	0.5517241379310345	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	37	nrem	35.0	26	0.7428571428571429	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	38	transit	12.0	4	0.3333333333333333	True
+YutaMouse41	YutaMouse41-150829	7	7	narrow waveform cell	39	rem	58.0	42	0.7241379310344828	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	0	awake	436.0	302	0.6926605504587156	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	1	awake	107.0	256	2.392523364485981	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	2	nrem	503.0	204	0.40556660039761433	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	3	transit	14.0	4	0.2857142857142857	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	4	rem	84.0	21	0.25	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	5	nrem	502.0	223	0.4442231075697211	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	6	transit	19.0	4	0.21052631578947367	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	7	rem	47.0	27	0.574468085106383	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	8	nrem	870.0	331	0.38045977011494253	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	9	transit	16.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	10	rem	166.0	75	0.45180722891566266	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	11	nrem	885.0	320	0.3615819209039548	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	12	transit	14.0	3	0.21428571428571427	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	13	rem	134.0	29	0.21641791044776118	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	14	nrem	568.0	226	0.397887323943662	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	15	awake	1508.0	1008	0.6684350132625995	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	16	nrem	1130.0	395	0.3495575221238938	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	17	transit	8.0	4	0.5	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	18	rem	67.0	47	0.7014925373134329	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	19	nrem	681.0	249	0.3656387665198238	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	20	transit	10.0	4	0.4	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	21	rem	35.0	7	0.2	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	22	nrem	766.0	361	0.47127937336814624	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	23	transit	8.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	24	rem	52.0	12	0.23076923076923078	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	25	awake	288.0	141	0.4895833333333333	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	26	nrem	408.0	155	0.3799019607843137	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	27	transit	10.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	28	rem	200.0	38	0.19	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	29	nrem	811.0	280	0.34525277435265106	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	30	transit	8.0	2	0.25	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	31	rem	41.0	21	0.5121951219512195	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	32	nrem	194.0	90	0.4639175257731959	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	33	awake	978.0	357	0.36503067484662577	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	34	nrem	976.0	362	0.3709016393442623	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	35	transit	6.0	5	0.8333333333333334	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	36	rem	29.0	27	0.9310344827586207	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	37	nrem	35.0	24	0.6857142857142857	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	38	transit	12.0	4	0.3333333333333333	True
+YutaMouse41	YutaMouse41-150829	8	8	pyramidal cell	39	rem	58.0	46	0.7931034482758621	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	0	awake	436.0	490	1.1238532110091743	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	1	awake	107.0	36	0.3364485981308411	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	2	nrem	503.0	264	0.5248508946322068	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	3	transit	14.0	10	0.7142857142857143	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	4	rem	84.0	28	0.3333333333333333	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	5	nrem	502.0	305	0.6075697211155379	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	6	transit	19.0	7	0.3684210526315789	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	7	rem	47.0	13	0.2765957446808511	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	8	nrem	870.0	450	0.5172413793103449	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	9	transit	16.0	11	0.6875	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	10	rem	166.0	68	0.40963855421686746	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	11	nrem	885.0	389	0.43954802259887005	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	12	transit	14.0	5	0.35714285714285715	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	13	rem	134.0	47	0.35074626865671643	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	14	nrem	568.0	257	0.4524647887323944	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	15	awake	1508.0	598	0.39655172413793105	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	16	nrem	1130.0	564	0.49911504424778763	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	17	transit	8.0	2	0.25	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	18	rem	67.0	69	1.0298507462686568	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	19	nrem	681.0	326	0.4787077826725404	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	20	transit	10.0	1	0.1	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	21	rem	35.0	13	0.37142857142857144	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	22	nrem	766.0	313	0.4086161879895561	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	23	transit	8.0	2	0.25	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	24	rem	52.0	22	0.4230769230769231	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	25	awake	288.0	129	0.4479166666666667	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	26	nrem	408.0	172	0.4215686274509804	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	27	transit	10.0	1	0.1	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	28	rem	200.0	27	0.135	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	29	nrem	811.0	338	0.41676942046855736	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	30	transit	8.0	1	0.125	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	31	rem	41.0	12	0.2926829268292683	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	32	nrem	194.0	93	0.4793814432989691	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	33	awake	978.0	803	0.8210633946830266	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	34	nrem	976.0	491	0.5030737704918032	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	35	transit	6.0	2	0.3333333333333333	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	36	rem	29.0	5	0.1724137931034483	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	37	nrem	35.0	11	0.3142857142857143	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	38	transit	12.0	7	0.5833333333333334	True
+YutaMouse41	YutaMouse41-150829	9	9	pyramidal cell	39	rem	58.0	8	0.13793103448275862	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	0	awake	436.0	180	0.41284403669724773	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	1	awake	107.0	21	0.19626168224299065	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	2	nrem	503.0	243	0.4831013916500994	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	3	transit	14.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	4	rem	84.0	8	0.09523809523809523	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	5	nrem	502.0	297	0.5916334661354582	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	6	transit	19.0	3	0.15789473684210525	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	7	rem	47.0	1	0.02127659574468085	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	8	nrem	870.0	381	0.4379310344827586	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	9	transit	16.0	4	0.25	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	10	rem	166.0	17	0.10240963855421686	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	11	nrem	885.0	402	0.4542372881355932	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	12	transit	14.0	3	0.21428571428571427	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	13	rem	134.0	52	0.3880597014925373	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	14	nrem	568.0	182	0.3204225352112676	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	15	awake	1508.0	400	0.26525198938992045	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	16	nrem	1130.0	453	0.4008849557522124	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	17	transit	8.0	5	0.625	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	18	rem	67.0	25	0.373134328358209	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	19	nrem	681.0	183	0.2687224669603524	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	20	transit	10.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	21	rem	35.0	7	0.2	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	22	nrem	766.0	297	0.3877284595300261	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	23	transit	8.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	24	rem	52.0	7	0.1346153846153846	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	25	awake	288.0	72	0.25	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	26	nrem	408.0	170	0.4166666666666667	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	27	transit	10.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	28	rem	200.0	35	0.175	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	29	nrem	811.0	310	0.38224414303329224	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	30	transit	8.0	2	0.25	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	31	rem	41.0	5	0.12195121951219512	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	32	nrem	194.0	69	0.3556701030927835	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	33	awake	978.0	371	0.37934560327198363	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	34	nrem	976.0	410	0.42008196721311475	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	35	transit	6.0	1	0.16666666666666666	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	36	rem	29.0	4	0.13793103448275862	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	37	nrem	35.0	7	0.2	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	38	transit	12.0	15	1.25	True
+YutaMouse41	YutaMouse41-150829	10	10	positive negative waveform unit	39	rem	58.0	4	0.06896551724137931	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	0	awake	436.0	343	0.786697247706422	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	1	awake	107.0	46	0.42990654205607476	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	2	nrem	503.0	574	1.1411530815109343	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	3	transit	14.0	21	1.5	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	4	rem	84.0	138	1.6428571428571428	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	5	nrem	502.0	538	1.0717131474103585	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	6	transit	19.0	20	1.0526315789473684	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	7	rem	47.0	70	1.4893617021276595	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	8	nrem	870.0	951	1.0931034482758621	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	9	transit	16.0	31	1.9375	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	10	rem	166.0	209	1.2590361445783131	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	11	nrem	885.0	966	1.0915254237288134	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	12	transit	14.0	44	3.142857142857143	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	13	rem	134.0	193	1.4402985074626866	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	14	nrem	568.0	547	0.9630281690140845	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	15	awake	1508.0	996	0.6604774535809018	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	16	nrem	1130.0	1484	1.3132743362831858	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	17	transit	8.0	8	1.0	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	18	rem	67.0	155	2.3134328358208953	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	19	nrem	681.0	792	1.1629955947136563	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	20	transit	10.0	18	1.8	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	21	rem	35.0	41	1.1714285714285715	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	22	nrem	766.0	1030	1.3446475195822454	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	23	transit	8.0	18	2.25	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	24	rem	52.0	80	1.5384615384615385	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	25	awake	288.0	158	0.5486111111111112	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	26	nrem	408.0	765	1.875	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	27	transit	10.0	21	2.1	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	28	rem	200.0	364	1.82	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	29	nrem	811.0	1646	2.029593094944513	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	30	transit	8.0	13	1.625	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	31	rem	41.0	79	1.9268292682926829	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	32	nrem	194.0	389	2.0051546391752577	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	33	awake	978.0	831	0.8496932515337423	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	34	nrem	976.0	1474	1.5102459016393444	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	35	transit	6.0	22	3.6666666666666665	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	36	rem	29.0	70	2.413793103448276	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	37	nrem	35.0	47	1.3428571428571427	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	38	transit	12.0	14	1.1666666666666667	True
+YutaMouse41	YutaMouse41-150829	11	11	pyramidal cell	39	rem	58.0	84	1.4482758620689655	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	0	awake	436.0	1288	2.9541284403669725	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	1	awake	107.0	92	0.8598130841121495	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	2	nrem	503.0	922	1.8330019880715707	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	3	transit	14.0	22	1.5714285714285714	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	4	rem	84.0	224	2.6666666666666665	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	5	nrem	502.0	906	1.8047808764940239	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	6	transit	19.0	25	1.3157894736842106	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	7	rem	47.0	85	1.8085106382978724	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	8	nrem	870.0	1427	1.6402298850574712	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	9	transit	16.0	27	1.6875	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	10	rem	166.0	330	1.9879518072289157	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	11	nrem	885.0	1478	1.6700564971751413	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	12	transit	14.0	24	1.7142857142857142	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	13	rem	134.0	200	1.492537313432836	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	14	nrem	568.0	783	1.3785211267605635	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	15	awake	1508.0	1176	0.7798408488063661	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	16	nrem	1130.0	1957	1.7318584070796461	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	17	transit	8.0	11	1.375	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	18	rem	67.0	209	3.1194029850746268	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	19	nrem	681.0	1044	1.5330396475770924	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	20	transit	10.0	19	1.9	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	21	rem	35.0	54	1.542857142857143	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	22	nrem	766.0	1281	1.6723237597911227	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	23	transit	8.0	10	1.25	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	24	rem	52.0	149	2.8653846153846154	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	25	awake	288.0	170	0.5902777777777778	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	26	nrem	408.0	699	1.713235294117647	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	27	transit	10.0	24	2.4	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	28	rem	200.0	395	1.975	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	29	nrem	811.0	1548	1.908754623921085	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	30	transit	8.0	40	5.0	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	31	rem	41.0	111	2.707317073170732	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	32	nrem	194.0	311	1.6030927835051547	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	33	awake	978.0	954	0.9754601226993865	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	34	nrem	976.0	1389	1.423155737704918	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	35	transit	6.0	5	0.8333333333333334	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	36	rem	29.0	42	1.4482758620689655	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	37	nrem	35.0	36	1.0285714285714285	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	38	transit	12.0	19	1.5833333333333333	True
+YutaMouse41	YutaMouse41-150829	12	12	pyramidal cell	39	rem	58.0	104	1.793103448275862	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	0	awake	436.0	763	1.75	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	1	awake	107.0	24	0.22429906542056074	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	2	nrem	503.0	293	0.5825049701789264	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	3	transit	14.0	11	0.7857142857142857	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	4	rem	84.0	67	0.7976190476190477	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	5	nrem	502.0	536	1.0677290836653386	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	6	transit	19.0	19	1.0	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	7	rem	47.0	37	0.7872340425531915	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	8	nrem	870.0	991	1.139080459770115	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	9	transit	16.0	11	0.6875	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	10	rem	166.0	88	0.5301204819277109	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	11	nrem	885.0	916	1.0350282485875706	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	12	transit	14.0	9	0.6428571428571429	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	13	rem	134.0	68	0.5074626865671642	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	14	nrem	568.0	245	0.43133802816901406	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	15	awake	1508.0	1189	0.7884615384615384	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	16	nrem	1130.0	5704	5.047787610619469	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	17	transit	8.0	20	2.5	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	18	rem	67.0	147	2.1940298507462686	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	19	nrem	681.0	1504	2.2085168869309837	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	20	transit	10.0	34	3.4	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	21	rem	35.0	83	2.3714285714285714	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	22	nrem	766.0	2523	3.293733681462141	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	23	transit	8.0	34	4.25	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	24	rem	52.0	86	1.6538461538461537	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	25	awake	288.0	158	0.5486111111111112	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	26	nrem	408.0	1070	2.622549019607843	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	27	transit	10.0	22	2.2	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	28	rem	200.0	296	1.48	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	29	nrem	811.0	2097	2.5856966707768185	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	30	transit	8.0	9	1.125	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	31	rem	41.0	52	1.2682926829268293	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	32	nrem	194.0	600	3.0927835051546393	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	33	awake	978.0	1126	1.1513292433537832	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	34	nrem	976.0	3429	3.5133196721311477	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	35	transit	6.0	26	4.333333333333333	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	36	rem	29.0	71	2.4482758620689653	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	37	nrem	35.0	189	5.4	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	38	transit	12.0	49	4.083333333333333	True
+YutaMouse41	YutaMouse41-150829	13	13	wide waveform cell (wider)	39	rem	58.0	316	5.448275862068965	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	0	awake	436.0	2159	4.951834862385321	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	1	awake	107.0	266	2.485981308411215	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	2	nrem	503.0	943	1.874751491053678	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	3	transit	14.0	42	3.0	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	4	rem	84.0	269	3.2023809523809526	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	5	nrem	502.0	1944	3.8725099601593627	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	6	transit	19.0	92	4.842105263157895	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	7	rem	47.0	291	6.191489361702128	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	8	nrem	870.0	6734	7.740229885057471	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	9	transit	16.0	121	7.5625	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	10	rem	166.0	2936	17.686746987951807	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	11	nrem	885.0	7866	8.888135593220339	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	12	transit	14.0	104	7.428571428571429	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	13	rem	134.0	1446	10.791044776119403	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	14	nrem	568.0	1964	3.4577464788732395	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	15	awake	1508.0	7685	5.096153846153846	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	16	nrem	1130.0	4836	4.279646017699115	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	17	transit	8.0	24	3.0	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	18	rem	67.0	176	2.626865671641791	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	19	nrem	681.0	1885	2.7679882525697503	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	20	transit	10.0	41	4.1	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	21	rem	35.0	86	2.4571428571428573	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	22	nrem	766.0	3450	4.503916449086162	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	23	transit	8.0	57	7.125	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	24	rem	52.0	399	7.673076923076923	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	25	awake	288.0	2202	7.645833333333333	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	26	nrem	408.0	3050	7.4754901960784315	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	27	transit	10.0	35	3.5	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	28	rem	200.0	1028	5.14	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	29	nrem	811.0	7084	8.734895191122071	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	30	transit	8.0	84	10.5	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	31	rem	41.0	414	10.097560975609756	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	32	nrem	194.0	2256	11.628865979381443	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	33	awake	978.0	11241	11.493865030674847	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	34	nrem	976.0	12234	12.53483606557377	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	35	transit	6.0	62	10.333333333333334	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	36	rem	29.0	290	10.0	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	37	nrem	35.0	470	13.428571428571429	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	38	transit	12.0	128	10.666666666666666	True
+YutaMouse41	YutaMouse41-150829	14	14	narrow waveform cell	39	rem	58.0	625	10.775862068965518	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	0	awake	436.0	23	0.052752293577981654	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	1	awake	107.0	16	0.14953271028037382	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	2	nrem	503.0	714	1.41948310139165	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	3	transit	14.0	20	1.4285714285714286	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	4	rem	84.0	50	0.5952380952380952	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	5	nrem	502.0	436	0.8685258964143426	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	6	transit	19.0	18	0.9473684210526315	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	7	rem	47.0	17	0.3617021276595745	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	8	nrem	870.0	705	0.8103448275862069	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	9	transit	16.0	13	0.8125	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	10	rem	166.0	39	0.23493975903614459	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	11	nrem	885.0	653	0.7378531073446327	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	12	transit	14.0	16	1.1428571428571428	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	13	rem	134.0	39	0.291044776119403	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	14	nrem	568.0	312	0.5492957746478874	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	15	awake	1508.0	314	0.20822281167108753	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	16	nrem	1130.0	1454	1.286725663716814	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	17	transit	8.0	4	0.5	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	18	rem	67.0	19	0.2835820895522388	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	19	nrem	681.0	468	0.6872246696035242	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	20	transit	10.0	14	1.4	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	21	rem	35.0	27	0.7714285714285715	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	22	nrem	766.0	547	0.7140992167101827	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	23	transit	8.0	5	0.625	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	24	rem	52.0	17	0.3269230769230769	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	25	awake	288.0	14	0.04861111111111111	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	26	nrem	408.0	362	0.8872549019607843	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	27	transit	10.0	9	0.9	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	28	rem	200.0	76	0.38	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	29	nrem	811.0	714	0.8803945745992602	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	30	transit	8.0	4	0.5	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	31	rem	41.0	21	0.5121951219512195	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	32	nrem	194.0	180	0.9278350515463918	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	33	awake	978.0	99	0.10122699386503067	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	34	nrem	976.0	1009	1.033811475409836	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	35	transit	6.0	7	1.1666666666666667	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	36	rem	29.0	25	0.8620689655172413	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	37	nrem	35.0	24	0.6857142857142857	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	38	transit	12.0	5	0.4166666666666667	True
+YutaMouse41	YutaMouse41-150829	15	15	granule cell	39	rem	58.0	31	0.5344827586206896	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	0	awake	436.0	100	0.22935779816513763	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	1	awake	107.0	16	0.14953271028037382	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	2	nrem	503.0	207	0.4115308151093439	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	3	transit	14.0	1	0.07142857142857142	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	4	rem	84.0	5	0.05952380952380952	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	5	nrem	502.0	154	0.30677290836653387	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	6	transit	19.0	5	0.2631578947368421	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	7	rem	47.0	2	0.0425531914893617	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	8	nrem	870.0	315	0.3620689655172414	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	9	transit	16.0	2	0.125	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	10	rem	166.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	11	nrem	885.0	274	0.3096045197740113	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	12	transit	14.0	1	0.07142857142857142	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	13	rem	134.0	8	0.05970149253731343	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	14	nrem	568.0	218	0.38380281690140844	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	15	awake	1508.0	1393	0.9237400530503979	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	16	nrem	1130.0	434	0.384070796460177	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	17	transit	8.0	1	0.125	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	18	rem	67.0	1	0.014925373134328358	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	19	nrem	681.0	245	0.35976505139500736	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	20	transit	10.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	21	rem	35.0	2	0.05714285714285714	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	22	nrem	766.0	180	0.2349869451697128	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	23	transit	8.0	1	0.125	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	24	rem	52.0	1	0.019230769230769232	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	25	awake	288.0	397	1.3784722222222223	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	26	nrem	408.0	150	0.36764705882352944	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	27	transit	10.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	28	rem	200.0	2	0.01	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	29	nrem	811.0	220	0.2712700369913687	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	30	transit	8.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	31	rem	41.0	4	0.0975609756097561	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	32	nrem	194.0	66	0.3402061855670103	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	33	awake	978.0	1058	1.081799591002045	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	34	nrem	976.0	254	0.26024590163934425	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	35	transit	6.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	36	rem	29.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	37	nrem	35.0	3	0.08571428571428572	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	38	transit	12.0	1	0.08333333333333333	True
+YutaMouse41	YutaMouse41-150829	16	16	mossy cell	39	rem	58.0	1	0.017241379310344827	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	0	awake	436.0	566	1.298165137614679	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	1	awake	107.0	232	2.1682242990654204	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	2	nrem	503.0	625	1.242544731610338	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	3	transit	14.0	4	0.2857142857142857	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	4	rem	84.0	32	0.38095238095238093	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	5	nrem	502.0	492	0.9800796812749004	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	6	transit	19.0	15	0.7894736842105263	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	7	rem	47.0	6	0.1276595744680851	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	8	nrem	870.0	854	0.9816091954022989	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	9	transit	16.0	8	0.5	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	10	rem	166.0	25	0.15060240963855423	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	11	nrem	885.0	851	0.9615819209039548	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	12	transit	14.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	13	rem	134.0	15	0.11194029850746269	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	14	nrem	568.0	574	1.0105633802816902	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	15	awake	1508.0	1067	0.7075596816976127	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	16	nrem	1130.0	1008	0.8920353982300885	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	17	transit	8.0	2	0.25	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	18	rem	67.0	27	0.40298507462686567	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	19	nrem	681.0	714	1.0484581497797356	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	20	transit	10.0	9	0.9	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	21	rem	35.0	20	0.5714285714285714	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	22	nrem	766.0	658	0.8590078328981723	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	23	transit	8.0	1	0.125	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	24	rem	52.0	5	0.09615384615384616	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	25	awake	288.0	199	0.6909722222222222	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	26	nrem	408.0	532	1.303921568627451	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	27	transit	10.0	3	0.3	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	28	rem	200.0	25	0.125	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	29	nrem	811.0	730	0.9001233045622689	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	30	transit	8.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	31	rem	41.0	14	0.34146341463414637	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	32	nrem	194.0	197	1.0154639175257731	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	33	awake	978.0	861	0.8803680981595092	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	34	nrem	976.0	1008	1.0327868852459017	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	35	transit	6.0	11	1.8333333333333333	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	36	rem	29.0	2	0.06896551724137931	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	37	nrem	35.0	19	0.5428571428571428	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	38	transit	12.0	18	1.5	True
+YutaMouse41	YutaMouse41-150829	17	17	granule cell	39	rem	58.0	17	0.29310344827586204	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	0	awake	436.0	161	0.36926605504587157	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	1	awake	107.0	47	0.4392523364485981	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	2	nrem	503.0	1312	2.6083499005964215	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	3	transit	14.0	24	1.7142857142857142	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	4	rem	84.0	126	1.5	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	5	nrem	502.0	1159	2.308764940239044	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	6	transit	19.0	50	2.6315789473684212	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	7	rem	47.0	76	1.6170212765957446	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	8	nrem	870.0	2024	2.3264367816091953	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	9	transit	16.0	19	1.1875	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	10	rem	166.0	194	1.1686746987951808	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	11	nrem	885.0	1953	2.2067796610169492	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	12	transit	14.0	31	2.2142857142857144	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	13	rem	134.0	102	0.7611940298507462	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	14	nrem	568.0	1223	2.153169014084507	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	15	awake	1508.0	920	0.610079575596817	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	16	nrem	1130.0	2049	1.8132743362831858	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	17	transit	8.0	9	1.125	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	18	rem	67.0	34	0.5074626865671642	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	19	nrem	681.0	1420	2.0851688693098387	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	20	transit	10.0	29	2.9	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	21	rem	35.0	41	1.1714285714285715	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	22	nrem	766.0	1462	1.9086161879895562	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	23	transit	8.0	3	0.375	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	24	rem	52.0	23	0.4423076923076923	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	25	awake	288.0	359	1.2465277777777777	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	26	nrem	408.0	837	2.051470588235294	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	27	transit	10.0	14	1.4	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	28	rem	200.0	105	0.525	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	29	nrem	811.0	1580	1.9482120838471024	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	30	transit	8.0	13	1.625	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	31	rem	41.0	33	0.8048780487804879	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	32	nrem	194.0	423	2.1804123711340204	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	33	awake	978.0	768	0.7852760736196319	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	34	nrem	976.0	1875	1.9211065573770492	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	35	transit	6.0	6	1.0	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	36	rem	29.0	45	1.5517241379310345	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	37	nrem	35.0	67	1.9142857142857144	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	38	transit	12.0	28	2.3333333333333335	True
+YutaMouse41	YutaMouse41-150829	18	18	granule cell	39	rem	58.0	36	0.6206896551724138	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	0	awake	436.0	14973	34.341743119266056	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	1	awake	107.0	1962	18.33644859813084	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	2	nrem	503.0	14165	28.1610337972167	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	3	transit	14.0	494	35.285714285714285	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	4	rem	84.0	3082	36.69047619047619	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	5	nrem	502.0	14254	28.394422310756973	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	6	transit	19.0	738	38.8421052631579	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	7	rem	47.0	1641	34.91489361702128	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	8	nrem	870.0	23867	27.433333333333334	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	9	transit	16.0	571	35.6875	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	10	rem	166.0	5269	31.740963855421686	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	11	nrem	885.0	23585	26.649717514124294	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	12	transit	14.0	490	35.0	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	13	rem	134.0	3970	29.62686567164179	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	14	nrem	568.0	13414	23.616197183098592	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	15	awake	1508.0	26019	17.25397877984085	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	16	nrem	1130.0	30355	26.86283185840708	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	17	transit	8.0	246	30.75	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	18	rem	67.0	1767	26.37313432835821	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	19	nrem	681.0	17826	26.176211453744493	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	20	transit	10.0	337	33.7	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	21	rem	35.0	1194	34.114285714285714	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	22	nrem	766.0	23715	30.95953002610966	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	23	transit	8.0	286	35.75	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	24	rem	52.0	1677	32.25	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	25	awake	288.0	4213	14.628472222222221	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	26	nrem	408.0	10923	26.772058823529413	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	27	transit	10.0	398	39.8	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	28	rem	200.0	6344	31.72	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	29	nrem	811.0	23553	29.041923551171394	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	30	transit	8.0	312	39.0	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	31	rem	41.0	1176	28.682926829268293	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	32	nrem	194.0	5567	28.695876288659793	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	33	awake	978.0	15184	15.525562372188139	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	34	nrem	976.0	24395	24.994877049180328	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	35	transit	6.0	220	36.666666666666664	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	36	rem	29.0	930	32.06896551724138	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	37	nrem	35.0	1076	30.742857142857144	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	38	transit	12.0	405	33.75	True
+YutaMouse41	YutaMouse41-150829	19	19	narrow waveform cell	39	rem	58.0	2059	35.5	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	0	awake	436.0	495	1.135321100917431	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	1	awake	107.0	7	0.06542056074766354	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	2	nrem	503.0	114	0.22664015904572565	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	3	transit	14.0	11	0.7857142857142857	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	4	rem	84.0	94	1.119047619047619	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	5	nrem	502.0	142	0.28286852589641437	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	6	transit	19.0	1	0.05263157894736842	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	7	rem	47.0	2	0.0425531914893617	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	8	nrem	870.0	71	0.08160919540229886	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	9	transit	16.0	2	0.125	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	10	rem	166.0	10	0.060240963855421686	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	11	nrem	885.0	37	0.04180790960451977	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	12	transit	14.0	2	0.14285714285714285	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	13	rem	134.0	11	0.08208955223880597	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	14	nrem	568.0	28	0.04929577464788732	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	15	awake	1508.0	85	0.05636604774535809	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	16	nrem	1130.0	416	0.368141592920354	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	17	transit	8.0	4	0.5	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	18	rem	67.0	59	0.8805970149253731	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	19	nrem	681.0	1021	1.499265785609398	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	20	transit	10.0	17	1.7	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	21	rem	35.0	73	2.085714285714286	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	22	nrem	766.0	1264	1.650130548302872	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	23	transit	8.0	51	6.375	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	24	rem	52.0	93	1.7884615384615385	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	25	awake	288.0	172	0.5972222222222222	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	26	nrem	408.0	738	1.8088235294117647	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	27	transit	10.0	32	3.2	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	28	rem	200.0	468	2.34	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	29	nrem	811.0	1589	1.9593094944512948	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	30	transit	8.0	25	3.125	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	31	rem	41.0	75	1.829268292682927	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	32	nrem	194.0	329	1.6958762886597938	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	33	awake	978.0	888	0.9079754601226994	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	34	nrem	976.0	1738	1.7807377049180328	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	35	transit	6.0	11	1.8333333333333333	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	36	rem	29.0	76	2.6206896551724137	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	37	nrem	35.0	65	1.8571428571428572	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	38	transit	12.0	29	2.4166666666666665	True
+YutaMouse41	YutaMouse41-150829	20	20	positive waveform unit (bursty)	39	rem	58.0	105	1.8103448275862069	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	0	awake	436.0	1991	4.56651376146789	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	1	awake	107.0	655	6.121495327102804	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	2	nrem	503.0	2990	5.944333996023857	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	3	transit	14.0	45	3.2142857142857144	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	4	rem	84.0	269	3.2023809523809526	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	5	nrem	502.0	1937	3.858565737051793	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	6	transit	19.0	48	2.526315789473684	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	7	rem	47.0	119	2.5319148936170213	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	8	nrem	870.0	2937	3.3758620689655174	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	9	transit	16.0	33	2.0625	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	10	rem	166.0	267	1.608433734939759	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	11	nrem	885.0	2709	3.0610169491525423	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	12	transit	14.0	21	1.5	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	13	rem	134.0	207	1.544776119402985	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	14	nrem	568.0	2210	3.890845070422535	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	15	awake	1508.0	10172	6.745358090185676	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	16	nrem	1130.0	7729	6.8398230088495575	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	17	transit	8.0	33	4.125	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	18	rem	67.0	322	4.8059701492537314	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	19	nrem	681.0	2708	3.976505139500734	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	20	transit	10.0	46	4.6	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	21	rem	35.0	113	3.2285714285714286	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	22	nrem	766.0	2650	3.4595300261096606	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	23	transit	8.0	22	2.75	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	24	rem	52.0	100	1.9230769230769231	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	25	awake	288.0	1221	4.239583333333333	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	26	nrem	408.0	2484	6.088235294117647	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	27	transit	10.0	54	5.4	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	28	rem	200.0	658	3.29	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	29	nrem	811.0	3680	4.5376078914919855	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	30	transit	8.0	29	3.625	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	31	rem	41.0	150	3.658536585365854	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	32	nrem	194.0	930	4.793814432989691	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	33	awake	978.0	6181	6.320040899795501	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	34	nrem	976.0	5081	5.20594262295082	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	35	transit	6.0	23	3.8333333333333335	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	36	rem	29.0	176	6.068965517241379	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	37	nrem	35.0	220	6.285714285714286	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	38	transit	12.0	53	4.416666666666667	True
+YutaMouse41	YutaMouse41-150829	21	21	wide waveform cell (wider)	39	rem	58.0	254	4.379310344827586	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	0	awake	436.0	78	0.17889908256880735	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	1	awake	107.0	50	0.4672897196261682	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	2	nrem	503.0	122	0.24254473161033796	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	3	transit	14.0	2	0.14285714285714285	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	4	rem	84.0	8	0.09523809523809523	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	5	nrem	502.0	109	0.21713147410358566	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	6	transit	19.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	22	22	unknown	7	rem	47.0	2	0.0425531914893617	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	8	nrem	870.0	111	0.12758620689655173	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	9	transit	16.0	2	0.125	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	10	rem	166.0	21	0.12650602409638553	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	11	nrem	885.0	140	0.15819209039548024	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	12	transit	14.0	1	0.07142857142857142	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	13	rem	134.0	18	0.13432835820895522	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	14	nrem	568.0	121	0.2130281690140845	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	15	awake	1508.0	1137	0.7539787798408488	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	16	nrem	1130.0	630	0.5575221238938053	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	17	transit	8.0	2	0.25	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	18	rem	67.0	5	0.07462686567164178	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	19	nrem	681.0	150	0.22026431718061673	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	20	transit	10.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	22	22	unknown	21	rem	35.0	2	0.05714285714285714	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	22	nrem	766.0	128	0.1671018276762402	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	23	transit	8.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	22	22	unknown	24	rem	52.0	4	0.07692307692307693	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	25	awake	288.0	67	0.2326388888888889	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	26	nrem	408.0	49	0.12009803921568628	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	27	transit	10.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	22	22	unknown	28	rem	200.0	11	0.055	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	29	nrem	811.0	141	0.17385943279901356	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	30	transit	8.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	22	22	unknown	31	rem	41.0	2	0.04878048780487805	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	32	nrem	194.0	19	0.0979381443298969	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	33	awake	978.0	387	0.39570552147239263	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	34	nrem	976.0	278	0.2848360655737705	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	35	transit	6.0	4	0.6666666666666666	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	36	rem	29.0	7	0.2413793103448276	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	37	nrem	35.0	9	0.2571428571428571	True
+YutaMouse41	YutaMouse41-150829	22	22	unknown	38	transit	12.0	0	0.0	False
+YutaMouse41	YutaMouse41-150829	22	22	unknown	39	rem	58.0	8	0.13793103448275862	True

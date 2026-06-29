@@ -1,0 +1,457 @@
+dataset	sample	group	panel	panel_gene_count	genes_found	coverage_fraction	mean_detection_fraction_found_genes	mean_expression_found_genes	found_genes	missing_genes
+GSE104323	10X_all_cells	Astro-adult	axon_guidance_synapse	15	15	1	0.0365801	0.0399351	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	Astro-adult	cerebellar_identity	12	12	1	0.071361	0.0942912	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	Astro-adult	dentate_identity	12	12	1	0.0220509	0.0254329	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	Astro-adult	metabolic_proteomic_validation	8	7	0.875	0.40712	0.601576	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	Astro-adult	morphogenesis_cytoskeleton	13	12	0.923077	0.164299	0.27239	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	Astro-adult	shared_granule_neuronal	12	12	1	0.0846186	0.110322	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	Astro-juv	axon_guidance_synapse	15	15	1	0.0548924	0.0614698	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	Astro-juv	cerebellar_identity	12	12	1	0.0808973	0.125457	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	Astro-juv	dentate_identity	12	12	1	0.0302477	0.0345107	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	Astro-juv	metabolic_proteomic_validation	8	7	0.875	0.604837	1.48982	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	Astro-juv	morphogenesis_cytoskeleton	13	12	0.923077	0.184937	0.305725	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	Astro-juv	shared_granule_neuronal	12	12	1	0.106882	0.137231	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	CA3-Pyr	axon_guidance_synapse	15	15	1	0.316917	1.02356	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	CA3-Pyr	cerebellar_identity	12	12	1	0.0325815	0.0567043	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	CA3-Pyr	dentate_identity	12	12	1	0.20661	0.510339	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	CA3-Pyr	metabolic_proteomic_validation	8	7	0.875	0.755639	3.39447	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	CA3-Pyr	morphogenesis_cytoskeleton	13	12	0.923077	0.640821	3.13879	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	CA3-Pyr	shared_granule_neuronal	12	12	1	0.52381	5.03837	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	Cajal-Retzius	axon_guidance_synapse	15	15	1	0.125358	0.232524	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	Cajal-Retzius	cerebellar_identity	12	12	1	0.0925233	0.144393	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	Cajal-Retzius	dentate_identity	12	12	1	0.193769	0.547664	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	Cajal-Retzius	metabolic_proteomic_validation	8	7	0.875	0.812283	3.06996	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	Cajal-Retzius	morphogenesis_cytoskeleton	13	12	0.923077	0.712461	3.98536	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	Cajal-Retzius	shared_granule_neuronal	12	12	1	0.325545	1.0824	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	Endothelial	axon_guidance_synapse	15	15	1	0.0853285	0.170411	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	Endothelial	cerebellar_identity	12	12	1	0.0399018	0.0644568	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	Endothelial	dentate_identity	12	12	1	0.0383671	0.0541744	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	Endothelial	metabolic_proteomic_validation	8	7	0.875	0.626151	2.08208	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	Endothelial	morphogenesis_cytoskeleton	13	12	0.923077	0.172191	0.534377	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	Endothelial	shared_granule_neuronal	12	12	1	0.0661448	0.0971454	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	Ependymal	axon_guidance_synapse	15	15	1	0.0937729	0.138461	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	Ependymal	cerebellar_identity	12	12	1	0.0728021	0.105311	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	Ependymal	dentate_identity	12	12	1	0.0851649	0.116758	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	Ependymal	metabolic_proteomic_validation	8	7	0.875	0.684458	2.8595	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	Ependymal	morphogenesis_cytoskeleton	13	12	0.923077	0.28892	0.842949	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	Ependymal	shared_granule_neuronal	12	12	1	0.1337	0.257326	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	GABA	axon_guidance_synapse	15	15	1	0.163317	0.255183	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	GABA	cerebellar_identity	12	12	1	0.00797448	0.0123604	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	GABA	dentate_identity	12	12	1	0.0829346	0.19697	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	GABA	metabolic_proteomic_validation	8	7	0.875	0.726589	3.56869	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	GABA	morphogenesis_cytoskeleton	13	12	0.923077	0.608453	2.41507	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	GABA	shared_granule_neuronal	12	12	1	0.349681	2.46451	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	GC-adult	axon_guidance_synapse	15	15	1	0.120092	0.177191	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	GC-adult	cerebellar_identity	12	12	1	0.00487945	0.00516648	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	GC-adult	dentate_identity	12	12	1	0.23769	0.425915	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	GC-adult	metabolic_proteomic_validation	8	7	0.875	0.441966	0.769176	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	GC-adult	morphogenesis_cytoskeleton	13	12	0.923077	0.284284	0.550644	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	GC-adult	shared_granule_neuronal	12	12	1	0.31828	0.607953	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	GC-juv	axon_guidance_synapse	15	15	1	0.18308	0.315848	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	GC-juv	cerebellar_identity	12	12	1	0.00962476	0.0104288	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	GC-juv	dentate_identity	12	12	1	0.333017	0.764717	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	GC-juv	metabolic_proteomic_validation	8	7	0.875	0.66061	2.23634	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	GC-juv	morphogenesis_cytoskeleton	13	12	0.923077	0.363621	0.82534	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	GC-juv	shared_granule_neuronal	12	12	1	0.415716	1.04661	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	Immature-Astro	axon_guidance_synapse	15	15	1	0.104147	0.135177	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	Immature-Astro	cerebellar_identity	12	12	1	0.0672044	0.0980543	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	Immature-Astro	dentate_identity	12	12	1	0.0613159	0.0890937	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	Immature-Astro	metabolic_proteomic_validation	8	7	0.875	0.718016	2.68335	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	Immature-Astro	morphogenesis_cytoskeleton	13	12	0.923077	0.363543	0.862391	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	Immature-Astro	shared_granule_neuronal	12	12	1	0.144009	0.217358	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	Immature-GABA	axon_guidance_synapse	15	15	1	0.19375	0.320182	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	Immature-GABA	cerebellar_identity	12	12	1	0.0138346	0.0302735	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	Immature-GABA	dentate_identity	12	12	1	0.172526	0.470459	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	Immature-GABA	metabolic_proteomic_validation	8	7	0.875	0.846261	5.40905	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	Immature-GABA	morphogenesis_cytoskeleton	13	12	0.923077	0.793294	7.16439	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	Immature-GABA	shared_granule_neuronal	12	12	1	0.412679	1.94116	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	Immature-GC	axon_guidance_synapse	15	15	1	0.260108	0.620725	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	Immature-GC	cerebellar_identity	12	12	1	0.00713105	0.00802673	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	Immature-GC	dentate_identity	12	12	1	0.40082	1.10197	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	Immature-GC	metabolic_proteomic_validation	8	7	0.875	0.783559	3.03118	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	Immature-GC	morphogenesis_cytoskeleton	13	12	0.923077	0.644653	2.61806	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	Immature-GC	shared_granule_neuronal	12	12	1	0.462416	1.24776	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	Immature-Pyr	axon_guidance_synapse	15	15	1	0.300678	1.00581	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	Immature-Pyr	cerebellar_identity	12	12	1	0.017017	0.0273414	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	Immature-Pyr	dentate_identity	12	12	1	0.302083	0.876328	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	Immature-Pyr	metabolic_proteomic_validation	8	7	0.875	0.877655	5.36612	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	Immature-Pyr	morphogenesis_cytoskeleton	13	12	0.923077	0.846073	9.1447	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	Immature-Pyr	shared_granule_neuronal	12	12	1	0.519635	2.95507	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	MOL	axon_guidance_synapse	15	15	1	0.0678977	0.104924	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	MOL	cerebellar_identity	12	12	1	0.0569366	0.141454	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	MOL	dentate_identity	12	12	1	0.071141	0.111861	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	MOL	metabolic_proteomic_validation	8	7	0.875	0.654627	3.3614	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	MOL	morphogenesis_cytoskeleton	13	12	0.923077	0.352391	1.21674	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	MOL	shared_granule_neuronal	12	12	1	0.103456	0.148319	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	MiCajal-Retziusoglia	axon_guidance_synapse	15	15	1	0.0433021	0.0574766	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	MiCajal-Retziusoglia	cerebellar_identity	12	12	1	0.0163552	0.0181075	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	MiCajal-Retziusoglia	dentate_identity	12	12	1	0.032905	0.0406931	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	MiCajal-Retziusoglia	metabolic_proteomic_validation	8	7	0.875	0.477971	1.12951	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	MiCajal-Retziusoglia	morphogenesis_cytoskeleton	13	12	0.923077	0.192952	0.520833	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	MiCajal-Retziusoglia	shared_granule_neuronal	12	12	1	0.0615265	0.0813864	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	NFOL	axon_guidance_synapse	15	15	1	0.0583333	0.0821839	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	NFOL	cerebellar_identity	12	12	1	0.00395114	0.00431034	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	NFOL	dentate_identity	12	12	1	0.0510058	0.0628592	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	NFOL	metabolic_proteomic_validation	8	7	0.875	0.749384	3.24384	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	NFOL	morphogenesis_cytoskeleton	13	12	0.923077	0.322198	1.26329	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	NFOL	shared_granule_neuronal	12	12	1	0.103807	0.144037	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	Neuroblast	axon_guidance_synapse	15	15	1	0.160174	0.277625	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	Neuroblast	cerebellar_identity	12	12	1	0.0372919	0.0546705	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	Neuroblast	dentate_identity	12	12	1	0.326032	0.882452	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	Neuroblast	metabolic_proteomic_validation	8	7	0.875	0.687701	2.29047	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	Neuroblast	morphogenesis_cytoskeleton	13	12	0.923077	0.524499	1.32488	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	Neuroblast	shared_granule_neuronal	12	12	1	0.383599	1.06825	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	OPC	axon_guidance_synapse	15	15	1	0.0626364	0.0833753	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	OPC	cerebellar_identity	12	12	1	0.0303317	0.0366289	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	OPC	dentate_identity	12	12	1	0.0812343	0.121117	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	OPC	metabolic_proteomic_validation	8	7	0.875	0.538863	1.37208	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	OPC	morphogenesis_cytoskeleton	13	12	0.923077	0.382242	0.876469	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	OPC	shared_granule_neuronal	12	12	1	0.121117	0.191646	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	PVM	axon_guidance_synapse	15	15	1	0.0894515	0.153586	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	PVM	cerebellar_identity	12	12	1	0.0337552	0.0390295	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	PVM	dentate_identity	12	12	1	0.0189873	0.0263713	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	PVM	metabolic_proteomic_validation	8	7	0.875	0.566004	1.48101	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	PVM	morphogenesis_cytoskeleton	13	12	0.923077	0.167722	0.383966	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	PVM	shared_granule_neuronal	12	12	1	0.0537975	0.0949368	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	RGL	axon_guidance_synapse	15	15	1	0.0596315	0.0663317	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	RGL	cerebellar_identity	12	12	1	0.0473199	0.0674205	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	RGL	dentate_identity	12	12	1	0.048995	0.0615578	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	RGL	metabolic_proteomic_validation	8	7	0.875	0.384781	0.741565	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	RGL	morphogenesis_cytoskeleton	13	12	0.923077	0.217337	0.427973	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	RGL	shared_granule_neuronal	12	12	1	0.102596	0.14531	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	RGL_young	axon_guidance_synapse	15	15	1	0.116715	0.167153	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	RGL_young	cerebellar_identity	12	12	1	0.0777454	0.134354	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	RGL_young	dentate_identity	12	12	1	0.0844266	0.122206	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	RGL_young	metabolic_proteomic_validation	8	7	0.875	0.73157	2.69659	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	RGL_young	morphogenesis_cytoskeleton	13	12	0.923077	0.32896	0.776967	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	RGL_young	shared_granule_neuronal	12	12	1	0.146987	0.252794	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	VLMC	axon_guidance_synapse	15	15	1	0.112083	0.1725	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	VLMC	cerebellar_identity	12	12	1	0.0989583	0.309375	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	VLMC	dentate_identity	12	12	1	0.0645833	0.1125	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	VLMC	metabolic_proteomic_validation	8	7	0.875	0.764286	4.5625	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	VLMC	morphogenesis_cytoskeleton	13	12	0.923077	0.252604	0.682292	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	VLMC	shared_granule_neuronal	12	12	1	0.0885417	0.159896	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	all	axon_guidance_synapse	15	15	1	0.173843	0.408368	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	all	cerebellar_identity	12	12	1	0.030501	0.0496416	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	all	dentate_identity	12	12	1	0.224295	0.553618	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	all	metabolic_proteomic_validation	8	7	0.875	0.688461	2.89861	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	all	morphogenesis_cytoskeleton	13	12	0.923077	0.491145	2.93135	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	all	shared_granule_neuronal	12	12	1	0.335029	1.25136	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	nIPC	axon_guidance_synapse	15	15	1	0.163362	0.289518	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	nIPC	cerebellar_identity	12	12	1	0.0923041	0.176346	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	nIPC	dentate_identity	12	12	1	0.223088	0.482767	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	nIPC	metabolic_proteomic_validation	8	7	0.875	0.730878	3.23351	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	nIPC	morphogenesis_cytoskeleton	13	12	0.923077	0.478517	1.46601	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	nIPC	shared_granule_neuronal	12	12	1	0.329084	0.770066	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE104323	10X_all_cells	nIPC-perin	axon_guidance_synapse	15	15	1	0.130912	0.198576	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE104323	10X_all_cells	nIPC-perin	cerebellar_identity	12	12	1	0.0956196	0.207087	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE104323	10X_all_cells	nIPC-perin	dentate_identity	12	12	1	0.0956196	0.141916	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE104323	10X_all_cells	nIPC-perin	metabolic_proteomic_validation	8	7	0.875	0.787241	4.10562	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE104323	10X_all_cells	nIPC-perin	morphogenesis_cytoskeleton	13	12	0.923077	0.395121	1.19266	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE104323	10X_all_cells	nIPC-perin	shared_granule_neuronal	12	12	1	0.176104	0.345085	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE122357	GSM3464549_P0	all	axon_guidance_synapse	15	15	1	0.0820836	0.121193	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE122357	GSM3464549_P0	all	cerebellar_identity	12	11	0.916667	0.317622	1.16459	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Gabra6
+GSE122357	GSM3464549_P0	all	dentate_identity	12	11	0.916667	0.233408	0.820787	C1ql3,Calb1,Calb2,Dcx,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	Egr3
+GSE122357	GSM3464549_P0	all	metabolic_proteomic_validation	8	7	0.875	0.736476	3.15663	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE122357	GSM3464549_P0	all	morphogenesis_cytoskeleton	13	12	0.923077	0.597817	3.60903	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE122357	GSM3464549_P0	all	shared_granule_neuronal	12	12	1	0.448536	2.06638	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE122357	GSM3464550_P8a	all	axon_guidance_synapse	15	15	1	0.0741568	0.115243	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE122357	GSM3464550_P8a	all	cerebellar_identity	12	11	0.916667	0.33855	1.22868	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Gabra6
+GSE122357	GSM3464550_P8a	all	dentate_identity	12	11	0.916667	0.257108	1.1386	C1ql3,Calb1,Calb2,Dcx,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	Egr3
+GSE122357	GSM3464550_P8a	all	metabolic_proteomic_validation	8	7	0.875	0.798127	5.31617	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE122357	GSM3464550_P8a	all	morphogenesis_cytoskeleton	13	12	0.923077	0.61034	4.10338	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE122357	GSM3464550_P8a	all	shared_granule_neuronal	12	12	1	0.459264	2.06588	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE122357	GSM3464551_P8b	all	axon_guidance_synapse	15	15	1	0.0667564	0.0929808	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE122357	GSM3464551_P8b	all	cerebellar_identity	12	11	0.916667	0.328722	1.07686	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Gabra6
+GSE122357	GSM3464551_P8b	all	dentate_identity	12	11	0.916667	0.244613	0.874053	C1ql3,Calb1,Calb2,Dcx,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	Egr3
+GSE122357	GSM3464551_P8b	all	metabolic_proteomic_validation	8	7	0.875	0.784315	4.31044	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE122357	GSM3464551_P8b	all	morphogenesis_cytoskeleton	13	12	0.923077	0.578395	3.06058	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE122357	GSM3464551_P8b	all	shared_granule_neuronal	12	12	1	0.414687	1.5768	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE150153	NAY6153A1_125	all	axon_guidance_synapse	15	15	1	0.1649	0.273395	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE150153	NAY6153A1_125	all	cerebellar_identity	12	12	1	0.203252	0.752243	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE150153	NAY6153A1_125	all	dentate_identity	12	12	1	0.219092	1.09336	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE150153	NAY6153A1_125	all	metabolic_proteomic_validation	8	7	0.875	0.8712	10.4176	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE150153	NAY6153A1_125	all	morphogenesis_cytoskeleton	13	12	0.923077	0.646341	7.79864	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE150153	NAY6153A1_125	all	shared_granule_neuronal	12	12	1	0.393608	1.69316	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE150153	NAY6153A2_678	all	axon_guidance_synapse	15	15	1	0.112421	0.163668	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE150153	NAY6153A2_678	all	cerebellar_identity	12	12	1	0.158037	0.422021	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE150153	NAY6153A2_678	all	dentate_identity	12	12	1	0.166793	0.561161	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE150153	NAY6153A2_678	all	metabolic_proteomic_validation	8	7	0.875	0.865133	10.3509	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE150153	NAY6153A2_678	all	morphogenesis_cytoskeleton	13	12	0.923077	0.504787	4.10513	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE150153	NAY6153A2_678	all	shared_granule_neuronal	12	12	1	0.292832	0.952444	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE165657	Cerebellum_aggr	all	axon_guidance_synapse	15	15	1	0.0612508	0.0759882	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE165657	Cerebellum_aggr	all	cerebellar_identity	12	12	1	0.17043	0.374118	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE165657	Cerebellum_aggr	all	dentate_identity	12	12	1	0.139275	0.438442	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE165657	Cerebellum_aggr	all	metabolic_proteomic_validation	8	7	0.875	0.644512	1.81656	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE165657	Cerebellum_aggr	all	morphogenesis_cytoskeleton	13	12	0.923077	0.398676	1.6853	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE165657	Cerebellum_aggr	all	shared_granule_neuronal	12	12	1	0.298422	0.796435	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE214309	snRNA_counts	all	axon_guidance_synapse	15	15	1	0.35744	103.778	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE214309	snRNA_counts	all	cerebellar_identity	12	12	1	0.135495	3.16047	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE214309	snRNA_counts	all	dentate_identity	12	12	1	0.32315	71.1834	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE214309	snRNA_counts	all	metabolic_proteomic_validation	8	6	0.75	0.556941	153.995	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1	Atp5f1a,Tubb4a
+GSE214309	snRNA_counts	all	morphogenesis_cytoskeleton	13	12	0.923077	0.381962	218.553	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE214309	snRNA_counts	all	shared_granule_neuronal	12	11	0.916667	0.415325	142.117	Dcx,Eomes,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Map2
+GSE214309	snRNA_counts	immature_1hr	axon_guidance_synapse	15	15	1	0.302645	94.7321	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE214309	snRNA_counts	immature_1hr	cerebellar_identity	12	12	1	0.115079	1.63557	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE214309	snRNA_counts	immature_1hr	dentate_identity	12	12	1	0.280423	89.6645	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE214309	snRNA_counts	immature_1hr	metabolic_proteomic_validation	8	6	0.75	0.502645	102.693	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1	Atp5f1a,Tubb4a
+GSE214309	snRNA_counts	immature_1hr	morphogenesis_cytoskeleton	13	12	0.923077	0.357143	173.471	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE214309	snRNA_counts	immature_1hr	shared_granule_neuronal	12	11	0.916667	0.357864	79.0078	Dcx,Eomes,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Map2
+GSE214309	snRNA_counts	immature_4hr	axon_guidance_synapse	15	15	1	0.409836	133.356	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE214309	snRNA_counts	immature_4hr	cerebellar_identity	12	12	1	0.165301	6.65212	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE214309	snRNA_counts	immature_4hr	dentate_identity	12	12	1	0.360656	105.992	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE214309	snRNA_counts	immature_4hr	metabolic_proteomic_validation	8	6	0.75	0.672131	243.35	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1	Atp5f1a,Tubb4a
+GSE214309	snRNA_counts	immature_4hr	morphogenesis_cytoskeleton	13	12	0.923077	0.461749	424.173	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE214309	snRNA_counts	immature_4hr	shared_granule_neuronal	12	11	0.916667	0.450074	192.174	Dcx,Eomes,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Map2
+GSE214309	snRNA_counts	immatureactive_1hr	axon_guidance_synapse	15	15	1	0.28254	61.1817	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE214309	snRNA_counts	immatureactive_1hr	cerebellar_identity	12	12	1	0.109127	1.4084	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE214309	snRNA_counts	immatureactive_1hr	dentate_identity	12	12	1	0.301587	84.611	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE214309	snRNA_counts	immatureactive_1hr	metabolic_proteomic_validation	8	6	0.75	0.456349	102.306	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1	Atp5f1a,Tubb4a
+GSE214309	snRNA_counts	immatureactive_1hr	morphogenesis_cytoskeleton	13	12	0.923077	0.31746	189.014	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE214309	snRNA_counts	immatureactive_1hr	shared_granule_neuronal	12	11	0.916667	0.348485	104.188	Dcx,Eomes,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Map2
+GSE214309	snRNA_counts	immatureactive_4hr	axon_guidance_synapse	15	15	1	0.383333	164.383	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE214309	snRNA_counts	immatureactive_4hr	cerebellar_identity	12	12	1	0.148438	2.13846	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE214309	snRNA_counts	immatureactive_4hr	dentate_identity	12	12	1	0.34375	109.151	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE214309	snRNA_counts	immatureactive_4hr	metabolic_proteomic_validation	8	6	0.75	0.677083	333.585	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1	Atp5f1a,Tubb4a
+GSE214309	snRNA_counts	immatureactive_4hr	morphogenesis_cytoskeleton	13	12	0.923077	0.419271	257.531	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE214309	snRNA_counts	immatureactive_4hr	shared_granule_neuronal	12	11	0.916667	0.485795	241.2	Dcx,Eomes,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Map2
+GSE214309	snRNA_counts	mature_1hr	axon_guidance_synapse	15	15	1	0.34697	60.9461	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE214309	snRNA_counts	mature_1hr	cerebellar_identity	12	12	1	0.138258	2.29744	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE214309	snRNA_counts	mature_1hr	dentate_identity	12	12	1	0.325757	50.2756	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE214309	snRNA_counts	mature_1hr	metabolic_proteomic_validation	8	6	0.75	0.57197	140.144	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1	Atp5f1a,Tubb4a
+GSE214309	snRNA_counts	mature_1hr	morphogenesis_cytoskeleton	13	12	0.923077	0.378788	198.465	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE214309	snRNA_counts	mature_1hr	shared_granule_neuronal	12	11	0.916667	0.394628	103.362	Dcx,Eomes,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Map2
+GSE214309	snRNA_counts	mature_4hr	axon_guidance_synapse	15	15	1	0.409091	110.665	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE214309	snRNA_counts	mature_4hr	cerebellar_identity	12	12	1	0.172348	3.58981	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE214309	snRNA_counts	mature_4hr	dentate_identity	12	12	1	0.392045	74.8955	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE214309	snRNA_counts	mature_4hr	metabolic_proteomic_validation	8	6	0.75	0.666666	226.196	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1	Atp5f1a,Tubb4a
+GSE214309	snRNA_counts	mature_4hr	morphogenesis_cytoskeleton	13	12	0.923077	0.473485	306.711	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE214309	snRNA_counts	mature_4hr	shared_granule_neuronal	12	11	0.916667	0.497934	270.116	Dcx,Eomes,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Map2
+GSE214309	snRNA_counts	matureactive_1hr	axon_guidance_synapse	15	15	1	0.297268	51.1015	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE214309	snRNA_counts	matureactive_1hr	cerebellar_identity	12	12	1	0.113388	0.757008	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE214309	snRNA_counts	matureactive_1hr	dentate_identity	12	12	1	0.277322	25.2909	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE214309	snRNA_counts	matureactive_1hr	metabolic_proteomic_validation	8	6	0.75	0.398907	68.4943	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1	Atp5f1a,Tubb4a
+GSE214309	snRNA_counts	matureactive_1hr	morphogenesis_cytoskeleton	13	12	0.923077	0.282787	117.86	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE214309	snRNA_counts	matureactive_1hr	shared_granule_neuronal	12	11	0.916667	0.339791	95.9174	Dcx,Eomes,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Map2
+GSE214309	snRNA_counts	matureactive_4hr	axon_guidance_synapse	15	15	1	0.439506	166.928	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE214309	snRNA_counts	matureactive_4hr	cerebellar_identity	12	12	1	0.131173	6.03199	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE214309	snRNA_counts	matureactive_4hr	dentate_identity	12	12	1	0.328704	43.2107	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE214309	snRNA_counts	matureactive_4hr	metabolic_proteomic_validation	8	6	0.75	0.574074	95.7245	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1	Atp5f1a,Tubb4a
+GSE214309	snRNA_counts	matureactive_4hr	morphogenesis_cytoskeleton	13	12	0.923077	0.388889	97.035	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE214309	snRNA_counts	matureactive_4hr	shared_granule_neuronal	12	11	0.916667	0.488215	109.456	Dcx,Eomes,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Map2
+GSE214905	patch_RNA_QC_counts	all	axon_guidance_synapse	15	15	1	0.386667	411.756	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE214905	patch_RNA_QC_counts	all	cerebellar_identity	12	12	1	0.0561403	14.2211	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE214905	patch_RNA_QC_counts	all	dentate_identity	12	12	1	0.507018	704.673	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE214905	patch_RNA_QC_counts	all	metabolic_proteomic_validation	8	7	0.875	0.851128	1902.83	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE214905	patch_RNA_QC_counts	all	morphogenesis_cytoskeleton	13	12	0.923077	0.620175	1261.29	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE214905	patch_RNA_QC_counts	all	shared_granule_neuronal	12	12	1	0.608772	2322.4	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE242688	WT_ZT12_rep1	all	axon_guidance_synapse	15	15	1	0.27856	0.449595	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE242688	WT_ZT12_rep1	all	cerebellar_identity	12	12	1	0.234712	0.483843	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE242688	WT_ZT12_rep1	all	dentate_identity	12	12	1	0.37475	1.05978	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE242688	WT_ZT12_rep1	all	metabolic_proteomic_validation	8	7	0.875	0.938247	13.1985	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE242688	WT_ZT12_rep1	all	morphogenesis_cytoskeleton	13	12	0.923077	0.798705	6.62398	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE242688	WT_ZT12_rep1	all	shared_granule_neuronal	12	12	1	0.56523	7.42675	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE242688	WT_ZT12_rep2	all	axon_guidance_synapse	15	15	1	0.335044	0.52149	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE242688	WT_ZT12_rep2	all	cerebellar_identity	12	12	1	0.186801	0.362251	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE242688	WT_ZT12_rep2	all	dentate_identity	12	12	1	0.423641	1.14956	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE242688	WT_ZT12_rep2	all	metabolic_proteomic_validation	8	7	0.875	0.992724	15.8034	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE242688	WT_ZT12_rep2	all	morphogenesis_cytoskeleton	13	12	0.923077	0.869127	8.75507	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE242688	WT_ZT12_rep2	all	shared_granule_neuronal	12	12	1	0.595769	8.13351	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE292261	SS2_filtered_counts	DG_P10	axon_guidance_synapse	15	15	1	0.472528	71.9055	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE292261	SS2_filtered_counts	DG_P10	cerebellar_identity	12	3	0.25	0.131868	2.47985	Barhl1,Etv1,Ror1	Atoh1,Barhl2,Cbln3,En2,Gabra6,Grin2c,Pax6,Zic1,Zic2
+GSE292261	SS2_filtered_counts	DG_P10	dentate_identity	12	12	1	0.59707	109.842	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE292261	SS2_filtered_counts	DG_P10	metabolic_proteomic_validation	8	7	0.875	0.963893	209.595	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE292261	SS2_filtered_counts	DG_P10	morphogenesis_cytoskeleton	13	12	0.923077	0.737179	166.381	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE292261	SS2_filtered_counts	DG_P10	shared_granule_neuronal	12	10	0.833333	0.882418	231.907	Dcx,Map2,Neurod1,Neurod2,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Eomes,Pax6
+GSE292261	SS2_filtered_counts	DG_P15	axon_guidance_synapse	15	15	1	0.384946	62.8294	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE292261	SS2_filtered_counts	DG_P15	cerebellar_identity	12	3	0.25	0.154122	4.41219	Barhl1,Etv1,Ror1	Atoh1,Barhl2,Cbln3,En2,Gabra6,Grin2c,Pax6,Zic1,Zic2
+GSE292261	SS2_filtered_counts	DG_P15	dentate_identity	12	12	1	0.540323	121.781	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE292261	SS2_filtered_counts	DG_P15	metabolic_proteomic_validation	8	7	0.875	0.981567	244.883	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE292261	SS2_filtered_counts	DG_P15	morphogenesis_cytoskeleton	13	12	0.923077	0.594086	157.164	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE292261	SS2_filtered_counts	DG_P15	shared_granule_neuronal	12	10	0.833333	0.825806	313.735	Dcx,Map2,Neurod1,Neurod2,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Eomes,Pax6
+GSE292261	SS2_filtered_counts	DG_P28	axon_guidance_synapse	15	15	1	0.143656	51.7991	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE292261	SS2_filtered_counts	DG_P28	cerebellar_identity	12	3	0.25	0.0688174	7.44302	Barhl1,Etv1,Ror1	Atoh1,Barhl2,Cbln3,En2,Gabra6,Grin2c,Pax6,Zic1,Zic2
+GSE292261	SS2_filtered_counts	DG_P28	dentate_identity	12	12	1	0.271505	76.8725	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE292261	SS2_filtered_counts	DG_P28	metabolic_proteomic_validation	8	7	0.875	0.697696	308.348	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE292261	SS2_filtered_counts	DG_P28	morphogenesis_cytoskeleton	13	12	0.923077	0.333871	139.002	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE292261	SS2_filtered_counts	DG_P28	shared_granule_neuronal	12	10	0.833333	0.558065	410.718	Dcx,Map2,Neurod1,Neurod2,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Eomes,Pax6
+GSE292261	SS2_filtered_counts	DG_P5	axon_guidance_synapse	15	15	1	0.414184	127.473	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE292261	SS2_filtered_counts	DG_P5	cerebellar_identity	12	3	0.25	0.035461	0.833336	Barhl1,Etv1,Ror1	Atoh1,Barhl2,Cbln3,En2,Gabra6,Grin2c,Pax6,Zic1,Zic2
+GSE292261	SS2_filtered_counts	DG_P5	dentate_identity	12	12	1	0.525709	305.135	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE292261	SS2_filtered_counts	DG_P5	metabolic_proteomic_validation	8	7	0.875	0.981763	493.568	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE292261	SS2_filtered_counts	DG_P5	morphogenesis_cytoskeleton	13	12	0.923077	0.818262	759.591	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE292261	SS2_filtered_counts	DG_P5	shared_granule_neuronal	12	10	0.833333	0.846808	453.497	Dcx,Map2,Neurod1,Neurod2,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Eomes,Pax6
+GSE292261	SS2_filtered_counts	DG_P7	axon_guidance_synapse	15	15	1	0.312281	80.7009	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE292261	SS2_filtered_counts	DG_P7	cerebellar_identity	12	3	0.25	0.0657894	3.7807	Barhl1,Etv1,Ror1	Atoh1,Barhl2,Cbln3,En2,Gabra6,Grin2c,Pax6,Zic1,Zic2
+GSE292261	SS2_filtered_counts	DG_P7	dentate_identity	12	12	1	0.480263	212.196	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE292261	SS2_filtered_counts	DG_P7	metabolic_proteomic_validation	8	7	0.875	0.983083	387.327	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE292261	SS2_filtered_counts	DG_P7	morphogenesis_cytoskeleton	13	12	0.923077	0.729167	343.131	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE292261	SS2_filtered_counts	DG_P7	shared_granule_neuronal	12	10	0.833333	0.822368	427.078	Dcx,Map2,Neurod1,Neurod2,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Eomes,Pax6
+GSE292261	SS2_filtered_counts	all	axon_guidance_synapse	15	15	1	0.321676	75.6997	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE292261	SS2_filtered_counts	all	cerebellar_identity	12	3	0.25	0.0890635	4.23445	Barhl1,Etv1,Ror1	Atoh1,Barhl2,Cbln3,En2,Gabra6,Grin2c,Pax6,Zic1,Zic2
+GSE292261	SS2_filtered_counts	all	dentate_identity	12	12	1	0.456942	153.332	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE292261	SS2_filtered_counts	all	metabolic_proteomic_validation	8	7	0.875	0.892226	325.096	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE292261	SS2_filtered_counts	all	morphogenesis_cytoskeleton	13	12	0.923077	0.601997	292.302	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE292261	SS2_filtered_counts	all	shared_granule_neuronal	12	10	0.833333	0.75776	371.373	Dcx,Map2,Neurod1,Neurod2,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	Eomes,Pax6
+GSE312658	Ctrl	all	axon_guidance_synapse	15	15	1	0.295999	1.58927	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE312658	Ctrl	all	cerebellar_identity	12	12	1	0.191236	0.481831	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE312658	Ctrl	all	dentate_identity	12	12	1	0.131323	0.250806	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE312658	Ctrl	all	metabolic_proteomic_validation	8	7	0.875	0.220948	0.289214	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE312658	Ctrl	all	morphogenesis_cytoskeleton	13	12	0.923077	0.440532	1.15045	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE312658	Ctrl	all	shared_granule_neuronal	12	12	1	0.393556	1.57215	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE312658	cKO	all	axon_guidance_synapse	15	15	1	0.347845	1.82248	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE312658	cKO	all	cerebellar_identity	12	12	1	0.158257	0.375647	Atoh1,Barhl1,Barhl2,Cbln3,En2,Etv1,Gabra6,Grin2c,Pax6,Ror1,Zic1,Zic2	
+GSE312658	cKO	all	dentate_identity	12	12	1	0.138173	0.279705	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE312658	cKO	all	metabolic_proteomic_validation	8	7	0.875	0.206224	0.263913	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE312658	cKO	all	morphogenesis_cytoskeleton	13	12	0.923077	0.453522	1.22237	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE312658	cKO	all	shared_granule_neuronal	12	12	1	0.374184	1.45507	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DC12	axon_guidance_synapse	15	15	1	0.27	0.963333	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DC12	cerebellar_identity	12	7	0.583333	0.0285714	0.05	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DC12	dentate_identity	12	12	1	0.285417	0.847917	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DC12	metabolic_proteomic_validation	8	7	0.875	0.764286	4.38571	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DC12	morphogenesis_cytoskeleton	13	12	0.923077	0.464583	2.57917	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DC12	shared_granule_neuronal	12	12	1	0.4125	3.4125	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG03	axon_guidance_synapse	15	15	1	0.271795	1.11111	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG03	cerebellar_identity	12	7	0.583333	0.058608	0.120879	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG03	dentate_identity	12	12	1	0.309829	1.12179	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG03	metabolic_proteomic_validation	8	7	0.875	0.630037	3.67399	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG03	morphogenesis_cytoskeleton	13	12	0.923077	0.435898	1.77564	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG03	shared_granule_neuronal	12	12	1	0.465812	2.43162	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG04	axon_guidance_synapse	15	15	1	0.313793	1.08276	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG04	cerebellar_identity	12	7	0.583333	0.0270936	0.0418719	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG04	dentate_identity	12	12	1	0.383621	1.51868	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG04	metabolic_proteomic_validation	8	7	0.875	0.738916	4.97784	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG04	morphogenesis_cytoskeleton	13	12	0.923077	0.512931	2.26724	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG04	shared_granule_neuronal	12	12	1	0.494253	2.79741	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG05	axon_guidance_synapse	15	15	1	0.314286	1.32011	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG05	cerebellar_identity	12	7	0.583333	0.0464853	0.0725624	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG05	dentate_identity	12	12	1	0.362434	1.51058	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG05	metabolic_proteomic_validation	8	7	0.875	0.756236	5.2449	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG05	morphogenesis_cytoskeleton	13	12	0.923077	0.507275	2.39616	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG05	shared_granule_neuronal	12	12	1	0.503968	2.64352	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG06	axon_guidance_synapse	15	15	1	0.31746	0.911112	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG06	cerebellar_identity	12	7	0.583333	0.0646259	0.156463	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG06	dentate_identity	12	12	1	0.299603	1.19246	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG06	metabolic_proteomic_validation	8	7	0.875	0.738095	4.21769	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG06	morphogenesis_cytoskeleton	13	12	0.923077	0.486111	1.95833	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG06	shared_granule_neuronal	12	12	1	0.43254	2.16072	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG07	axon_guidance_synapse	15	15	1	0.29887	1.25876	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG07	cerebellar_identity	12	7	0.583333	0.0447942	0.0956416	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG07	dentate_identity	12	12	1	0.325565	1.17726	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG07	metabolic_proteomic_validation	8	7	0.875	0.725182	4.51331	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG07	morphogenesis_cytoskeleton	13	12	0.923077	0.513418	2.44421	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG07	shared_granule_neuronal	12	12	1	0.462571	2.46681	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG08	axon_guidance_synapse	15	15	1	0.255367	0.993785	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG08	cerebellar_identity	12	7	0.583333	0.0435835	0.0702179	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG08	dentate_identity	12	12	1	0.305085	1.19845	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG08	metabolic_proteomic_validation	8	7	0.875	0.754237	5.06174	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG08	morphogenesis_cytoskeleton	13	12	0.923077	0.456921	1.9887	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG08	shared_granule_neuronal	12	12	1	0.444915	2.16949	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG09	axon_guidance_synapse	15	15	1	0.238788	0.769697	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG09	cerebellar_identity	12	7	0.583333	0.0402597	0.0558442	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG09	dentate_identity	12	12	1	0.280303	0.790909	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG09	metabolic_proteomic_validation	8	7	0.875	0.75974	4.12727	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG09	morphogenesis_cytoskeleton	13	12	0.923077	0.443182	1.60379	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG09	shared_granule_neuronal	12	12	1	0.433333	1.79015	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG10	axon_guidance_synapse	15	15	1	0.196444	0.473778	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG10	cerebellar_identity	12	7	0.583333	0.0514286	0.0761906	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG10	dentate_identity	12	12	1	0.205556	0.613333	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG10	metabolic_proteomic_validation	8	7	0.875	0.674286	3.45143	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG10	morphogenesis_cytoskeleton	13	12	0.923077	0.331111	0.958888	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG10	shared_granule_neuronal	12	12	1	0.29	1.06778	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG11	axon_guidance_synapse	15	15	1	0.227548	0.650688	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG11	cerebellar_identity	12	7	0.583333	0.0543093	0.0873671	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG11	dentate_identity	12	12	1	0.239669	0.684573	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG11	metabolic_proteomic_validation	8	7	0.875	0.668241	2.96458	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG11	morphogenesis_cytoskeleton	13	12	0.923077	0.401515	1.42906	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG11	shared_granule_neuronal	12	12	1	0.338154	1.68802	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG12	axon_guidance_synapse	15	15	1	0.218824	0.672941	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG12	cerebellar_identity	12	7	0.583333	0.0336134	0.0453781	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG12	dentate_identity	12	12	1	0.259804	0.837254	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG12	metabolic_proteomic_validation	8	7	0.875	0.672269	3.05714	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG12	morphogenesis_cytoskeleton	13	12	0.923077	0.4	1.5402	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG12	shared_granule_neuronal	12	12	1	0.373529	1.77353	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG13	axon_guidance_synapse	15	15	1	0.227004	0.6827	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG13	cerebellar_identity	12	7	0.583333	0.0524412	0.0940325	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG13	dentate_identity	12	12	1	0.248945	0.792194	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG13	metabolic_proteomic_validation	8	7	0.875	0.692586	3.23508	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG13	morphogenesis_cytoskeleton	13	12	0.923077	0.387131	1.27321	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG13	shared_granule_neuronal	12	12	1	0.371308	1.33439	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG14	axon_guidance_synapse	15	15	1	0.253107	0.761582	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG14	cerebellar_identity	12	7	0.583333	0.0338983	0.0605327	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG14	dentate_identity	12	12	1	0.299435	1.02966	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG14	metabolic_proteomic_validation	8	7	0.875	0.726392	3.74576	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG14	morphogenesis_cytoskeleton	13	12	0.923077	0.411017	1.46186	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG14	shared_granule_neuronal	12	12	1	0.423729	1.56638	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG15	axon_guidance_synapse	15	15	1	0.263131	0.786363	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG15	cerebellar_identity	12	7	0.583333	0.0357142	0.04329	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG15	dentate_identity	12	12	1	0.284091	0.835227	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG15	metabolic_proteomic_validation	8	7	0.875	0.699134	2.9513	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG15	morphogenesis_cytoskeleton	13	12	0.923077	0.395202	1.24369	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG15	shared_granule_neuronal	12	12	1	0.407197	1.53598	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG16	axon_guidance_synapse	15	15	1	0.223899	0.645283	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG16	cerebellar_identity	12	7	0.583333	0.0134771	0.0296495	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG16	dentate_identity	12	12	1	0.243711	0.649371	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG16	metabolic_proteomic_validation	8	7	0.875	0.425876	1.41779	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG16	morphogenesis_cytoskeleton	13	12	0.923077	0.34434	1.1195	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG16	shared_granule_neuronal	12	12	1	0.386793	1.51101	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG17	axon_guidance_synapse	15	15	1	0.141935	0.422796	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG17	cerebellar_identity	12	7	0.583333	0.0460829	0.0949309	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG17	dentate_identity	12	12	1	0.186022	0.569892	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG17	metabolic_proteomic_validation	8	7	0.875	0.705991	3.41198	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG17	morphogenesis_cytoskeleton	13	12	0.923077	0.354301	1.34247	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG17	shared_granule_neuronal	12	12	1	0.320968	1.26344	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG18	axon_guidance_synapse	15	15	1	0.0824561	0.133333	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG18	cerebellar_identity	12	7	0.583333	0.109023	0.139098	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG18	dentate_identity	12	12	1	0.0526316	0.0877193	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG18	metabolic_proteomic_validation	8	7	0.875	0.546992	1.62218	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG18	morphogenesis_cytoskeleton	13	12	0.923077	0.256579	0.614035	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG18	shared_granule_neuronal	12	12	1	0.125	0.200658	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG19	axon_guidance_synapse	15	15	1	0.129502	0.291187	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG19	cerebellar_identity	12	7	0.583333	0.108374	0.20197	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG19	dentate_identity	12	12	1	0.092912	0.244253	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG19	metabolic_proteomic_validation	8	7	0.875	0.541872	2.33005	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG19	morphogenesis_cytoskeleton	13	12	0.923077	0.338123	1.30172	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG19	shared_granule_neuronal	12	12	1	0.173372	0.454981	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG20	axon_guidance_synapse	15	15	1	0.38553	1.40207	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG20	cerebellar_identity	12	7	0.583333	0.0387597	0.0564784	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG20	dentate_identity	12	12	1	0.399225	1.52326	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG20	metabolic_proteomic_validation	8	7	0.875	0.85382	6.01661	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG20	morphogenesis_cytoskeleton	13	12	0.923077	0.806847	10.3585	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG20	shared_granule_neuronal	12	12	1	0.582041	3.88372	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG21	axon_guidance_synapse	15	15	1	0.303922	0.907353	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG21	cerebellar_identity	12	7	0.583333	0.0514705	0.0651261	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG21	dentate_identity	12	12	1	0.344363	1.30821	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG21	metabolic_proteomic_validation	8	7	0.875	0.834034	5.60399	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG21	morphogenesis_cytoskeleton	13	12	0.923077	0.617647	4.8027	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG21	shared_granule_neuronal	12	12	1	0.463848	2.05637	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG22	axon_guidance_synapse	15	15	1	0.379832	1.29412	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG22	cerebellar_identity	12	7	0.583333	0.0480192	0.0864346	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG22	dentate_identity	12	12	1	0.460784	2.09104	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG22	metabolic_proteomic_validation	8	7	0.875	0.879952	6.57383	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG22	morphogenesis_cytoskeleton	13	12	0.923077	0.729692	6.7276	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG22	shared_granule_neuronal	12	12	1	0.580532	2.95728	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG23	axon_guidance_synapse	15	15	1	0.288889	0.872222	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG23	cerebellar_identity	12	7	0.583333	0.0595238	0.0916666	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG23	dentate_identity	12	12	1	0.320139	1.28472	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG23	metabolic_proteomic_validation	8	7	0.875	0.82619	5.47261	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG23	morphogenesis_cytoskeleton	13	12	0.923077	0.560417	3.76736	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG23	shared_granule_neuronal	12	12	1	0.446528	1.87917	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG24	axon_guidance_synapse	15	15	1	0.362626	1.2798	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG24	cerebellar_identity	12	7	0.583333	0.0248918	0.04329	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG24	dentate_identity	12	12	1	0.443182	1.72475	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG24	metabolic_proteomic_validation	8	7	0.875	0.838745	5.42208	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG24	morphogenesis_cytoskeleton	13	12	0.923077	0.669823	4.75442	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG24	shared_granule_neuronal	12	12	1	0.558081	2.94887	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	DG25	axon_guidance_synapse	15	15	1	0.358865	1.37163	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	DG25	cerebellar_identity	12	7	0.583333	0.0440729	0.0638299	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	DG25	dentate_identity	12	12	1	0.446808	1.93174	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	DG25	metabolic_proteomic_validation	8	7	0.875	0.87842	6.731	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	DG25	morphogenesis_cytoskeleton	13	12	0.923077	0.623227	4.70833	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	DG25	shared_granule_neuronal	12	12	1	0.577128	3.15425	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	
+GSE95752	C1_all_cells	all	axon_guidance_synapse	15	15	1	0.267738	0.89877	Cntn4,Cntn5,Cntn6,Epha4,Ephb1,Ephb2,Nrp1,Nrp2,Plxna2,Plxna4,Robo1,Robo2,Sema3a,Sema3f,Slit2	
+GSE95752	C1_all_cells	all	cerebellar_identity	12	7	0.583333	0.0479499	0.078593	En2,Etv1,Grin2c,Pax6,Ror1,Zic1,Zic2	Atoh1,Barhl1,Barhl2,Cbln3,Gabra6
+GSE95752	C1_all_cells	all	dentate_identity	12	12	1	0.302432	1.10483	C1ql3,Calb1,Calb2,Dcx,Egr3,Glis3,Itpka,Mex3a,Neurod1,Neurod2,Prox1,Tbr1	
+GSE95752	C1_all_cells	all	metabolic_proteomic_validation	8	7	0.875	0.73916	4.35457	Cox6c,Ndufa4,Ndufb8,Prdx1,Prdx2,Sod1,Tubb4a	Atp5f1a
+GSE95752	C1_all_cells	all	morphogenesis_cytoskeleton	13	12	0.923077	0.494391	2.97608	Cdk5r1,Cfl1,Cntn2,Dpysl2,Dpysl3,Elavl4,Gap43,L1cam,Mapt,Ncam1,Stmn2,Stmn3	Tau
+GSE95752	C1_all_cells	all	shared_granule_neuronal	12	12	1	0.428065	2.07193	Dcx,Eomes,Map2,Neurod1,Neurod2,Pax6,Slc17a7,Snap25,St18,Syn1,Syt1,Tubb3	

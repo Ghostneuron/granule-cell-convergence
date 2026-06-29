@@ -1,0 +1,48 @@
+sender_receiver_pair_id	pair_id	pair_source	pathway_id	pathway_label	pathway_family	pair_label	ligand_gene	ligand_canonical_gene	receptor_gene	receptor_canonical_gene
+SRP001	LR001	aim2_curated	tgf_beta_smad	TGF-beta/SMAD	differentiation_stop	TGF-beta2 to TGFBR1	TGFB2	TGFB2	TGFBR1	TGFBR1
+SRP002	LR002	aim2_curated	tgf_beta_smad	TGF-beta/SMAD	differentiation_stop	TGF-beta2 to TGFBR2	TGFB2	TGFB2	TGFBR2	TGFBR2
+SRP003	LR003	aim2_curated	tgf_beta_smad	TGF-beta/SMAD	differentiation_stop	TGF-beta1 to TGFBR2	TGFB1	TGFB1	TGFBR2	TGFBR2
+SRP004	LR004	aim2_curated	bdnf_trkb_mapk	BDNF/TrkB/MAPK	differentiation_stop	BDNF to TrkB	BDNF	BDNF	NTRK2	NTRK2
+SRP005	LR005	aim2_curated	shh_granule_expansion	SHH/PTCH/GLI	progenitor_expansion_or_regional_fate	SHH to PTCH1	SHH	SHH	PTCH1	PTCH1
+SRP006	LR006	aim2_curated	shh_granule_expansion	SHH/PTCH/GLI	progenitor_expansion_or_regional_fate	SHH to SMO readiness	SHH	SHH	SMO	SMO
+SRP007	LR007	aim2_curated	wnt_beta_catenin	WNT/beta-catenin	neurogenic_permissive	WNT3A to FZD5	WNT3A	WNT3A	FZD5	FZD5
+SRP008	LR008	aim2_curated	wnt_beta_catenin	WNT/beta-catenin	neurogenic_permissive	WNT7A to FZD3	WNT7A	WNT7A	FZD3	FZD3
+SRP009	LR009	aim2_curated	wnt_beta_catenin	WNT/beta-catenin	neurogenic_permissive	WNT7A to LRP6 readiness	WNT7A	WNT7A	LRP6	LRP6
+SRP010	LR010	aim2_curated	fgf_mapk	FGF/MAPK	neurogenic_permissive	FGF2 to FGFR1	FGF2	FGF2	FGFR1	FGFR1
+SRP011	LR011	aim2_curated	fgf_mapk	FGF/MAPK	neurogenic_permissive	FGF8 to FGFR1	FGF8	FGF8	FGFR1	FGFR1
+SRP012	LR012	aim2_curated	fgf_mapk	FGF/MAPK	neurogenic_permissive	FGF9 to FGFR3	FGF9	FGF9	FGFR3	FGFR3
+SRP013	LR013	aim2_curated	bmp_smad	BMP/SMAD	differentiation_stop	BMP4 to BMPR1A	BMP4	BMP4	BMPR1A	BMPR1A
+SRP014	LR014	aim2_curated	bmp_smad	BMP/SMAD	differentiation_stop	BMP7 to BMPR2	BMP7	BMP7	BMPR2	BMPR2
+SRP015	LR015	aim2_curated	notch_hes	Notch/HES	neurogenic_permissive	DLL1 to NOTCH1	DLL1	DLL1	NOTCH1	NOTCH1
+SRP016	LR016	aim2_curated	notch_hes	Notch/HES	neurogenic_permissive	JAG1 to NOTCH1	JAG1	JAG1	NOTCH1	NOTCH1
+SRP017	LR017	aim2_curated	notch_hes	Notch/HES	neurogenic_permissive	JAG1 to NOTCH2	JAG1	JAG1	NOTCH2	NOTCH2
+SRP018	LR018	aim2_curated	reelin_migration_stop	Reelin/migration-stop	differentiation_stop	Reelin to VLDLR	RELN	RELN	VLDLR	VLDLR
+SRP019	LR019	aim2_curated	reelin_migration_stop	Reelin/migration-stop	differentiation_stop	Reelin to LRP8	RELN	RELN	LRP8	LRP8
+SRP020	LR020	aim2_curated	semaphorin_guidance	Semaphorin/plexin guidance	differentiation_stop	SEMA6A to PLXNA2	SEMA6A	SEMA6A	PLXNA2	PLXNA2
+SRP021	LR021	aim2_curated	semaphorin_guidance	Semaphorin/plexin guidance	differentiation_stop	SEMA6A to PLXNA4	SEMA6A	SEMA6A	PLXNA4	PLXNA4
+SRP022	LR022	aim2_curated	semaphorin_guidance	Semaphorin/plexin guidance	differentiation_stop	SEMA3A to NRP1	SEMA3A	SEMA3A	NRP1	NRP1
+SRP023	LR023	aim2_curated	semaphorin_guidance	Semaphorin/plexin guidance	differentiation_stop	SEMA7A to PLXNC1	SEMA7A	SEMA7A	PLXNC1	PLXNC1
+SRP024	SRLR001	niche_sender_receiver_augmented	cxcl12_cxcr4	CXCL12/CXCR4	neurogenic_permissive	CXCL12 to CXCR4	CXCL12	CXCL12	CXCR4	CXCR4
+SRP025	SRLR002	niche_sender_receiver_augmented	cxcl12_cxcr4	CXCL12/CXCR4	neurogenic_permissive	CXCL12 to ACKR3	CXCL12	CXCL12	ACKR3	ACKR3
+SRP026	SRLR003	niche_sender_receiver_augmented	vegf_vascular	VEGF/vascular	vascular_niche	VEGFA to KDR	VEGFA	VEGFA	KDR	KDR
+SRP027	SRLR004	niche_sender_receiver_augmented	vegf_vascular	VEGF/vascular	vascular_niche	VEGFA to FLT1	VEGFA	VEGFA	FLT1	FLT1
+SRP028	SRLR005	niche_sender_receiver_augmented	angiopoietin_vascular	Angiopoietin/TEK	vascular_niche	ANGPT1 to TEK	ANGPT1	ANGPT1	TEK	TEK
+SRP029	SRLR006	niche_sender_receiver_augmented	angiopoietin_vascular	Angiopoietin/TEK	vascular_niche	ANGPT2 to TEK	ANGPT2	ANGPT2	TEK	TEK
+SRP030	SRLR007	niche_sender_receiver_augmented	apoe_lrp	APOE/LRP	glial_lipid_trophic	APOE to LRP1	APOE	APOE	LRP1	LRP1
+SRP031	SRLR008	niche_sender_receiver_augmented	apoe_lrp	APOE/LDLR	glial_lipid_trophic	APOE to LDLR	APOE	APOE	LDLR	LDLR
+SRP032	SRLR009	niche_sender_receiver_augmented	spp1_integrin	SPP1/integrin	immune_matrix	SPP1 to ITGAV	SPP1	SPP1	ITGAV	ITGAV
+SRP033	SRLR010	niche_sender_receiver_augmented	spp1_cd44	SPP1/CD44	immune_matrix	SPP1 to CD44	SPP1	SPP1	CD44	CD44
+SRP034	SRLR011	niche_sender_receiver_augmented	csf1_microglia	CSF1/CSF1R	microglia_macrophage	CSF1 to CSF1R	CSF1	CSF1	CSF1R	CSF1R
+SRP035	SRLR012	niche_sender_receiver_augmented	c1q_lrp	C1Q/LRP	microglia_macrophage	C1QA to LRP1	C1QA	C1QA	LRP1	LRP1
+SRP036	SRLR013	niche_sender_receiver_augmented	ccl2_ccr2	CCL2/CCR2	immune_chemokine	CCL2 to CCR2	CCL2	CCL2	CCR2	CCR2
+SRP037	SRLR014	niche_sender_receiver_augmented	igf_trophic	IGF1/IGF1R	trophic_maturation	IGF1 to IGF1R	IGF1	IGF1	IGF1R	IGF1R
+SRP038	SRLR015	niche_sender_receiver_augmented	cntf_lifr	CNTF/CNTFR	astroglial_trophic	CNTF to CNTFR	CNTF	CNTF	CNTFR	CNTFR
+SRP039	SRLR016	niche_sender_receiver_augmented	lif_lifr	LIF/LIFR	astroglial_trophic	LIF to LIFR	LIF	LIF	LIFR	LIFR
+SRP040	SRLR017	niche_sender_receiver_augmented	gdnf_ret	GDNF/GFRA1	trophic_maturation	GDNF to GFRA1	GDNF	GDNF	GFRA1	GFRA1
+SRP041	SRLR018	niche_sender_receiver_augmented	nrg_erbb	NRG1/ERBB4	synaptic_glial	NRG1 to ERBB4	NRG1	NRG1	ERBB4	ERBB4
+SRP042	SRLR019	niche_sender_receiver_augmented	kitlg_kit	KITLG/KIT	trophic_maturation	KITLG to KIT	KITLG	KITLG	KIT	KIT
+SRP043	SRLR020	niche_sender_receiver_augmented	egf_mapk	HBEGF/EGFR	trophic_maturation	HBEGF to EGFR	HBEGF	HBEGF	EGFR	EGFR
+SRP044	SRLR021	niche_sender_receiver_augmented	ephrin_guidance	Ephrin/EPH	axon_guidance_matrix	EFNB2 to EPHB2	EFNB2	EFNB2	EPHB2	EPHB2
+SRP045	SRLR022	niche_sender_receiver_augmented	slit_robo	SLIT/ROBO	axon_guidance_matrix	SLIT2 to ROBO1	SLIT2	SLIT2	ROBO1	ROBO1
+SRP046	SRLR023	niche_sender_receiver_augmented	slit_robo	SLIT/ROBO	axon_guidance_matrix	SLIT2 to ROBO2	SLIT2	SLIT2	ROBO2	ROBO2
+SRP047	SRLR024	niche_sender_receiver_augmented	thbs_cd47	THBS/CD47	synaptic_matrix	THBS1 to CD47	THBS1	THBS1	CD47	CD47

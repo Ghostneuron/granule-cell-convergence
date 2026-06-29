@@ -1,0 +1,21 @@
+mechanism_axis	mechanism_axis_label	branch	n_genes	n_supported_genes	supported_gene_fraction	median_delta_all_axis_genes	median_delta_supported_genes	supported_genes
+developmental_regulatory_control	Developmental regulatory control	selected_dentate	7	4	0.5714285714285714	0.5	0.5	NFIB,NFIA,RFX3,RFX7
+developmental_regulatory_control	Developmental regulatory control	selected_cerebellar	7	5	0.7142857142857143	0.5	0.5	NFIB,NFIA,RFX3,RFX7,TCF4
+developmental_regulatory_control	Developmental regulatory control	full_dentate	7	7	1.0	0.5	0.5	NFIB,NFIA,RFX3,RFX7,TCF4,BCL7A,FOXN2
+developmental_regulatory_control	Developmental regulatory control	full_cerebellar	7	7	1.0	0.5	0.5	NFIB,NFIA,RFX3,RFX7,TCF4,BCL7A,FOXN2
+neurite_cytoskeleton_morphogenesis	Neurite/cytoskeleton morphogenesis	selected_dentate	13	6	0.46153846153846156	0.5	0.5	GPM6A,DYNLL1,BASP1,TUBA1A,MAPKAP1,MAP1B
+neurite_cytoskeleton_morphogenesis	Neurite/cytoskeleton morphogenesis	selected_cerebellar	13	12	0.9230769230769231	0.5	0.5	GPM6A,DYNLL1,BASP1,TUBA1A,MAPKAP1,ACTB,MAP1B,RTN3,ACTG1,TUBA1B,STMN2,MAP3K13
+neurite_cytoskeleton_morphogenesis	Neurite/cytoskeleton morphogenesis	full_dentate	13	12	0.9230769230769231	0.5	0.5	GPM6A,DYNLL1,BASP1,TUBA1A,MAPKAP1,ACTB,RTN3,ACTG1,TUBA1B,STMN2,MAP3K13,MAPK14
+neurite_cytoskeleton_morphogenesis	Neurite/cytoskeleton morphogenesis	full_cerebellar	13	13	1.0	0.5	0.5	GPM6A,DYNLL1,BASP1,TUBA1A,MAPKAP1,ACTB,MAP1B,RTN3,ACTG1,TUBA1B,STMN2,MAP3K13,MAPK14
+axon_guidance_adhesion	Axon guidance and adhesion	selected_dentate	4	1	0.25	0.5	0.5	ROBO2
+axon_guidance_adhesion	Axon guidance and adhesion	selected_cerebellar	4	3	0.75	0.5	0.5	ROBO2,CADM3,DCC
+axon_guidance_adhesion	Axon guidance and adhesion	full_dentate	4	4	1.0	0.5	0.5	ROBO2,CADM3,DCC,SEMA7A
+axon_guidance_adhesion	Axon guidance and adhesion	full_cerebellar	4	4	1.0	0.5	0.5	ROBO2,CADM3,DCC,SEMA7A
+synaptic_excitability_maturation	Synaptic/excitability maturation	selected_dentate	12	10	0.8333333333333334	0.5	0.5	KCNK1,GABRA2,PPP3CA,CACNA2D1,KCNJ6,GABRB3,GRIN2B,KCNJ3,KCND2,STXBP5L
+synaptic_excitability_maturation	Synaptic/excitability maturation	selected_cerebellar	12	12	1.0	0.5	0.5	KCNK1,GABRA2,PPP3CA,CACNA2D1,KCNJ6,GABRB3,GRIN2B,KCNJ3,KCND2,STXBP5L,KCNMB4,SLC17A6
+synaptic_excitability_maturation	Synaptic/excitability maturation	full_dentate	12	12	1.0	0.5	0.5	KCNK1,GABRA2,PPP3CA,CACNA2D1,KCNJ6,GABRB3,GRIN2B,KCNJ3,KCND2,STXBP5L,KCNMB4,SLC17A6
+synaptic_excitability_maturation	Synaptic/excitability maturation	full_cerebellar	12	12	1.0	0.5	0.5	KCNK1,GABRA2,PPP3CA,CACNA2D1,KCNJ6,GABRB3,GRIN2B,KCNJ3,KCND2,STXBP5L,KCNMB4,SLC17A6
+exploratory_ortholog_completeness	Exploratory ortholog completeness	selected_dentate	30	7	0.23333333333333334	0.5	0.5	ZNF706,RAB7A,ZNF292,ZNF148,C1orf21,ZNF827,KIAA1328
+exploratory_ortholog_completeness	Exploratory ortholog completeness	selected_cerebellar	30	0	0.0	0.5		
+exploratory_ortholog_completeness	Exploratory ortholog completeness	full_dentate	30	30	1.0	0.5	0.5	ZNF706,RAB7A,ZNF292,ZNF148,C1orf21,ZNF827,KIAA1328,ZNF536,TMEM178A,TUBB,MIR124-1HG,C5orf34,ZNF280D,ZNF32,TP53I11,ZNF821,C16orf87,ZNF281,C14orf119,ZNF410,C9orf85,C17orf75,ZNF780A,ZNF260,ZNF277,KIAA1143,ZNF3,C1orf174,POT1,ZNF800
+exploratory_ortholog_completeness	Exploratory ortholog completeness	full_cerebellar	30	30	1.0	0.5	0.5	ZNF706,RAB7A,ZNF292,ZNF148,C1orf21,ZNF827,KIAA1328,ZNF536,TMEM178A,TUBB,MIR124-1HG,C5orf34,ZNF280D,ZNF32,TP53I11,ZNF821,C16orf87,ZNF281,C14orf119,ZNF410,C9orf85,C17orf75,ZNF780A,ZNF260,ZNF277,KIAA1143,ZNF3,C1orf174,POT1,ZNF800

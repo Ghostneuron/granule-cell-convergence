@@ -1,0 +1,93 @@
+module_id	module_label	module_family	held_out_gene	n_genes_remaining	baseline_median_convergence_delta	leave_one_gene_out_median_delta	sign_preserved
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	ATOH1	12	-0.25	-0.37499999999999994	True
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	BARHL1	12	-0.25	-0.37499999999999994	True
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	PAX6	12	-0.25	-0.25	True
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	ZIC1	12	-0.25	-0.25	True
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	ZIC2	12	-0.25	-0.25	True
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	ZIC3	12	-0.25	-0.25	True
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	MYCN	12	-0.25	-0.37499999999999994	True
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	PTCH1	12	-0.25	-0.37499999999999994	True
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	GLI1	12	-0.25	-0.25	True
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	GLI2	12	-0.25	-0.25	True
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	EN1	12	-0.25	-0.37499999999999994	True
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	EN2	12	-0.25	-0.37499999999999994	True
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	MEIS1	12	-0.25	-0.37499999999999994	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	PROX1	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	NEUROD1	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	NEUROD2	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	EOMES	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	TBR1	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	LEF1	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	LHX2	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	EMX2	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	ZBTB20	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	TCF7L2	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	WNT3A	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	WNT7A	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	DKK3	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	BCL11B	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	CALB1	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	C1QL3	16	0.0	0.0	True
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	GLIS3	16	0.0	0.0	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	SOX2	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	HES1	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	HES5	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	NOTCH1	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	NOTCH2	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	DLL1	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	JAG1	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	ASCL1	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	DCX	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	TUBB3	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	NES	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	VIM	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	GFAP	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	BMP4	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	BMPR1A	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	ID1	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	ID2	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	PTCH1	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	GLI1	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	WNT5A	20	-0.4999999999999999	-0.4999999999999999	True
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	WNT7A	20	-0.4999999999999999	-0.4999999999999999	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	GPM6A	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	ROBO2	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	DCC	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	CADM3	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	STMN2	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	STMN3	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	GAP43	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	DPYSL2	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	DPYSL3	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	MAP1B	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	BASP1	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	NCAM1	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	L1CAM	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	CFL1	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	RTN1	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	RTN3	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	NRXN1	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	CNTN5	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	PLXNA2	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	PLXNA4	20	0.5	0.5	True
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	NRP1	20	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	KCNK1	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	KCNJ3	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	KCNJ6	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	KCND2	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	GABRA2	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	GABRB3	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	GRIN2B	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	CACNA2D1	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	PPP3CA	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	STXBP5L	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	STXBP1	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	SYNPR	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	SLC17A6	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	SLC17A7	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	SNAP25	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	SYT1	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	CALM1	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	CALM2	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	CAMK2A	19	0.5	0.5	True
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	CAMK2B	19	0.5	0.5	True

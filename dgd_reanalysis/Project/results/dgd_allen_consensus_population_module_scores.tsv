@@ -1,0 +1,46 @@
+population	module_id	module_label	module_family	n_libraries	mean_module_z_score	bootstrap_95ci_low	bootstrap_95ci_high
+Cerebellar granule	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	121	0.6904583586049073	0.65560896443762	0.727059470220806
+Purkinje	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	63	-0.06683583816983849	-0.1239646855231554	-0.0045049338631407
+CA1/ProS pyramidal	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	49	-0.507563494249978	-0.5336094361232215	-0.4807591367368615
+CA3 pyramidal	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	20	-0.48719682784178475	-0.5104900592566545	-0.4613538426459668
+Cortical L4/5 IT excitatory	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	98	-0.4295764899268315	-0.44497502548024165	-0.4134884796066403
+Dentate granule, immature	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	12	-0.005830566723147944	-0.14152275660298566	0.14249182025889498
+Dentate granule, mature	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	29	-0.46243236975492874	-0.4792262642349557	-0.44419248620803947
+Olfactory-bulb GABA, immature proxy	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	28	0.34989558598302833	0.2374193752763791	0.4813910628767249
+Olfactory-bulb GABA, mature proxy	cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	24	0.04423622156108644	-0.0015038698562112559	0.09107851584747477
+Cerebellar granule	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	121	-0.1842407230441547	-0.20139812160834758	-0.16648017230294787
+Purkinje	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	63	-0.41059786610717736	-0.4360548229417896	-0.3830302529016986
+CA1/ProS pyramidal	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	49	0.28845269615786484	0.2507739980278388	0.32925332898736737
+CA3 pyramidal	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	20	0.2520716429331161	0.22352212498272028	0.2802065480158369
+Cortical L4/5 IT excitatory	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	98	0.011744718528919035	-0.013316307248955966	0.03640619171907781
+Dentate granule, immature	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	12	1.6757283871685338	1.561604600920452	1.8024339121126611
+Dentate granule, mature	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	29	0.7653478511487724	0.7389502831570454	0.7946337756730733
+Olfactory-bulb GABA, immature proxy	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	28	-0.1247043450948871	-0.18654120386751197	-0.056233769251553635
+Olfactory-bulb GABA, mature proxy	dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	24	-0.45741295832570183	-0.46651383297072935	-0.4470533288049346
+Cerebellar granule	shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	121	-0.4407522497841377	-0.44980382531909147	-0.4314903847943916
+Purkinje	shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	63	-0.01555696133998487	-0.04836647574341297	0.020623098192556186
+CA1/ProS pyramidal	shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	49	0.022872200439318712	-0.03525806107568486	0.0811741468211536
+CA3 pyramidal	shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	20	0.062342619384686694	0.010570063716103634	0.12419808437633671
+Cortical L4/5 IT excitatory	shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	98	0.0102246376636575	-0.016549167124952708	0.037143799496805005
+Dentate granule, immature	shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	12	0.7538748707826478	0.595985519993103	0.957408556454302
+Dentate granule, mature	shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	29	0.057235675562526275	0.018016539419688598	0.10179121001953186
+Olfactory-bulb GABA, immature proxy	shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	28	1.1299666948807823	0.8751178246018249	1.4400076003880051
+Olfactory-bulb GABA, mature proxy	shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	24	0.3581710662780829	0.3014811934421304	0.4152926012393108
+Cerebellar granule	downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	121	-0.584362835831657	-0.6088503316082046	-0.556144795447596
+Purkinje	downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	63	-0.6234458973286696	-0.659549212232406	-0.586070800177686
+CA1/ProS pyramidal	downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	49	0.7474412387684037	0.6946796630484334	0.7950065380019041
+CA3 pyramidal	downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	20	0.8158802982136335	0.7903819889546736	0.8414892595120367
+Cortical L4/5 IT excitatory	downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	98	0.488536602581749	0.4483812859687406	0.5287001862157239
+Dentate granule, immature	downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	12	0.5430572604661874	0.48811043221308353	0.5971045177531309
+Dentate granule, mature	downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	29	0.3983720081544754	0.341589043146667	0.45294775800275616
+Olfactory-bulb GABA, immature proxy	downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	28	0.09101137810616274	0.027898174292103242	0.15008298796229008
+Olfactory-bulb GABA, mature proxy	downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	24	-0.4771505416102393	-0.5348337611501652	-0.42630400571735694
+Cerebellar granule	downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	121	-0.2513812941217059	-0.2735122905938728	-0.2267156922327598
+Purkinje	downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	63	-0.8887471247098616	-0.9223280255687129	-0.854946361735614
+CA1/ProS pyramidal	downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	49	0.5394466419647992	0.5229844233515263	0.5563323514971702
+CA3 pyramidal	downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	20	0.686784579427363	0.6506866540128301	0.7212281867848851
+Cortical L4/5 IT excitatory	downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	98	0.5813648304933654	0.5606354602831024	0.60100980087942
+Dentate granule, immature	downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	12	-0.4081974828726136	-0.4546104767894368	-0.36450673777589243
+Dentate granule, mature	downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	29	0.7510054830072668	0.7283960807387077	0.7744303726546732
+Olfactory-bulb GABA, immature proxy	downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	28	-1.1411610492118165	-1.3083593132094609	-0.9974194551567473
+Olfactory-bulb GABA, mature proxy	downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	24	0.18073313239445707	0.14162610572801687	0.2195307288358736

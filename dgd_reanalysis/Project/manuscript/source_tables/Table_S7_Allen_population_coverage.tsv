@@ -1,0 +1,10 @@
+population	source_matrices	n_libraries	n_cells
+CA1/ProS pyramidal	HPF,Isocortex	49	26932
+CA3 pyramidal	HPF	20	14128
+Cerebellar granule	CB,HPF	121	389590
+Cortical L4/5 IT excitatory	HPF,Isocortex	98	123651
+Dentate granule, immature	HPF	12	1662
+Dentate granule, mature	HPF	29	45209
+Olfactory-bulb GABA, immature proxy	HPF,Isocortex,OLF	28	5728
+Olfactory-bulb GABA, mature proxy	Isocortex,OLF	24	105768
+Purkinje	CB	63	8158

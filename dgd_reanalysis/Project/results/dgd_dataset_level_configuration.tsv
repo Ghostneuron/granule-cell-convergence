@@ -1,0 +1,8 @@
+dataset	core_branch	n_nested_contrasts	median_delta_configuration_score	median_delta_construction_balance	median_delta_regional_fate_balance	positive_nested_fraction	species	region	dataset_median_positive
+GSE104323	mouse_dentate	2	1.5	0.5	1.0	1.0	mouse	dentate	True
+GSE122357	cerebellum	6	1.25	0.6666666666666667	0.5833333333333335	1.0	mouse	cerebellum	True
+GSE165657	cerebellum	2	1.0	0.5	0.5	1.0	human	cerebellum	True
+GSE268609	human_dentate_hippocampus	39	0.0833333333333334	-0.1666666666666666	0.2500000000000001	0.717948717948718	human	dentate	True
+GSE312658	cerebellum	4	0.875	0.375	0.5	1.0	mouse	cerebellum	True
+GSE325391	human_dentate_hippocampus	8	0.625	0.0	0.5	1.0	human	dentate	True
+GSE95752	mouse_dentate	2	2.2500000000000004	0.9166666666666669	1.3333333333333337	1.0	mouse	dentate	True

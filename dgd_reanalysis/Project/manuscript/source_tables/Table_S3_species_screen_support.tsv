@@ -1,0 +1,106 @@
+canonical_gene	manuscript_tier	mechanism_class	species	screen	branch_tested	n_datasets	median_dataset_rank_delta	positive_dataset_fraction	bootstrap_95ci_low	bootstrap_95ci_high	exact_sign_p_greater	datasets	descriptive_positive
+CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+GABRA2	Tier 1 core convergent program	synaptic_wiring	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+KCNK1	Tier 1 core convergent program	synaptic_wiring	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+GABRA2	Tier 1 core convergent program	synaptic_wiring	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+KCNK1	Tier 1 core convergent program	synaptic_wiring	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	mouse	selected	cerebellar	2	0.375	1.0	0.25	0.5	0.25	GSE122357,GSE312658	True
+STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	selected	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+GABRA2	Tier 1 core convergent program	synaptic_wiring	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+KCNK1	Tier 1 core convergent program	synaptic_wiring	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	human	selected	dentate	2	0.25	0.5	0.0	0.5	0.5	GSE268609,GSE325391	True
+STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	dentate	2	0.25	0.5	0.0	0.5	0.5	GSE268609,GSE325391	True
+RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	human	selected	dentate	2	0.5	1.0	0.5	0.5	0.25	GSE268609,GSE325391	True
+PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	dentate	2	0.5	1.0	0.5	0.5	0.25	GSE268609,GSE325391	True
+GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	human	selected	dentate	2	0.5	1.0	0.5	0.5	0.25	GSE268609,GSE325391	True
+GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	dentate	2	0.25	0.5	0.0	0.5	0.5	GSE268609,GSE325391	True
+GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	dentate	2	0.25	0.5	0.0	0.5	0.5	GSE268609,GSE325391	True
+CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	dentate	2	0.25	0.5	0.0	0.5	0.5	GSE268609,GSE325391	True
+KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	dentate	2	0.25	0.5	0.0	0.5	0.5	GSE268609,GSE325391	True
+KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	dentate	2	0.5	1.0	0.5	0.5	0.25	GSE268609,GSE325391	True
+NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	human	selected	dentate	2	0.5	1.0	0.5	0.5	0.25	GSE268609,GSE325391	True
+KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	selected	dentate	2	0.5	1.0	0.5	0.5	0.25	GSE268609,GSE325391	True
+NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	human	selected	dentate	2	0.5	1.0	0.5	0.5	0.25	GSE268609,GSE325391	True
+KCNK1	Tier 1 core convergent program	synaptic_wiring	human	selected	dentate	2	0.5	1.0	0.5	0.5	0.25	GSE268609,GSE325391	True
+GABRA2	Tier 1 core convergent program	synaptic_wiring	human	selected	dentate	2	0.5	1.0	0.5	0.5	0.25	GSE268609,GSE325391	True
+CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+GABRA2	Tier 1 core convergent program	synaptic_wiring	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+KCNK1	Tier 1 core convergent program	synaptic_wiring	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	dentate	4	0.5	1.0	0.5	0.5	0.0625	GSE104323,GSE214309,GSE292261,GSE95752	True
+CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+GABRA2	Tier 1 core convergent program	synaptic_wiring	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+KCNK1	Tier 1 core convergent program	synaptic_wiring	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	mouse	full_matrix	cerebellar	2	0.375	1.0	0.25	0.5	0.25	GSE122357,GSE312658	True
+STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	mouse	full_matrix	cerebellar	2	0.5	1.0	0.5	0.5	0.25	GSE122357,GSE312658	True
+CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+GABRA2	Tier 1 core convergent program	synaptic_wiring	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+KCNK1	Tier 1 core convergent program	synaptic_wiring	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True
+STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	human	full_matrix	cerebellar	1	0.5	1.0			0.5	GSE165657	True

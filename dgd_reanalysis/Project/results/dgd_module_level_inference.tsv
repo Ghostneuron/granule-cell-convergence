@@ -1,0 +1,7 @@
+module_id	module_label	module_family	n_genes_defined	median_overall_convergence_delta	inference_group	n_downstream_modules	n_upstream_modules	downstream_median	upstream_median	exact_mannwhitney_p_greater	cliffs_delta	interpretation
+cerebellar_fate_rhombic_lip_shh	Cerebellar fate/rhombic-lip/SHH	upstream_region_fate	13	-0.25	upstream_or_niche							module_summary
+dentate_fate_wnt_prox1	Dentate fate/WNT/PROX1	upstream_region_fate	17	0.0	upstream_or_niche							module_summary
+shared_neurogenic_niche_state	Shared neurogenic niche/progenitor state	shared_niche_state	21	-0.4999999999999999	upstream_or_niche							module_summary
+downstream_neurite_morphology	Downstream neurite/morphology	downstream_circuit_morphology	21	0.5	downstream							module_summary
+downstream_synaptic_excitability	Downstream synaptic/excitability	downstream_circuit_morphology	20	0.5	downstream							module_summary
+downstream_vs_upstream_module_level	Downstream versus upstream/niche modules	module_level_comparison	92	0.75	comparison	2.0	3.0	0.5	-0.25	0.1	1.0	descriptive_directional_not_conventionally_significant_at_module_level

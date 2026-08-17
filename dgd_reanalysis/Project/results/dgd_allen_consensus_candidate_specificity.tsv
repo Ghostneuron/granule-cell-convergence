@@ -1,0 +1,16 @@
+canonical_gene	gene_symbol	manuscript_tier	mechanism_class	minimum_target_mean_log2	maximum_comparator_mean_log2	target_min_minus_comparator_max	strict_target_pair_specific
+GPM6A	Gpm6a	Tier 1 core convergent program	cytoskeleton_morphogenesis	8.047762212989552	9.369680865002296	-1.3219186520127444	False
+NFIB	Nfib	Tier 1 core convergent program	regulatory_morphogenesis_candidate	8.362100848005447	11.55591947350508	-3.193818625499633	False
+KCNK1	Kcnk1	Tier 1 core convergent program	synaptic_wiring	4.202782984842765	5.3106246405960285	-1.1078416557532638	False
+RFX3	Rfx3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	3.420892627842519	8.383150974083073	-4.962258346240553	False
+GABRA2	Gabra2	Tier 1 core convergent program	synaptic_wiring	0.002820168694561437	8.903857424423714	-8.901037255729152	False
+NFIA	Nfia	Tier 1 core convergent program	regulatory_morphogenesis_candidate	8.098672660143063	10.834233432652319	-2.735560772509256	False
+ROBO2	Robo2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	0.03830771539361432	11.003625609150813	-10.965317893757199	False
+GABRB3	Gabrb3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	7.750551783428804	10.439978253802014	-2.68942647037321	False
+KCND2	Kcnd2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	11.607263755686928	11.409035842844665	0.19822791284226327	True
+PPP3CA	Ppp3ca	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	10.298852369410204	11.04630260008506	-0.7474502306748558	False
+CACNA2D1	Cacna2d1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	7.781356976420076	9.981914297321277	-2.2005573209012006	False
+KCNJ6	Kcnj6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	4.891017688048372	8.7286218299031	-3.8376041418547278	False
+GRIN2B	Grin2b	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0.014919024900864589	11.434925001322691	-11.420005976421827	False
+KCNJ3	Kcnj3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	8.005224142239761	9.113052958524296	-1.1078288162845347	False
+STXBP5L	Stxbp5l	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	9.267183075669156	9.674359582640832	-0.40717650697167684	False

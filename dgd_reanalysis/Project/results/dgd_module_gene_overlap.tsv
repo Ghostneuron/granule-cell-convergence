@@ -1,0 +1,11 @@
+module_a	module_b	n_a	n_b	n_overlap	jaccard	overlap_genes
+cerebellar_fate_rhombic_lip_shh	dentate_fate_wnt_prox1	13	17	0	0.0	
+cerebellar_fate_rhombic_lip_shh	downstream_neurite_morphology	13	21	0	0.0	
+cerebellar_fate_rhombic_lip_shh	downstream_synaptic_excitability	13	20	0	0.0	
+cerebellar_fate_rhombic_lip_shh	shared_neurogenic_niche_state	13	21	2	0.0625	GLI1,PTCH1
+dentate_fate_wnt_prox1	downstream_neurite_morphology	17	21	0	0.0	
+dentate_fate_wnt_prox1	downstream_synaptic_excitability	17	20	0	0.0	
+dentate_fate_wnt_prox1	shared_neurogenic_niche_state	17	21	1	0.02702702702702703	WNT7A
+downstream_neurite_morphology	downstream_synaptic_excitability	21	20	0	0.0	
+downstream_neurite_morphology	shared_neurogenic_niche_state	21	21	0	0.0	
+downstream_synaptic_excitability	shared_neurogenic_niche_state	20	21	0	0.0	

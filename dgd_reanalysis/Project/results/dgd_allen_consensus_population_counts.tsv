@@ -1,0 +1,700 @@
+matrix	population	library	n_cells
+CB	Cerebellar granule	pBICCNsMMrCBAN1iF002d190304b	4699
+CB	Cerebellar granule	pBICCNsMMrCBAN1iF002d190304c	4214
+CB	Cerebellar granule	pBICCNsMMrCBAN1iM002d190312a	2012
+CB	Cerebellar granule	pBICCNsMMrCBAN1iM002d190312b	2135
+CB	Cerebellar granule	pBICCNsMMrCBAN1iM002d190312c	3757
+CB	Cerebellar granule	pBICCNsMMrCBAN1iM006d190124	1802
+CB	Cerebellar granule	pBICCNsMMrCBAN1iM006d190321a	2121
+CB	Cerebellar granule	pBICCNsMMrCBAN1iM006d190321b	1903
+CB	Cerebellar granule	pBICCNsMMrCBAN2iF002d190304a	2541
+CB	Cerebellar granule	pBICCNsMMrCBAN2iF002d190304b	4182
+CB	Cerebellar granule	pBICCNsMMrCBAN2iF002d190304c	6039
+CB	Cerebellar granule	pBICCNsMMrCBAN2iM002d190312a	3991
+CB	Cerebellar granule	pBICCNsMMrCBAN2iM002d190312b	3848
+CB	Cerebellar granule	pBICCNsMMrCBAN2iM002d190312c	4176
+CB	Cerebellar granule	pBICCNsMMrCBAN2iM006d190124	844
+CB	Cerebellar granule	pBICCNsMMrCBAN2iM006d190321a	1398
+CB	Cerebellar granule	pBICCNsMMrCBAN2iM006d190321b	3999
+CB	Cerebellar granule	pBICCNsMMrCBAN2iM006d190321c	4780
+CB	Cerebellar granule	pBICCNsMMrCBAN2iM006d190321d	3266
+CB	Cerebellar granule	pBICCNsMMrCBAN2iM006d190321e	3808
+CB	Cerebellar granule	pBICCNsMMrCBCOPiF002d190304a	2226
+CB	Cerebellar granule	pBICCNsMMrCBCOPiF002d190304b	3206
+CB	Cerebellar granule	pBICCNsMMrCBCOPiM002d190312a	1232
+CB	Cerebellar granule	pBICCNsMMrCBCOPiM002d190312b	1333
+CB	Cerebellar granule	pBICCNsMMrCBCOPiM002d190312c	1288
+CB	Cerebellar granule	pBICCNsMMrCBCOPiM002d190312d	1300
+CB	Cerebellar granule	pBICCNsMMrCBCOPiM006d190313	783
+CB	Cerebellar granule	pBICCNsMMrCBCULiM006d190313b	5563
+CB	Cerebellar granule	pBICCNsMMrCBDECiF002d190304a	8673
+CB	Cerebellar granule	pBICCNsMMrCBDECiF002d190304b	5699
+CB	Cerebellar granule	pBICCNsMMrCBDECiF002d190304c	1575
+CB	Cerebellar granule	pBICCNsMMrCBDECiM006d190313a	2878
+CB	Cerebellar granule	pBICCNsMMrCBDECiM006d190313b	2961
+CB	Cerebellar granule	pBICCNsMMrCBDECiM006d190313c	3061
+CB	Cerebellar granule	pBICCNsMMrCBFiF001d190115	2921
+CB	Cerebellar granule	pBICCNsMMrCBFiM006d190124	2397
+CB	Cerebellar granule	pBICCNsMMrCBFiM006d190313a	2980
+CB	Cerebellar granule	pBICCNsMMrCBFiM006d190313c	3523
+CB	Cerebellar granule	pBICCNsMMrCBIIIiF001d190115a	5106
+CB	Cerebellar granule	pBICCNsMMrCBIIIiF001d190115b	4972
+CB	Cerebellar granule	pBICCNsMMrCBIIiF001d190115a	5055
+CB	Cerebellar granule	pBICCNsMMrCBIIiF001d190115b	4752
+CB	Cerebellar granule	pBICCNsMMrCBIIiM001d190108a	3868
+CB	Cerebellar granule	pBICCNsMMrCBIIiM001d190108b	4068
+CB	Cerebellar granule	pBICCNsMMrCBIIiM006d190313	1783
+CB	Cerebellar granule	pBICCNsMMrCBIViM006d190124	766
+CB	Cerebellar granule	pBICCNsMMrCBIXiF002d190304a	3784
+CB	Cerebellar granule	pBICCNsMMrCBIXiF002d190304b	3411
+CB	Cerebellar granule	pBICCNsMMrCBIXiF002d190304c	6027
+CB	Cerebellar granule	pBICCNsMMrCBIXiM006d190313a	1734
+CB	Cerebellar granule	pBICCNsMMrCBIXiM006d190313b	1963
+CB	Cerebellar granule	pBICCNsMMrCBIXiM006d190313c	1764
+CB	Cerebellar granule	pBICCNsMMrCBIXiM006d190313d	2043
+CB	Cerebellar granule	pBICCNsMMrCBIiF001d190115	176
+CB	Cerebellar granule	pBICCNsMMrCBIiM001d190108a	5053
+CB	Cerebellar granule	pBICCNsMMrCBIiM001d190108b	5195
+CB	Cerebellar granule	pBICCNsMMrCBIiM006d190313	2629
+CB	Cerebellar granule	pBICCNsMMrCBPFiF002d190304a	6004
+CB	Cerebellar granule	pBICCNsMMrCBPFiF002d190304c	6351
+CB	Cerebellar granule	pBICCNsMMrCBPFiM001d190107a	2630
+CB	Cerebellar granule	pBICCNsMMrCBPFiM001d190107b	3987
+CB	Cerebellar granule	pBICCNsMMrCBPFiM001d190107c	3095
+CB	Cerebellar granule	pBICCNsMMrCBPFiM001d190107d	3002
+CB	Cerebellar granule	pBICCNsMMrCBPFiM006d190124	1664
+CB	Cerebellar granule	pBICCNsMMrCBPFiM006d190313a	2360
+CB	Cerebellar granule	pBICCNsMMrCBPFiM006d190313b	2249
+CB	Cerebellar granule	pBICCNsMMrCBPRMiF002d190304a	2478
+CB	Cerebellar granule	pBICCNsMMrCBPRMiF002d190304b	2352
+CB	Cerebellar granule	pBICCNsMMrCBPRMiF002d190304c	2423
+CB	Cerebellar granule	pBICCNsMMrCBPRMiM002d190312a	4330
+CB	Cerebellar granule	pBICCNsMMrCBPRMiM002d190312b	3692
+CB	Cerebellar granule	pBICCNsMMrCBPRMiM002d190312c	2523
+CB	Cerebellar granule	pBICCNsMMrCBPRMiM002d190312d	2254
+CB	Cerebellar granule	pBICCNsMMrCBPRMiM002d190312e	2353
+CB	Cerebellar granule	pBICCNsMMrCBPRMiM006d190321a	4703
+CB	Cerebellar granule	pBICCNsMMrCBPRMiM006d190321b	3987
+CB	Cerebellar granule	pBICCNsMMrCBPRMiM006d190321c	4355
+CB	Cerebellar granule	pBICCNsMMrCBPRMiM006d190321d	3819
+CB	Cerebellar granule	pBICCNsMMrCBPRMiM006d190321e	3295
+CB	Cerebellar granule	pBICCNsMMrCBPRMiM006d190321f	5164
+CB	Cerebellar granule	pBICCNsMMrCBSIMiF001d190115	1090
+CB	Cerebellar granule	pBICCNsMMrCBSIMiM002d190312a	4373
+CB	Cerebellar granule	pBICCNsMMrCBSIMiM002d190312b	4136
+CB	Cerebellar granule	pBICCNsMMrCBSIMiM002d190312c	4057
+CB	Cerebellar granule	pBICCNsMMrCBSIMiM002d190312d	4466
+CB	Cerebellar granule	pBICCNsMMrCBSIMiM006d190313a	3347
+CB	Cerebellar granule	pBICCNsMMrCBSIMiM006d190313b	3590
+CB	Cerebellar granule	pBICCNsMMrCBSIMiM006d190313c	3425
+CB	Cerebellar granule	pBICCNsMMrCBVIIIiF002d190304a	2787
+CB	Cerebellar granule	pBICCNsMMrCBVIIIiF002d190304b	2894
+CB	Cerebellar granule	pBICCNsMMrCBVIIIiF002d190304c	3189
+CB	Cerebellar granule	pBICCNsMMrCBVIIIiF002d190304d	4200
+CB	Cerebellar granule	pBICCNsMMrCBVIIIiM001d190108a	2028
+CB	Cerebellar granule	pBICCNsMMrCBVIIIiM001d190108b	3230
+CB	Cerebellar granule	pBICCNsMMrCBVIIIiM006d190313	2011
+CB	Cerebellar granule	pBICCNsMMrCBVIIiF002d190304a	2171
+CB	Cerebellar granule	pBICCNsMMrCBVIIiF002d190304b	2103
+CB	Cerebellar granule	pBICCNsMMrCBVIIiM002d190312a	2707
+CB	Cerebellar granule	pBICCNsMMrCBVIIiM002d190312b	2618
+CB	Cerebellar granule	pBICCNsMMrCBVIIiM002d190312c	2710
+CB	Cerebellar granule	pBICCNsMMrCBVIIiM002d190312d	3128
+CB	Cerebellar granule	pBICCNsMMrCBVIIiM006d190313a	4430
+CB	Cerebellar granule	pBICCNsMMrCBVIIiM006d190313b	5493
+CB	Cerebellar granule	pBICCNsMMrCBVIiF001d190116	281
+CB	Cerebellar granule	pBICCNsMMrCBVIiM002d190312a	3783
+CB	Cerebellar granule	pBICCNsMMrCBVIiM002d190312b	3674
+CB	Cerebellar granule	pBICCNsMMrCBVIiM002d190312c	3558
+CB	Cerebellar granule	pBICCNsMMrCBVIiM002d190312d	4326
+CB	Cerebellar granule	pBICCNsMMrCBVIiM002d190312e	3479
+CB	Cerebellar granule	pBICCNsMMrCBVIiM006d190321a	3699
+CB	Cerebellar granule	pBICCNsMMrCBVIiM006d190321b	3171
+CB	Cerebellar granule	pBICCNsMMrCBVIiM006d190321c	3484
+CB	Cerebellar granule	pBICCNsMMrCBViM002d190312a	3372
+CB	Cerebellar granule	pBICCNsMMrCBViM002d190312b	3678
+CB	Cerebellar granule	pBICCNsMMrCBViM002d190312c	3842
+CB	Cerebellar granule	pBICCNsMMrCBViM002d190312d	3472
+CB	Cerebellar granule	pBICCNsMMrCBVliM006d190124	376
+CB	Cerebellar granule	pBICCNsMMrCBXiF001d190115a	3932
+CB	Cerebellar granule	pBICCNsMMrCBXiF001d190115b	4040
+CB	Cerebellar granule	pBICCNsMMrCBXiM006d190313a	619
+CB	Cortical L4/5 IT excitatory	pBICCNsMMrCBAN1iM006d190124	1
+CB	Purkinje	pBICCNsMMrCBAN1iF002d190304b	260
+CB	Purkinje	pBICCNsMMrCBAN1iF002d190304c	207
+CB	Purkinje	pBICCNsMMrCBAN1iM002d190312a	105
+CB	Purkinje	pBICCNsMMrCBAN1iM002d190312b	90
+CB	Purkinje	pBICCNsMMrCBAN1iM002d190312c	179
+CB	Purkinje	pBICCNsMMrCBAN1iM006d190321a	126
+CB	Purkinje	pBICCNsMMrCBAN1iM006d190321b	150
+CB	Purkinje	pBICCNsMMrCBAN2iF002d190304a	77
+CB	Purkinje	pBICCNsMMrCBAN2iF002d190304b	92
+CB	Purkinje	pBICCNsMMrCBAN2iF002d190304c	126
+CB	Purkinje	pBICCNsMMrCBAN2iM002d190312a	187
+CB	Purkinje	pBICCNsMMrCBAN2iM002d190312b	158
+CB	Purkinje	pBICCNsMMrCBAN2iM002d190312c	221
+CB	Purkinje	pBICCNsMMrCBAN2iM006d190124	1
+CB	Purkinje	pBICCNsMMrCBAN2iM006d190321a	128
+CB	Purkinje	pBICCNsMMrCBAN2iM006d190321b	96
+CB	Purkinje	pBICCNsMMrCBAN2iM006d190321c	94
+CB	Purkinje	pBICCNsMMrCBAN2iM006d190321d	106
+CB	Purkinje	pBICCNsMMrCBAN2iM006d190321e	84
+CB	Purkinje	pBICCNsMMrCBCOPiF002d190304a	20
+CB	Purkinje	pBICCNsMMrCBCOPiF002d190304b	20
+CB	Purkinje	pBICCNsMMrCBCULiM006d190313b	120
+CB	Purkinje	pBICCNsMMrCBDECiF002d190304a	114
+CB	Purkinje	pBICCNsMMrCBDECiF002d190304b	99
+CB	Purkinje	pBICCNsMMrCBDECiF002d190304c	41
+CB	Purkinje	pBICCNsMMrCBFiF001d190115	97
+CB	Purkinje	pBICCNsMMrCBFiM006d190124	2
+CB	Purkinje	pBICCNsMMrCBFiM006d190313a	44
+CB	Purkinje	pBICCNsMMrCBFiM006d190313c	64
+CB	Purkinje	pBICCNsMMrCBIIIiF001d190115a	139
+CB	Purkinje	pBICCNsMMrCBIIIiF001d190115b	139
+CB	Purkinje	pBICCNsMMrCBIIiF001d190115a	93
+CB	Purkinje	pBICCNsMMrCBIIiF001d190115b	75
+CB	Purkinje	pBICCNsMMrCBIIiM001d190108a	198
+CB	Purkinje	pBICCNsMMrCBIIiM001d190108b	184
+CB	Purkinje	pBICCNsMMrCBIViM006d190124	75
+CB	Purkinje	pBICCNsMMrCBIiM001d190108a	198
+CB	Purkinje	pBICCNsMMrCBIiM001d190108b	178
+CB	Purkinje	pBICCNsMMrCBIiM006d190313	26
+CB	Purkinje	pBICCNsMMrCBPFiF002d190304a	118
+CB	Purkinje	pBICCNsMMrCBPFiF002d190304c	163
+CB	Purkinje	pBICCNsMMrCBPFiM001d190107a	103
+CB	Purkinje	pBICCNsMMrCBPFiM001d190107b	109
+CB	Purkinje	pBICCNsMMrCBPFiM001d190107c	288
+CB	Purkinje	pBICCNsMMrCBPFiM001d190107d	289
+CB	Purkinje	pBICCNsMMrCBPFiM006d190124	1
+CB	Purkinje	pBICCNsMMrCBPRMiM002d190312a	60
+CB	Purkinje	pBICCNsMMrCBPRMiM002d190312b	58
+CB	Purkinje	pBICCNsMMrCBPRMiM002d190312c	1
+CB	Purkinje	pBICCNsMMrCBPRMiM002d190312e	20
+CB	Purkinje	pBICCNsMMrCBPRMiM006d190321a	42
+CB	Purkinje	pBICCNsMMrCBPRMiM006d190321b	61
+CB	Purkinje	pBICCNsMMrCBPRMiM006d190321c	51
+CB	Purkinje	pBICCNsMMrCBPRMiM006d190321d	22
+CB	Purkinje	pBICCNsMMrCBPRMiM006d190321e	34
+CB	Purkinje	pBICCNsMMrCBPRMiM006d190321f	70
+CB	Purkinje	pBICCNsMMrCBSIMiF001d190115	448
+CB	Purkinje	pBICCNsMMrCBSIMiM002d190312a	154
+CB	Purkinje	pBICCNsMMrCBSIMiM002d190312b	101
+CB	Purkinje	pBICCNsMMrCBSIMiM002d190312c	161
+CB	Purkinje	pBICCNsMMrCBSIMiM002d190312d	177
+CB	Purkinje	pBICCNsMMrCBVIIIiF002d190304a	12
+CB	Purkinje	pBICCNsMMrCBVIIIiF002d190304b	12
+CB	Purkinje	pBICCNsMMrCBVIIIiF002d190304c	19
+CB	Purkinje	pBICCNsMMrCBVIIIiF002d190304d	24
+CB	Purkinje	pBICCNsMMrCBVIIIiM001d190108a	48
+CB	Purkinje	pBICCNsMMrCBVIIIiM001d190108b	95
+CB	Purkinje	pBICCNsMMrCBVIIiF002d190304a	1
+CB	Purkinje	pBICCNsMMrCBVIIiF002d190304b	2
+CB	Purkinje	pBICCNsMMrCBVIIiM002d190312a	32
+CB	Purkinje	pBICCNsMMrCBVIIiM002d190312b	30
+CB	Purkinje	pBICCNsMMrCBVIIiM002d190312c	31
+CB	Purkinje	pBICCNsMMrCBVIIiM002d190312d	25
+CB	Purkinje	pBICCNsMMrCBVIIiM006d190313a	71
+CB	Purkinje	pBICCNsMMrCBVIIiM006d190313b	62
+CB	Purkinje	pBICCNsMMrCBVIiF001d190116	258
+CB	Purkinje	pBICCNsMMrCBVIiM002d190312a	115
+CB	Purkinje	pBICCNsMMrCBVIiM002d190312b	95
+CB	Purkinje	pBICCNsMMrCBVIiM002d190312c	94
+CB	Purkinje	pBICCNsMMrCBVIiM002d190312d	124
+CB	Purkinje	pBICCNsMMrCBVIiM002d190312e	84
+CB	Purkinje	pBICCNsMMrCBVIiM006d190321a	89
+CB	Purkinje	pBICCNsMMrCBVIiM006d190321b	109
+CB	Purkinje	pBICCNsMMrCBVIiM006d190321c	91
+CB	Purkinje	pBICCNsMMrCBViM002d190312b	63
+CB	Purkinje	pBICCNsMMrCBViM002d190312c	68
+CB	Purkinje	pBICCNsMMrCBViM002d190312d	70
+CB	Purkinje	pBICCNsMMrCBXiF001d190115a	41
+CB	Purkinje	pBICCNsMMrCBXiF001d190115b	43
+CB	Purkinje	pBICCNsMMrCBXiM006d190313a	2
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiF015d201201A1	103
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiF015d201201A2	93
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiF015d201201A3	104
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiF015d201201B1	241
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiF015d201201B2	270
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiF015d201201B3	305
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiF016d210119A1	19
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiF016d210119A2	30
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiF016d210119A3	29
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiM015d201201A1	241
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiM015d201201A2	185
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiM015d201201A3	150
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiM015d201201B1	23
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiM015d201201B2	466
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiM015d201201B3	420
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiM017d210119A1	151
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiM017d210119A2	154
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiM017d210119A3	141
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiM017d210119B1	368
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiM017d210119B2	425
+HPF	CA1/ProS pyramidal	pBICCNsMMrENTiM017d210119B3	395
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFCA1iF014d210217	2354
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFCA1iM017d210223	2823
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFCA2CA3iF014d210217A1	571
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFCA2CA3iF014d210217A2	689
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFCA2CA3iM017d210223A1	456
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFCA2CA3iM017d210223A2	445
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFCA2iF014d210217	2320
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFCA2iM017d210223	3002
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFCA3iF014d210217	1567
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFCA3iM017d210223	2782
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFDG1iF014d210217	2
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFDG1iM017d210223	186
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFDG2iF014d210217	1
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFDG2iM017d210223	160
+HPF	CA1/ProS pyramidal	pBICCNsMMrHPFDG3iM017d210223	180
+HPF	CA1/ProS pyramidal	pBICCNsMMrSUBMiM016d210219A1	218
+HPF	CA1/ProS pyramidal	pBICCNsMMrSUBMiM016d210219A2	219
+HPF	CA1/ProS pyramidal	pBICCNsMMrSUBMiM016d210219A3	246
+HPF	CA1/ProS pyramidal	pBICCNsMMrSUBMiM016d210219B3	591
+HPF	CA3 pyramidal	pBICCNsMMrENTiM015d201201A1	13
+HPF	CA3 pyramidal	pBICCNsMMrENTiM015d201201A2	5
+HPF	CA3 pyramidal	pBICCNsMMrENTiM015d201201A3	3
+HPF	CA3 pyramidal	pBICCNsMMrENTiM015d201201B2	2
+HPF	CA3 pyramidal	pBICCNsMMrENTiM015d201201B3	3
+HPF	CA3 pyramidal	pBICCNsMMrENTiM017d210119B1	39
+HPF	CA3 pyramidal	pBICCNsMMrENTiM017d210119B2	41
+HPF	CA3 pyramidal	pBICCNsMMrENTiM017d210119B3	33
+HPF	CA3 pyramidal	pBICCNsMMrHPFCA1iF014d210217	554
+HPF	CA3 pyramidal	pBICCNsMMrHPFCA1iM017d210223	277
+HPF	CA3 pyramidal	pBICCNsMMrHPFCA2CA3iF014d210217A1	1485
+HPF	CA3 pyramidal	pBICCNsMMrHPFCA2CA3iF014d210217A2	1768
+HPF	CA3 pyramidal	pBICCNsMMrHPFCA2CA3iM017d210223A1	938
+HPF	CA3 pyramidal	pBICCNsMMrHPFCA2CA3iM017d210223A2	960
+HPF	CA3 pyramidal	pBICCNsMMrHPFCA2iF014d210217	433
+HPF	CA3 pyramidal	pBICCNsMMrHPFCA2iM017d210223	270
+HPF	CA3 pyramidal	pBICCNsMMrHPFCA3iF014d210217	338
+HPF	CA3 pyramidal	pBICCNsMMrHPFCA3iM017d210223	267
+HPF	CA3 pyramidal	pBICCNsMMrHPFDG1iF014d210217	673
+HPF	CA3 pyramidal	pBICCNsMMrHPFDG1iM017d210223	500
+HPF	CA3 pyramidal	pBICCNsMMrHPFDG2iF014d210217	659
+HPF	CA3 pyramidal	pBICCNsMMrHPFDG2iM017d210223	385
+HPF	CA3 pyramidal	pBICCNsMMrHPFDG3iF014d210217	641
+HPF	CA3 pyramidal	pBICCNsMMrHPFDG3iM017d210223	488
+HPF	CA3 pyramidal	pBICCNsMMrSUBMiM016d210219A1	807
+HPF	CA3 pyramidal	pBICCNsMMrSUBMiM016d210219A2	820
+HPF	CA3 pyramidal	pBICCNsMMrSUBMiM016d210219A3	929
+HPF	CA3 pyramidal	pBICCNsMMrSUBMiM016d210219B3	936
+HPF	Cerebellar granule	pBICCNsMMrENTiF015d201201A1	5
+HPF	Cerebellar granule	pBICCNsMMrENTiF015d201201A2	7
+HPF	Cerebellar granule	pBICCNsMMrENTiF015d201201A3	2
+HPF	Cerebellar granule	pBICCNsMMrENTiF016d210119B2	288
+HPF	Cerebellar granule	pBICCNsMMrENTiF016d210203B3	31
+HPF	Cortical L4/5 IT excitatory	pBICCNsMMrENTiF016d210119B2	154
+HPF	Cortical L4/5 IT excitatory	pBICCNsMMrENTiF016d210203B3	89
+HPF	Dentate granule, immature	pBICCNsMMrENTiF015d201201A3	1
+HPF	Dentate granule, immature	pBICCNsMMrENTiF015d201201B1	1
+HPF	Dentate granule, immature	pBICCNsMMrENTiF015d201201B2	1
+HPF	Dentate granule, immature	pBICCNsMMrENTiF015d201201B3	1
+HPF	Dentate granule, immature	pBICCNsMMrENTiM015d201201A1	24
+HPF	Dentate granule, immature	pBICCNsMMrENTiM015d201201A2	20
+HPF	Dentate granule, immature	pBICCNsMMrENTiM015d201201A3	17
+HPF	Dentate granule, immature	pBICCNsMMrENTiM015d201201B1	3
+HPF	Dentate granule, immature	pBICCNsMMrENTiM015d201201B2	21
+HPF	Dentate granule, immature	pBICCNsMMrENTiM015d201201B3	14
+HPF	Dentate granule, immature	pBICCNsMMrENTiM017d210119B1	24
+HPF	Dentate granule, immature	pBICCNsMMrENTiM017d210119B2	17
+HPF	Dentate granule, immature	pBICCNsMMrENTiM017d210119B3	13
+HPF	Dentate granule, immature	pBICCNsMMrHPFCA1iF014d210217	75
+HPF	Dentate granule, immature	pBICCNsMMrHPFCA1iM017d210223	133
+HPF	Dentate granule, immature	pBICCNsMMrHPFCA2CA3iF014d210217A1	25
+HPF	Dentate granule, immature	pBICCNsMMrHPFCA2CA3iF014d210217A2	46
+HPF	Dentate granule, immature	pBICCNsMMrHPFCA2CA3iM017d210223A1	14
+HPF	Dentate granule, immature	pBICCNsMMrHPFCA2CA3iM017d210223A2	12
+HPF	Dentate granule, immature	pBICCNsMMrHPFCA2iF014d210217	84
+HPF	Dentate granule, immature	pBICCNsMMrHPFCA2iM017d210223	117
+HPF	Dentate granule, immature	pBICCNsMMrHPFCA3iF014d210217	48
+HPF	Dentate granule, immature	pBICCNsMMrHPFCA3iM017d210223	108
+HPF	Dentate granule, immature	pBICCNsMMrHPFDG1iF014d210217	155
+HPF	Dentate granule, immature	pBICCNsMMrHPFDG1iM017d210223	204
+HPF	Dentate granule, immature	pBICCNsMMrHPFDG2iF014d210217	162
+HPF	Dentate granule, immature	pBICCNsMMrHPFDG2iM017d210223	192
+HPF	Dentate granule, immature	pBICCNsMMrHPFDG3iF014d210217	148
+HPF	Dentate granule, immature	pBICCNsMMrHPFDG3iM017d210223	188
+HPF	Dentate granule, immature	pBICCNsMMrSUBMiM016d210219A1	20
+HPF	Dentate granule, immature	pBICCNsMMrSUBMiM016d210219A2	14
+HPF	Dentate granule, immature	pBICCNsMMrSUBMiM016d210219A3	21
+HPF	Dentate granule, immature	pBICCNsMMrSUBMiM016d210219B3	96
+HPF	Dentate granule, mature	pBICCNsMMrENTiF015d201201A2	1
+HPF	Dentate granule, mature	pBICCNsMMrENTiF015d201201A3	2
+HPF	Dentate granule, mature	pBICCNsMMrENTiM015d201201A1	739
+HPF	Dentate granule, mature	pBICCNsMMrENTiM015d201201A2	602
+HPF	Dentate granule, mature	pBICCNsMMrENTiM015d201201A3	468
+HPF	Dentate granule, mature	pBICCNsMMrENTiM015d201201B1	56
+HPF	Dentate granule, mature	pBICCNsMMrENTiM015d201201B2	499
+HPF	Dentate granule, mature	pBICCNsMMrENTiM015d201201B3	407
+HPF	Dentate granule, mature	pBICCNsMMrENTiM017d210119A2	6
+HPF	Dentate granule, mature	pBICCNsMMrENTiM017d210119A3	3
+HPF	Dentate granule, mature	pBICCNsMMrENTiM017d210119B1	446
+HPF	Dentate granule, mature	pBICCNsMMrENTiM017d210119B2	487
+HPF	Dentate granule, mature	pBICCNsMMrENTiM017d210119B3	491
+HPF	Dentate granule, mature	pBICCNsMMrHPFCA1iF014d210217	1321
+HPF	Dentate granule, mature	pBICCNsMMrHPFCA1iM017d210223	2904
+HPF	Dentate granule, mature	pBICCNsMMrHPFCA2CA3iF014d210217A1	645
+HPF	Dentate granule, mature	pBICCNsMMrHPFCA2CA3iF014d210217A2	771
+HPF	Dentate granule, mature	pBICCNsMMrHPFCA2CA3iM017d210223A1	191
+HPF	Dentate granule, mature	pBICCNsMMrHPFCA2CA3iM017d210223A2	209
+HPF	Dentate granule, mature	pBICCNsMMrHPFCA2iF014d210217	1276
+HPF	Dentate granule, mature	pBICCNsMMrHPFCA2iM017d210223	2851
+HPF	Dentate granule, mature	pBICCNsMMrHPFCA3iF014d210217	1017
+HPF	Dentate granule, mature	pBICCNsMMrHPFCA3iM017d210223	2371
+HPF	Dentate granule, mature	pBICCNsMMrHPFDG1iF014d210217	4275
+HPF	Dentate granule, mature	pBICCNsMMrHPFDG1iM017d210223	4109
+HPF	Dentate granule, mature	pBICCNsMMrHPFDG2iF014d210217	4753
+HPF	Dentate granule, mature	pBICCNsMMrHPFDG2iM017d210223	3642
+HPF	Dentate granule, mature	pBICCNsMMrHPFDG3iF014d210217	4067
+HPF	Dentate granule, mature	pBICCNsMMrHPFDG3iM017d210223	3874
+HPF	Dentate granule, mature	pBICCNsMMrSUBMiM016d210219A1	439
+HPF	Dentate granule, mature	pBICCNsMMrSUBMiM016d210219A2	462
+HPF	Dentate granule, mature	pBICCNsMMrSUBMiM016d210219A3	521
+HPF	Dentate granule, mature	pBICCNsMMrSUBMiM016d210219B3	1316
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrENTiF015d201201A2	1
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrENTiF015d201201A3	2
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrENTiF015d201201B1	2
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrENTiF015d201201B2	1
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrENTiF015d201201B3	1
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrENTiF016d210119A3	2
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrENTiM015d201201A1	1
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrENTiM015d201201A2	2
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrENTiM015d201201B2	1
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrENTiM017d210119B1	1
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFCA1iF014d210217	3
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFCA1iM017d210223	17
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFCA2CA3iF014d210217A1	63
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFCA2CA3iF014d210217A2	58
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFCA2CA3iM017d210223A1	97
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFCA2CA3iM017d210223A2	117
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFCA2iF014d210217	29
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFCA2iM017d210223	8
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFCA3iF014d210217	12
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFCA3iM017d210223	20
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFDG1iF014d210217	7
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFDG1iM017d210223	3
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFDG2iF014d210217	13
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFDG2iM017d210223	9
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFDG3iF014d210217	8
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrHPFDG3iM017d210223	9
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrSUBMiM016d210219A3	2
+HPF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrSUBMiM016d210219B3	3
+HPF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrENTiF015d201201B2	4
+HPF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrENTiF016d210119A1	1
+HPF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrENTiF016d210119A3	1
+HPF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrENTiM015d201201A2	1
+HPF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrHPFCA1iM017d210223	2
+HPF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrHPFCA2CA3iF014d210217A2	3
+HPF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrHPFCA2CA3iM017d210223A1	1
+HPF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrHPFCA2CA3iM017d210223A2	3
+HPF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrSUBMiM016d210219B3	1
+OLF	Cerebellar granule	pBICCNsMMrOLFiM016d201201D1	1
+OLF	Cortical L4/5 IT excitatory	pBICCNsMMrOLFiM015d201201C1	33
+OLF	Cortical L4/5 IT excitatory	pBICCNsMMrOLFiM015d201201C2	13
+OLF	Cortical L4/5 IT excitatory	pBICCNsMMrOLFiM016d201201D1	1
+OLF	Dentate granule, immature	pBICCNsMMrOLFiF016d210119G3	1
+OLF	Dentate granule, immature	pBICCNsMMrOLFiM018d210119F3	1
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiF014d201201A1	173
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiF014d201201A2	165
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiF014d201201A3	209
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiF015d201201B1	223
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiF015d201201B2	208
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiF015d201201B3	208
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiF016d210119G1	223
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiF016d210119G2	191
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiF016d210119G3	244
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiF017d210119H1	401
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiF017d210119H2	279
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiF017d210119H3	319
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiM015d201201C1	201
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiM015d201201C2	189
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiM016d201201D1	264
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiM016d201201D2	313
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiM016d201201D3	216
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiM017d210119E1	15
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiM017d210119E2	233
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiM017d210119E3	272
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiM018d210119F1	263
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiM018d210119F2	206
+OLF	Olfactory-bulb GABA, immature proxy	pBICCNsMMrOLFiM018d210119F3	213
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiF014d201201A1	4031
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiF014d201201A2	3961
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiF014d201201A3	4365
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiF015d201201B1	4487
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiF015d201201B2	4318
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiF015d201201B3	4283
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiF016d210119G1	4705
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiF016d210119G2	4491
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiF016d210119G3	4968
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiF017d210119H1	6896
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiF017d210119H2	5174
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiF017d210119H3	6006
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiM015d201201C1	3707
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiM015d201201C2	3125
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiM016d201201D1	5528
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiM016d201201D2	6582
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiM016d201201D3	5180
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiM017d210119E1	453
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiM017d210119E2	4841
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiM017d210119E3	5093
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiM018d210119F1	4885
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiM018d210119F2	4535
+OLF	Olfactory-bulb GABA, mature proxy	pBICCNsMMrOLFiM018d210119F3	3940
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrACAiF019d210630A4	1
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrACAiM016d210628A1	1
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrACAiM016d210628A2	1
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrACAiM016d210628A5	1
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrACAiM016d210628A6	1
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrCTXANGiF021d210525C1	1
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrCTXMTGiF021d210525B1	197
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrCTXMTGiF021d210525B2	247
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrCTXMTGiF022d210610B1	342
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrCTXMTGiF022d210610B2	378
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrCTXMTGiM022d210602B1	279
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrCTXMTGiM022d210602B2	230
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrMOpMiF006d190314b	228
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrMOpMiM006d190320b	20
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrMOpPiF006d190314	553
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrMOpPiF007d190314	38
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrMOpPiM003d190318b	223
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrMOpPiM004d190318b	120
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrMOpPiM007d190320b	246
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrMOpPiM008d190320b	365
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrRSPMiM015d210208B2	1
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrVISPiF019d210623B1	190
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrVISPiF019d210623B2	147
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrVISPiF019d210623B3	166
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrVISiF022d210719A1	2
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrVISiM022d210719B1	47
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrVISiM022d210719B2	48
+Isocortex	CA1/ProS pyramidal	pBICCNsMMrVISiM022d210719B3	36
+Isocortex	CA3 pyramidal	pBICCNsMMrCTXMTGiF022d210610B1	1
+Isocortex	CA3 pyramidal	pBICCNsMMrCTXMTGiM022d210602B1	1
+Isocortex	CA3 pyramidal	pBICCNsMMrCTXMTGiM022d210602B2	8
+Isocortex	CA3 pyramidal	pBICCNsMMrMOpPiM003d190318b	2
+Isocortex	CA3 pyramidal	pBICCNsMMrMOpPiM004d190318b	1
+Isocortex	CA3 pyramidal	pBICCNsMMrMOpPiM008d190320b	2
+Isocortex	CA3 pyramidal	pBICCNsMMrVISPiM019d210623A1	2
+Isocortex	Cerebellar granule	pBICCNsMMrACAiF019d210630A4	1
+Isocortex	Cerebellar granule	pBICCNsMMrACAiM016d210628A5	1
+Isocortex	Cerebellar granule	pBICCNsMMrAUDiF022d210715A6	1
+Isocortex	Cerebellar granule	pBICCNsMMrRSPAiF017d210216A2	1
+Isocortex	Cerebellar granule	pBICCNsMMrRSPAiF017d210216A3	4
+Isocortex	Cerebellar granule	pBICCNsMMrRSPPiF017d210210A1	9
+Isocortex	Cerebellar granule	pBICCNsMMrRSPPiF017d210210A2	8
+Isocortex	Cerebellar granule	pBICCNsMMrRSPPiF017d210210A3	5
+Isocortex	Cerebellar granule	pBICCNsMMrVISPiF019d210623B1	1
+Isocortex	Cerebellar granule	pBICCNsMMrVISiM022d210719B1	1
+Isocortex	Cerebellar granule	pBICCNsMMrVISiM022d210719B2	1
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrACAiF019d210630A1	1191
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrACAiF019d210630A2	1139
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrACAiF019d210630A3	1178
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrACAiF019d210630A4	1029
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrACAiF019d210630A5	976
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrACAiF019d210630A6	1049
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrACAiM016d210628A1	1393
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrACAiM016d210628A2	1304
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrACAiM016d210628A3	1367
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrACAiM016d210628A4	1344
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrACAiM016d210628A5	1355
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrACAiM016d210628A6	1332
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrAUDiF022d210715A1	2040
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrAUDiF022d210715A2	1965
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrAUDiF022d210715A3	2146
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrAUDiF022d210715A4	1955
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrAUDiF022d210715A5	2000
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrAUDiF022d210715A6	2240
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrAUDiM015d210707A1	1817
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrAUDiM015d210707A2	1756
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrAUDiM015d210707A3	1963
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrAUDiM015d210707A4	1929
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrAUDiM015d210707A5	1877
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrAUDiM015d210707A6	1642
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXANGiF021d210525C1	2001
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXANGiF021d210525C2	2171
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXANGiF022d210610C1	2957
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXANGiF022d210610C2	2780
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXANGiM022d210602C1	2459
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXANGiM022d210602C2	2419
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXDLFCiF021d210525A1	1330
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXDLFCiF021d210525A2	1297
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXDLFCiF022d210610A1	1234
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXDLFCiF022d210610A2	1385
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXDLFCiM022d210602A1	1353
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXDLFCiM022d210602A2	1517
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXMTGiF021d210525B1	1530
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXMTGiF021d210525B2	1495
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXMTGiF022d210610B1	531
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXMTGiF022d210610B2	572
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXMTGiM022d210602B1	1689
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrCTXMTGiM022d210602B2	1454
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpAiF003d190318b	14
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpAiF004d190318b	284
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpAiF005d190318b	380
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpAiF007d190314b	1354
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpAiF008d190314b	805
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpAiM002d190320b	645
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpAiM003d190318b	502
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpAiM007d190320b	216
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpAiM008d190320b	1202
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpMiF003d190318b	585
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpMiF004d190318b	296
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpMiF005d190318b	2367
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpMiF006d190314b	1332
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpMiF007d190314b	233
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpMiF008d190314b	1244
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpMiM002d190320b	232
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpMiM003d190318b	612
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpMiM004d190318b	832
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpMiM006d190320b	486
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpMiM007d190320b	836
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpMiM008d190320b	794
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpPiF003d190318b	1127
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpPiF004d190314	602
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpPiF005d190318b	951
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpPiF006d190314	601
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpPiF007d190314	411
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpPiF008d190314b	902
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpPiM002d190320b	236
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpPiM003d190318b	601
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpPiM004d190318b	553
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpPiM007d190320b	732
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrMOpPiM008d190320b	805
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPAiF017d210216A2	1064
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPAiF017d210216A3	1185
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPAiF017d210216B2	679
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPMiM015d210208A1	48
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPMiM015d210208A2	60
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPMiM015d210208A3	49
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPMiM015d210208B1	35
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPMiM015d210208B2	38
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPMiM015d210208B3	29
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPPiF017d210210A1	2
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPPiF017d210210A2	6
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPPiF017d210210A3	2
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPPiF017d210210B1	43
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPPiF017d210210B2	55
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrRSPPiF017d210210B3	54
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrS1iF022d210713A1	2527
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrS1iF022d210713A2	2449
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrS1iF022d210713A3	2017
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrS1iF022d210713A4	2289
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrS1iF022d210713A6	2216
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrVISPiF019d210623B1	2021
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrVISPiF019d210623B2	1791
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrVISPiF019d210623B3	1853
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrVISPiM019d210623A1	1890
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrVISPiM019d210623A2	1728
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrVISPiM019d210623A3	2013
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrVISiF022d210719A1	1400
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrVISiF022d210719A2	1365
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrVISiF022d210719A3	1405
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrVISiM022d210719B1	875
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrVISiM022d210719B2	881
+Isocortex	Cortical L4/5 IT excitatory	pBICCNsMMrVISiM022d210719B3	672
+Isocortex	Dentate granule, immature	pBICCNsMMrCTXMTGiF021d210525B1	1
+Isocortex	Dentate granule, immature	pBICCNsMMrCTXMTGiF021d210525B2	1
+Isocortex	Dentate granule, immature	pBICCNsMMrCTXMTGiM022d210602B1	1
+Isocortex	Dentate granule, immature	pBICCNsMMrMOpMiF006d190314b	1
+Isocortex	Dentate granule, immature	pBICCNsMMrMOpMiM008d190320b	1
+Isocortex	Dentate granule, immature	pBICCNsMMrMOpPiM007d190320b	1
+Isocortex	Dentate granule, immature	pBICCNsMMrVISPiF019d210623B2	1
+Isocortex	Dentate granule, mature	pBICCNsMMrAUDiM015d210707A6	1
+Isocortex	Dentate granule, mature	pBICCNsMMrMOpAiF007d190314b	1
+Isocortex	Dentate granule, mature	pBICCNsMMrMOpMiM007d190320b	1
+Isocortex	Dentate granule, mature	pBICCNsMMrRSPMiM015d210208A1	2
+Isocortex	Dentate granule, mature	pBICCNsMMrRSPMiM015d210208A2	1
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrACAiF019d210630A1	3
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrACAiF019d210630A2	3
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrACAiF019d210630A3	13
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrACAiF019d210630A4	8
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrACAiF019d210630A5	7
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrACAiF019d210630A6	12
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrAUDiF022d210715A1	1
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrAUDiF022d210715A2	1
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrAUDiF022d210715A3	1
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrAUDiF022d210715A4	1
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrAUDiF022d210715A5	1
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrAUDiM015d210707A1	2
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrAUDiM015d210707A3	3
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrAUDiM015d210707A5	2
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrAUDiM015d210707A6	2
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrCTXANGiM022d210602C1	3
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrCTXANGiM022d210602C2	1
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrCTXDLFCiF022d210610A1	1
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrCTXMTGiF021d210525B1	2
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrCTXMTGiF022d210610B1	2
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrCTXMTGiF022d210610B2	4
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrCTXMTGiM022d210602B1	3
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpAiF003d190318b	84
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpAiM008d190320b	3
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpMiF003d190318b	3
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpMiF006d190314b	8
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpMiM004d190318b	22
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpMiM007d190320b	16
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpMiM008d190320b	96
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpPiF003d190318b	2
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpPiF004d190314	2
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpPiF006d190314	9
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpPiF007d190314	2
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpPiF008d190314b	5
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpPiM002d190320b	3
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpPiM003d190318b	24
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpPiM004d190318b	13
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpPiM007d190320b	36
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrMOpPiM008d190320b	7
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrRSPMiM015d210208B2	1
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrVISPiF019d210623B1	6
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrVISPiF019d210623B2	6
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrVISPiF019d210623B3	2
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrVISPiM019d210623A1	4
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrVISPiM019d210623A2	6
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrVISPiM019d210623A3	6
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrVISiF022d210719A1	5
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrVISiF022d210719A2	5
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrVISiF022d210719A3	2
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrVISiM022d210719B1	7
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrVISiM022d210719B2	12
+Isocortex	Olfactory-bulb GABA, immature proxy	pBICCNsMMrVISiM022d210719B3	4
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrACAiF019d210630A2	6
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrACAiF019d210630A5	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrACAiM016d210628A2	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrACAiM016d210628A6	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrAUDiF022d210715A1	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrAUDiF022d210715A3	2
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrAUDiF022d210715A4	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrAUDiF022d210715A5	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrAUDiF022d210715A6	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrCTXANGiM022d210602C1	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrCTXDLFCiF021d210525A1	2
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrCTXDLFCiF021d210525A2	4
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrCTXDLFCiF022d210610A2	3
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrCTXDLFCiM022d210602A1	7
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrCTXDLFCiM022d210602A2	12
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrCTXMTGiF021d210525B2	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpAiF003d190318b	214
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpAiF007d190314b	2
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpAiM002d190320b	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpAiM008d190320b	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpMiF005d190318b	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpMiF006d190314b	2
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpMiF008d190314b	2
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpMiM002d190320b	8
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpMiM003d190318b	2
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpMiM004d190318b	2
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpMiM008d190320b	5
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpPiF005d190318b	2
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpPiF008d190314b	2
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpPiM002d190320b	3
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpPiM003d190318b	3
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpPiM004d190318b	2
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpPiM007d190320b	3
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrMOpPiM008d190320b	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrRSPMiM015d210208A1	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrRSPPiF017d210210B1	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrS1iF022d210713A1	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrS1iF022d210713A6	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrVISPiF019d210623B1	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrVISPiM019d210623A3	1
+Isocortex	Olfactory-bulb GABA, mature proxy	pBICCNsMMrVISiM022d210719B1	1
+Isocortex	Purkinje	pBICCNsMMrRSPPiF017d210210A1	1

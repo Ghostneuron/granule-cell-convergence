@@ -1,19 +1,17 @@
 cff-version: 1.2.0
-title: "Granule-cell convergence analysis code"
-message: "If you use this code or release packet, please cite the manuscript and archived software release."
+title: "Granule-cell comparator-relative recurrence analysis code"
+message: "Please cite the associated manuscript and this repository."
 type: software
 authors:
   - family-names: Lu
     given-names: Jie
     orcid: "https://orcid.org/0000-0001-6843-9720"
-version: "v0.9-submission-prep"
-date-released: "2026-06-28"
+version: "v1.0-dgd-submission"
+date-released: "2026-08-17"
 repository-code: "https://github.com/Ghostneuron/granule-cell-convergence"
-doi: "10.5281/zenodo.21018501"
 keywords:
   - granule cell
   - dentate gyrus
   - cerebellum
+  - comparative neurobiology
   - single-cell transcriptomics
-  - neuronal morphology
-  - sparse coding

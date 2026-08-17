@@ -1,0 +1,56 @@
+left_population	right_population	pair_class	gene_set	n_genes	n_left_libraries	n_right_libraries	spearman_similarity	nested_bootstrap_95ci_low	nested_bootstrap_95ci_high	upstream_similarity	downstream_minus_upstream_similarity
+Cerebellar granule	Dentate granule, mature	target granule pair	all curated modules	89	121	29	-0.4192883895131087	-0.5837729063166234	-0.22450069326546396	-0.32913590968302214	
+Cerebellar granule	Dentate granule, mature	target granule pair	upstream fate/niche	48	121	29	-0.32913590968302214	-0.618173436320894	0.000631687827940231	-0.32913590968302214	
+Cerebellar granule	Dentate granule, mature	target granule pair	downstream assembly	41	121	29	-0.37909407665505235	-0.6006681531988367	-0.05770132272653616	-0.32913590968302214	-0.049958166972030205
+Cerebellar granule	Dentate granule, mature	target granule pair	Tier 1 candidates	6	121	29	-0.4285714285714286	-0.92	1.0	-0.32913590968302214	
+Cerebellar granule	Dentate granule, mature	target granule pair	Tier 1+2 candidates	15	121	29	-0.23928571428571427	-0.7278216779048048	0.35167269439421317	-0.32913590968302214	
+Cerebellar granule	Dentate granule, immature	target/immature bridge	all curated modules	89	121	12	-0.22866870956758603	-0.4395933341951237	-0.01950159337553197	-0.22134172818063397	
+Cerebellar granule	Dentate granule, immature	target/immature bridge	upstream fate/niche	48	121	12	-0.22134172818063397	-0.5101456759254225	0.09701079615765272	-0.22134172818063397	
+Cerebellar granule	Dentate granule, immature	target/immature bridge	downstream assembly	41	121	12	-0.2712543554006969	-0.5547223662334262	0.058390591247264895	-0.22134172818063397	-0.049912627220062955
+Cerebellar granule	Dentate granule, immature	target/immature bridge	Tier 1 candidates	6	121	12	0.8285714285714287	-0.0909090909090909	1.0	-0.22134172818063397	
+Cerebellar granule	Dentate granule, immature	target/immature bridge	Tier 1+2 candidates	15	121	12	0.06071428571428571	-0.5653008504888325	0.6564635870458653	-0.22134172818063397	
+Cerebellar granule	Purkinje	cerebellar comparator	all curated modules	89	121	63	-0.39053455907388496	-0.5483987772451105	-0.19560735706018376	-0.19778549717759444	
+Cerebellar granule	Purkinje	cerebellar comparator	upstream fate/niche	48	121	63	-0.19778549717759444	-0.48806300729762575	0.16459984477535305	-0.19778549717759444	
+Cerebellar granule	Purkinje	cerebellar comparator	downstream assembly	41	121	63	-0.6160278745644601	-0.7666073231546873	-0.3888477724219575	-0.19778549717759444	-0.41824237738686565
+Cerebellar granule	Purkinje	cerebellar comparator	Tier 1 candidates	6	121	63	0.14285714285714288	-1.0	0.9355816226783965	-0.19778549717759444	
+Cerebellar granule	Purkinje	cerebellar comparator	Tier 1+2 candidates	15	121	63	-0.021428571428571425	-0.6311197211142374	0.44565217391304357	-0.19778549717759444	
+Dentate granule, mature	CA1/ProS pyramidal	hippocampal comparator	all curated modules	89	29	49	0.4051753489955738	0.16863029262767065	0.6171335871589533	0.5113981762917933	
+Dentate granule, mature	CA1/ProS pyramidal	hippocampal comparator	upstream fate/niche	48	29	49	0.5113981762917933	0.19835562220343006	0.7632379471729358	0.5113981762917933	
+Dentate granule, mature	CA1/ProS pyramidal	hippocampal comparator	downstream assembly	41	29	49	0.2609756097560976	-0.11452511345588702	0.6352934481230247	0.5113981762917933	-0.25042256653569567
+Dentate granule, mature	CA1/ProS pyramidal	hippocampal comparator	Tier 1 candidates	6	29	49	0.08571428571428573	-1.0	0.92	0.5113981762917933	
+Dentate granule, mature	CA1/ProS pyramidal	hippocampal comparator	Tier 1+2 candidates	15	29	49	0.41785714285714276	-0.13728085173543067	0.807807411319426	0.5113981762917933	
+Dentate granule, mature	CA3 pyramidal	hippocampal comparator	all curated modules	89	29	20	0.4074055158324822	0.17373616919104823	0.6068170751271138	0.3999131567520625	
+Dentate granule, mature	CA3 pyramidal	hippocampal comparator	upstream fate/niche	48	29	20	0.3999131567520625	0.08726556792275719	0.66841062847154	0.3999131567520625	
+Dentate granule, mature	CA3 pyramidal	hippocampal comparator	downstream assembly	41	29	20	0.2979094076655053	-0.03853321742349231	0.5852317857213594	0.3999131567520625	-0.10200374908655724
+Dentate granule, mature	CA3 pyramidal	hippocampal comparator	Tier 1 candidates	6	29	20	-0.3142857142857143	-1.0	0.92	0.3999131567520625	
+Dentate granule, mature	CA3 pyramidal	hippocampal comparator	Tier 1+2 candidates	15	29	20	0.22142857142857136	-0.4068566224303928	0.7647113696224759	0.3999131567520625	
+Cerebellar granule	Cortical L4/5 IT excitatory	compact excitatory comparator	all curated modules	89	121	98	-0.4866870956758598	-0.6299665525990736	-0.310282192160885	-0.641337386018237	
+Cerebellar granule	Cortical L4/5 IT excitatory	compact excitatory comparator	upstream fate/niche	48	121	98	-0.641337386018237	-0.7929603766315582	-0.40746679663400576	-0.641337386018237	
+Cerebellar granule	Cortical L4/5 IT excitatory	compact excitatory comparator	downstream assembly	41	121	98	-0.3608013937282231	-0.568836536759072	-0.10903856220554885	-0.641337386018237	0.28053599229001386
+Cerebellar granule	Cortical L4/5 IT excitatory	compact excitatory comparator	Tier 1 candidates	6	121	98	-0.8857142857142858	-1.0	0.0	-0.641337386018237	
+Cerebellar granule	Cortical L4/5 IT excitatory	compact excitatory comparator	Tier 1+2 candidates	15	121	98	-0.7642857142857141	-0.9201524107081323	-0.36956521739130443	-0.641337386018237	
+Dentate granule, mature	Cortical L4/5 IT excitatory	compact excitatory comparator	all curated modules	89	29	98	0.10696288729996598	-0.12948243424681818	0.35345114049324533	0.16684759009986974	
+Dentate granule, mature	Cortical L4/5 IT excitatory	compact excitatory comparator	upstream fate/niche	48	29	98	0.16684759009986974	-0.17065854697977062	0.5079965735238877	0.16684759009986974	
+Dentate granule, mature	Cortical L4/5 IT excitatory	compact excitatory comparator	downstream assembly	41	29	98	-0.14146341463414638	-0.47452494867479306	0.21831673178113134	0.16684759009986974	-0.3083110047340161
+Dentate granule, mature	Cortical L4/5 IT excitatory	compact excitatory comparator	Tier 1 candidates	6	29	98	0.2571428571428572	-0.9999999999999999	1.0	0.16684759009986974	
+Dentate granule, mature	Cortical L4/5 IT excitatory	compact excitatory comparator	Tier 1+2 candidates	15	29	98	-0.06785714285714285	-0.5362737403861247	0.4457981829980525	0.16684759009986974	
+Cerebellar granule	Olfactory-bulb GABA, mature proxy	granule-named proxy	all curated modules	89	121	24	-0.07265917602996255	-0.27309970335399414	0.1422224918653409	-0.06133304385584021	
+Cerebellar granule	Olfactory-bulb GABA, mature proxy	granule-named proxy	upstream fate/niche	48	121	24	-0.06133304385584021	-0.36804110298448467	0.2828681950718489	-0.06133304385584021	
+Cerebellar granule	Olfactory-bulb GABA, mature proxy	granule-named proxy	downstream assembly	41	121	24	0.016027874564459935	-0.29661353795786444	0.31795311334664	-0.06133304385584021	0.07736091842030014
+Cerebellar granule	Olfactory-bulb GABA, mature proxy	granule-named proxy	Tier 1 candidates	6	121	24	-0.942857142857143	-1.0	-0.5151515151515151	-0.06133304385584021	
+Cerebellar granule	Olfactory-bulb GABA, mature proxy	granule-named proxy	Tier 1+2 candidates	15	121	24	-0.5678571428571427	-0.7971187659846549	-0.1557870002384549	-0.06133304385584021	
+Dentate granule, mature	Olfactory-bulb GABA, mature proxy	granule-named proxy	all curated modules	89	29	24	0.05342185903983658	-0.172609445503654	0.29186832811481916	-0.12092922275293096	
+Dentate granule, mature	Olfactory-bulb GABA, mature proxy	granule-named proxy	upstream fate/niche	48	29	24	-0.12092922275293096	-0.4166071831886819	0.20225778538195524	-0.12092922275293096	
+Dentate granule, mature	Olfactory-bulb GABA, mature proxy	granule-named proxy	downstream assembly	41	29	24	0.10017421602787457	-0.2501946859620904	0.46644803503067633	-0.12092922275293096	0.22110343878080552
+Dentate granule, mature	Olfactory-bulb GABA, mature proxy	granule-named proxy	Tier 1 candidates	6	29	24	0.5428571428571429	-0.9999999999999999	1.0	-0.12092922275293096	
+Dentate granule, mature	Olfactory-bulb GABA, mature proxy	granule-named proxy	Tier 1+2 candidates	15	29	24	-0.22142857142857136	-0.6483725135623869	0.27140925988509623	-0.12092922275293096	
+Cerebellar granule	Olfactory-bulb GABA, immature proxy	granule-lineage proxy	all curated modules	89	121	28	-0.10354102826012938	-0.3140428275690378	0.11680062121398521	-0.04114198871037777	
+Cerebellar granule	Olfactory-bulb GABA, immature proxy	granule-lineage proxy	upstream fate/niche	48	121	28	-0.04114198871037777	-0.3514255669597948	0.30344206943265944	-0.04114198871037777	
+Cerebellar granule	Olfactory-bulb GABA, immature proxy	granule-lineage proxy	downstream assembly	41	121	28	-0.3515679442508711	-0.609127073867529	-0.05655066322501396	-0.04114198871037777	-0.31042595554049335
+Cerebellar granule	Olfactory-bulb GABA, immature proxy	granule-lineage proxy	Tier 1 candidates	6	121	28	-0.3714285714285715	-1.0	0.8064516129032258	-0.04114198871037777	
+Cerebellar granule	Olfactory-bulb GABA, immature proxy	granule-lineage proxy	Tier 1+2 candidates	15	121	28	-0.557142857142857	-0.9018446697187704	-0.053933325003616986	-0.04114198871037777	
+Dentate granule, mature	Olfactory-bulb GABA, immature proxy	granule-lineage proxy	all curated modules	89	29	28	-0.1725910793326524	-0.35684144973278326	0.04310996813116642	-0.11300477637863655	
+Dentate granule, mature	Olfactory-bulb GABA, immature proxy	granule-lineage proxy	upstream fate/niche	48	29	28	-0.11300477637863655	-0.3845631786142188	0.19637647917231527	-0.11300477637863655	
+Dentate granule, mature	Olfactory-bulb GABA, immature proxy	granule-lineage proxy	downstream assembly	41	29	28	-0.0402439024390244	-0.3364809680413407	0.2820630339853239	-0.11300477637863655	0.07276087393961216
+Dentate granule, mature	Olfactory-bulb GABA, immature proxy	granule-lineage proxy	Tier 1 candidates	6	29	28	0.2	-1.0	1.0	-0.11300477637863655	
+Dentate granule, mature	Olfactory-bulb GABA, immature proxy	granule-lineage proxy	Tier 1+2 candidates	15	29	28	-0.05357142857142857	-0.6449539828625834	0.5673119235836626	-0.11300477637863655	

@@ -1,0 +1,16 @@
+canonical_gene	manuscript_tier	n_leave_one_dataset_tests	n_stable_tests	lodo_stability_fraction	minimum_lodo_median_delta	minimum_lodo_positive_fraction	stable_all_testable_leave_outs
+CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	16	16	1.0	0.5	0.8	True
+GABRA2	Tier 1 core convergent program	16	16	1.0	0.5	1.0	True
+GABRB3	Tier 2 high-confidence wiring/synaptic executor	16	16	1.0	0.5	0.8	True
+GPM6A	Tier 1 core convergent program	16	16	1.0	0.5	1.0	True
+GRIN2B	Tier 2 high-confidence wiring/synaptic executor	16	16	1.0	0.5	0.8	True
+KCND2	Tier 2 high-confidence wiring/synaptic executor	16	16	1.0	0.5	0.8	True
+KCNJ3	Tier 2 high-confidence wiring/synaptic executor	16	16	1.0	0.5	1.0	True
+KCNJ6	Tier 2 high-confidence wiring/synaptic executor	16	16	1.0	0.5	1.0	True
+KCNK1	Tier 1 core convergent program	16	16	1.0	0.5	1.0	True
+NFIA	Tier 1 core convergent program	16	16	1.0	0.5	1.0	True
+NFIB	Tier 1 core convergent program	16	16	1.0	0.5	1.0	True
+PPP3CA	Tier 2 high-confidence wiring/synaptic executor	16	16	1.0	0.5	1.0	True
+RFX3	Tier 1 core convergent program	16	16	1.0	0.5	1.0	True
+ROBO2	Tier 2 high-confidence wiring/synaptic executor	16	16	1.0	0.375	0.8	True
+STXBP5L	Tier 2 high-confidence wiring/synaptic executor	16	16	1.0	0.5	0.8	True

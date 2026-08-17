@@ -1,0 +1,91 @@
+comparator_population	n_clusters	gene	manuscript_tier	mechanism_class	n_clusters_with_gene_as_marker	cluster_marker_prevalence	is_population_exclusive_among_tested_groups	n_detected_population_groups	detected_in_any_tested_group
+Cortical L4 excitatory proxy	39	GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0	True	1.0	True
+Cortical L4 excitatory proxy	39	KCNK1	Tier 1 core convergent program	synaptic_wiring	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	GABRA2	Tier 1 core convergent program	synaptic_wiring	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cortical L4 excitatory proxy	39	STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0	True	1.0	True
+Hippocampal pyramidal comparator	57	KCNK1	Tier 1 core convergent program	synaptic_wiring	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	GABRA2	Tier 1 core convergent program	synaptic_wiring	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Hippocampal pyramidal comparator	57	STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Dentate granule	9	GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	0	0.0		0.0	False
+Dentate granule	9	NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0	True	1.0	True
+Dentate granule	9	KCNK1	Tier 1 core convergent program	synaptic_wiring	0	0.0		0.0	False
+Dentate granule	9	RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0		0.0	False
+Dentate granule	9	GABRA2	Tier 1 core convergent program	synaptic_wiring	0	0.0		0.0	False
+Dentate granule	9	NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0		0.0	False
+Dentate granule	9	ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	0	0.0		0.0	False
+Dentate granule	9	GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Dentate granule	9	KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Dentate granule	9	PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Dentate granule	9	CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Dentate granule	9	KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Dentate granule	9	GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Dentate granule	9	KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Dentate granule	9	STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	1	0.034482758620689655	True	1.0	True
+Olfactory-bulb granule-layer GABA proxy	29	KCNK1	Tier 1 core convergent program	synaptic_wiring	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	GABRA2	Tier 1 core convergent program	synaptic_wiring	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Olfactory-bulb granule-layer GABA proxy	29	STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Purkinje comparator	4	GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	0	0.0		0.0	False
+Purkinje comparator	4	NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0	True	1.0	True
+Purkinje comparator	4	KCNK1	Tier 1 core convergent program	synaptic_wiring	0	0.0		0.0	False
+Purkinje comparator	4	RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0		0.0	False
+Purkinje comparator	4	GABRA2	Tier 1 core convergent program	synaptic_wiring	0	0.0		0.0	False
+Purkinje comparator	4	NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0		0.0	False
+Purkinje comparator	4	ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	0	0.0		0.0	False
+Purkinje comparator	4	GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Purkinje comparator	4	KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Purkinje comparator	4	PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Purkinje comparator	4	CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Purkinje comparator	4	KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Purkinje comparator	4	GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Purkinje comparator	4	KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Purkinje comparator	4	STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cerebellar granule	5	GPM6A	Tier 1 core convergent program	cytoskeleton_morphogenesis	0	0.0		0.0	False
+Cerebellar granule	5	NFIB	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0	True	1.0	True
+Cerebellar granule	5	KCNK1	Tier 1 core convergent program	synaptic_wiring	0	0.0		0.0	False
+Cerebellar granule	5	RFX3	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0		0.0	False
+Cerebellar granule	5	GABRA2	Tier 1 core convergent program	synaptic_wiring	0	0.0		0.0	False
+Cerebellar granule	5	NFIA	Tier 1 core convergent program	regulatory_morphogenesis_candidate	0	0.0		0.0	False
+Cerebellar granule	5	ROBO2	Tier 2 high-confidence wiring/synaptic executor	curated_shared_structural_executor	0	0.0		0.0	False
+Cerebellar granule	5	GABRB3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cerebellar granule	5	KCND2	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cerebellar granule	5	PPP3CA	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cerebellar granule	5	CACNA2D1	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cerebellar granule	5	KCNJ6	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cerebellar granule	5	GRIN2B	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cerebellar granule	5	KCNJ3	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False
+Cerebellar granule	5	STXBP5L	Tier 2 high-confidence wiring/synaptic executor	synaptic_wiring	0	0.0		0.0	False

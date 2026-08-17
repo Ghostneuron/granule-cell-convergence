@@ -1,47 +1,44 @@
-# Granule-cell convergence analysis code release (v0.9-submission-prep)
+# Granule-cell comparator-relative recurrence
 
-This packet accompanies the manuscript **"Distinct Dentate and Cerebellar
-Granule-Cell Lineages Converge through Niche and Circuit Constraints"**.
+This repository contains analysis code and derived tables for the manuscript
+**"Limited molecular recurrence in distinct dentate and cerebellar granule
+cells relative to regional comparators"**.
 
-Packet kind: `github-ready repository directory`
+The current, manuscript-matched analysis is in [`dgd_reanalysis/`](dgd_reanalysis/).
+The older project directories are retained as an exploratory archive and are
+not the evidentiary basis of the current manuscript.
 
-Prepared: 2026-06-28
+## Main result
 
-## Contents
+Dentate and cerebellar granule cells do not form a single molecular identity.
+Instead, a limited set of genes recurs in the same direction when each granule
+population is compared with its own regional neuronal comparator. This
+comparator-relative signal was positive in seven independent datasets, while
+an independent adult mouse Allen common-matrix test did not support broad
+direct adult module convergence. The result therefore identifies constrained
+molecular reuse, not a shared recent lineage or a demonstrated causal
+developmental mechanism.
 
-- `scripts/`: analysis, curation, figure and manuscript-generation scripts.
-- `config/`: marker panels and small configuration tables.
-- `docs/`: manuscript-facing documentation, data-source inventory, figure plan and clean methods text.
-- `results_summary/`: compact result summaries, plots and machine-readable outputs used to assemble figures/tables.
-- `manuscript_outputs/final_figures/`: final main figure image files.
-- `manuscript_outputs/supplementary_figures/`: final supplementary figure image files.
-- `manuscript_outputs/supplementary_tables/`: ordered supplementary table packet and table archives.
-- `included_file_manifest.tsv`: SHA-256 checksums for included files.
-- `excluded_large_or_local_files.tsv`: local files deliberately excluded from the release.
+## Current packet
 
-## What is not included
+- `dgd_reanalysis/Project/scripts/`: robustness, Allen common-matrix, figure,
+  and supplementary-table scripts.
+- `dgd_reanalysis/Project/results/`: compact inputs and derived result tables
+  used by the current figures and supplementary tables.
+- `dgd_reanalysis/Project/manuscript/source_tables/`: Tables S1-S12 as TSV
+  files.
+- `dgd_reanalysis/requirements.txt`: Python dependencies.
 
-Raw public datasets, large sparse matrices, DANDI NWB files, GEO H5/RDS
-downloads, local render-QA files and project caches are not redistributed.
-Public accessions and download sources are listed in `docs/downloaded_external_data_manifest.tsv`,
-`docs/external_dataset_inventory.md`, and the supplementary table packet.
-
-## Reproducibility note
-
-The scripts were written as project-level workflows and assume public raw
-data are downloaded or reconstructed according to the dataset manifests.
-For manuscript review, the recommended reproducibility path is to inspect
-the included scripts together with `manuscript_outputs/supplementary_tables/`
-and `results_summary/`, which preserve the analysis products used for the
-manuscript figures and tables.
-
-## License status
-
-A final license has not yet been selected. Before public GitHub/Zenodo
-release, choose a code license (for example MIT/BSD-3-Clause/GPL) and a
-data/documentation license if desired.
+Raw public single-cell matrices and large intermediate expression matrices are
+not redistributed. Dataset accessions are listed in Table S1, and Allen input
+requirements are documented in the packet README.
 
 ## Citation
 
-Use the metadata in `CITATION.cff`. The current public records are:
-GitHub `https://github.com/Ghostneuron/granule-cell-convergence` and Zenodo `https://doi.org/10.5281/zenodo.21018501`.
+Please cite the associated manuscript and this repository. Author metadata are
+provided in `CITATION.cff`.
+
+## License status
+
+No software license has yet been assigned. Contact the author before reusing or
+redistributing the code.

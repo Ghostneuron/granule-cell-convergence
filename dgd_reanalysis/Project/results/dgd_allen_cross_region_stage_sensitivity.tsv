@@ -1,0 +1,7 @@
+feature_set	feature_set_label	n_shared_libraries	median_mature_margin	median_immature_margin	median_immature_minus_mature_margin	paired_wilcoxon_p_two_sided	scope	paired_wilcoxon_q_bh
+tier1	Tier 1 candidates	9	7.150360234169526	17.71589781873238	11.441994871699418	0.00390625	adult HPF immature-neuron state versus mature DG; not developmental age	0.00390625
+tier1_tier2	Tier 1+2 candidates	9	3.0951105108380297	-0.012927388608312995	-2.9053953429682986	0.00390625	adult HPF immature-neuron state versus mature DG; not developmental age	0.00390625
+downstream_all	All downstream genes	9	-6.494817618293629	18.04230337756774	24.537120995861372	0.00390625	adult HPF immature-neuron state versus mature DG; not developmental age	0.00390625
+neurite_morphology	Neurite/morphology genes	9	-9.334770606415448	8.626288854668756	17.643173769682697	0.00390625	adult HPF immature-neuron state versus mature DG; not developmental age	0.00390625
+synaptic_excitability	Synaptic/excitability genes	9	-2.971284362088501	34.45372566862598	37.70285960946406	0.00390625	adult HPF immature-neuron state versus mature DG; not developmental age	0.00390625
+all_curated	All curated module genes	9	-49.33036224731711	61.7742480597928	105.63949250487114	0.00390625	adult HPF immature-neuron state versus mature DG; not developmental age	0.00390625

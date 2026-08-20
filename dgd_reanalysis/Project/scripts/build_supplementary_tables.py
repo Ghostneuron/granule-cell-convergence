@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""Build the compact supplementary-table packet for the DGD analysis."""
+"""Build machine-readable TSV tables for the compact DGD supplement."""
 
 from __future__ import annotations
 
-import os
 from pathlib import Path
 
 import pandas as pd
@@ -11,19 +10,8 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[2]
 RESULTS = ROOT / "Project/results"
-OUT = ROOT / "Project/manuscript/Revised_supplementary_tables_20260817"
+OUT = ROOT / "Project/manuscript/source_tables"
 OUT.mkdir(parents=True, exist_ok=True)
-
-ARCHIVE = Path(
-    os.environ.get(
-        "GRANULE_ARCHIVE",
-        "/Volumes/VV 2021 backup drive 01/Codex_Project_Archive/Hippocanpus&Cerebellum",
-    )
-)
-ORIGINAL_TABLES = (
-    ARCHIVE
-    / "Project/manuscript/Development_upload_files/direct_tables_tsv_short_names"
-)
 
 
 def read_tsv(path: Path) -> pd.DataFrame:
@@ -37,16 +25,31 @@ def main() -> None:
         (
             "Table_S1_primary_core_datasets.tsv",
             "S1_dataset_frame",
-            read_tsv(ORIGINAL_TABLES / "Table_S1_primary_core_dataset_frame.tsv"),
+            read_tsv(OUT / "Table_S1_primary_core_datasets.tsv"),
             "Primary-core transcriptomic datasets and their analytical roles.",
             "Discovery resources are heterogeneous; within-dataset ranks are used rather than pooled expression.",
         )
+    )
+    candidate_tiers = read_tsv(RESULTS / "primary_core_manuscript_candidate_tiers.tsv").rename(
+        columns={
+            "manuscript_tier": "candidate_tier",
+            "manuscript_use": "interpretive_role",
+        }
+    )
+    candidate_tiers["interpretive_role"] = (
+        candidate_tiers["interpretive_role"]
+        .str.replace("Primary manuscript seed gene; use in model schematic and main heatmap.",
+                     "Primary seed gene for the model schematic and candidate heatmap.", regex=False)
+        .str.replace("Use in extended candidate heatmap and supporting interpretation.",
+                     "Extended candidate for the heatmap and supporting interpretation.", regex=False)
+        .str.replace("Keep as context-specific or secondary candidate.",
+                     "Context-dependent secondary candidate.", regex=False)
     )
     tables.append(
         (
             "Table_S2_candidate_tiers.tsv",
             "S2_candidate_tiers",
-            read_tsv(RESULTS / "primary_core_manuscript_candidate_tiers.tsv"),
+            candidate_tiers,
             "Candidate tier assignments, ortholog status, branch support and rank-priority fields.",
             "Tiers summarize discovery evidence and are not independent validation.",
         )
@@ -66,7 +69,7 @@ def main() -> None:
             "S4_leave_one_out",
             read_tsv(RESULTS / "dgd_candidate_leave_one_dataset_out.tsv"),
             "Candidate leave-one-dataset-out results with dataset-level medians.",
-            "This is an selection-conditioned robustness analysis of a preselected candidate set.",
+            "This sensitivity analysis uses a preselected candidate set and is not independent validation.",
         )
     )
 
@@ -121,13 +124,32 @@ def main() -> None:
     allen_gene = tiers[tier_cols].merge(
         allen_gene, left_on="mouse_symbol", right_on="gene_symbol", how="inner"
     )
+    specificity = read_tsv(
+        RESULTS / "dgd_allen_consensus_candidate_specificity.tsv"
+    )
+    profile_cols = [
+        column
+        for column in specificity.columns
+        if column.startswith("mean_log2_")
+        or column
+        in {
+            "gene_symbol",
+            "minimum_target_mean_log2",
+            "maximum_comparator_mean_log2",
+            "target_min_minus_comparator_max",
+            "strict_target_pair_specific",
+        }
+    ]
+    allen_gene = allen_gene.merge(
+        specificity[profile_cols], on="gene_symbol", how="left"
+    )
     tables.append(
         (
             "Table_S8_Allen_candidate_contrasts.tsv",
             "S8_Allen_candidates",
             allen_gene,
-            "Allen branch-local candidate contrasts against Purkinje and CA1/CA3 comparators.",
-            "Positive values indicate target-minus-local-comparator expression, not strict cell-type specificity.",
+            "Allen candidate contrasts against Purkinje, CA1 and CA3, with expression across all nine populations.",
+            "Positive values indicate target-minus-comparator expression. CA1-only and CA3-only fields test reference-weighting sensitivity; the population profile quantifies non-exclusivity.",
         )
     )
     tables.append(
@@ -154,7 +176,76 @@ def main() -> None:
             "S11_Allen_null",
             read_tsv(RESULTS / "dgd_allen_consensus_candidate_matched_null.tsv"),
             "Expression- and detection-matched null analysis for the preselected candidate sets.",
-            "This is external sensitivity evidence for recurrence, not proof of developmental causality.",
+            "This tests generalization of a direction selected in discovery, not blind validation or developmental causality.",
+        )
+    )
+
+    transfer = read_tsv(RESULTS / "dgd_allen_cross_region_specificity_summary.tsv")
+    matched_panels = read_tsv(
+        RESULTS / "dgd_allen_cross_region_matched_gene_null.tsv.gz"
+    )
+    matched_iqr = (
+        matched_panels.groupby("feature_set")["minimum_bidirectional_auc"]
+        .agg(
+            matched_null_q25_minimum_auc=lambda values: values.quantile(0.25),
+            matched_null_q75_minimum_auc=lambda values: values.quantile(0.75),
+        )
+        .reset_index()
+    )
+    transfer = transfer.merge(matched_iqr, on="feature_set", how="left")
+    concordance = read_tsv(
+        RESULTS / "dgd_allen_cross_region_contrast_concordance.tsv"
+    )
+    stage = read_tsv(RESULTS / "dgd_allen_cross_region_stage_sensitivity.tsv")
+    transfer_cols = [
+        "feature_set",
+        "feature_set_label",
+        "n_features",
+        "dentate_to_cerebellum_auc",
+        "cerebellum_to_dentate_auc",
+        "minimum_bidirectional_auc",
+        "intersection_union_label_permutation_p",
+        "intersection_union_label_permutation_q_bh",
+        "matched_null_median_minimum_auc",
+        "matched_null_q25_minimum_auc",
+        "matched_null_q75_minimum_auc",
+        "matched_null_95ci_low_minimum_auc",
+        "matched_null_95ci_high_minimum_auc",
+        "matched_gene_panel_empirical_p",
+        "matched_gene_panel_q_bh",
+        "transfer_interpretation",
+    ]
+    concordance_cols = [
+        "feature_set",
+        "cosine_concordance",
+        "spearman_contrast_correlation",
+        "same_sign_fraction",
+        "both_positive_fraction",
+        "matched_null_p_greater_cosine_concordance",
+        "matched_null_p_greater_spearman_contrast_correlation",
+        "matched_null_p_greater_same_sign_fraction",
+        "matched_null_p_greater_both_positive_fraction",
+    ]
+    stage_cols = [
+        "feature_set",
+        "n_shared_libraries",
+        "median_mature_margin",
+        "median_immature_margin",
+        "median_immature_minus_mature_margin",
+        "paired_wilcoxon_p_two_sided",
+        "paired_wilcoxon_q_bh",
+        "scope",
+    ]
+    transfer = transfer[transfer_cols].merge(
+        concordance[concordance_cols], on="feature_set", how="left"
+    ).merge(stage[stage_cols], on="feature_set", how="left")
+    tables.append(
+        (
+            "Table_S12_Allen_cross_region.tsv",
+            "S12_cross_region",
+            transfer,
+            "Allen cross-region transfer, contrast concordance and adult-state sensitivity.",
+            "Positive ranking did not exceed both configuration nulls; the immature group is an adult cell state.",
         )
     )
 
@@ -174,19 +265,10 @@ def main() -> None:
         )
 
     manifest = pd.DataFrame(manifest_rows)
-    manifest_name = "Table_S12_table_manifest.tsv"
+    manifest_name = "Table_S13_table_manifest.tsv"
     manifest.to_csv(OUT / manifest_name, sep="\t", index=False)
 
-    workbook = OUT / "Revised_Supplementary_Tables_S1-S12.xlsx"
-    with pd.ExcelWriter(workbook, engine="openpyxl") as writer:
-        for _, sheet, frame, _, _ in tables:
-            frame.to_excel(writer, sheet_name=sheet[:31], index=False)
-        manifest.to_excel(writer, sheet_name="S12_manifest", index=False)
-        for worksheet in writer.book.worksheets:
-            worksheet.freeze_panes = "A2"
-            worksheet.auto_filter.ref = worksheet.dimensions
-
-    print(f"Wrote {len(tables) + 1} supplementary tables and {workbook}")
+    print(f"Wrote {len(tables) + 1} supplementary TSV tables to {OUT}")
 
 
 if __name__ == "__main__":

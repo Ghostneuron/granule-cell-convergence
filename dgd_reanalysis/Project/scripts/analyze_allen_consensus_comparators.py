@@ -476,6 +476,14 @@ def candidate_specificity(pop_gene: pd.DataFrame, tiers: pd.DataFrame) -> pd.Dat
                 "maximum_comparator_mean_log2": comparator_max,
                 "target_min_minus_comparator_max": target_min - comparator_max,
                 "strict_target_pair_specific": bool(target_min > comparator_max),
+                **{
+                    "mean_log2_" + population.lower()
+                    .replace("/", "_")
+                    .replace(",", "")
+                    .replace("-", "_")
+                    .replace(" ", "_"): float(values.get(population, np.nan))
+                    for population in POPULATION_ORDER
+                },
             }
         )
     return pd.DataFrame(rows)
@@ -510,10 +518,13 @@ def local_contrast_table(
             continue
 
         cb_delta = float(values["Cerebellar granule"].mean() - values["Purkinje"].mean())
-        dg_reference = (
-            values["CA1/ProS pyramidal"].mean() + values["CA3 pyramidal"].mean()
-        ) / 2
+        ca1_mean = float(values["CA1/ProS pyramidal"].mean())
+        ca3_mean = float(values["CA3 pyramidal"].mean())
+        dg_mean = float(values["Dentate granule, mature"].mean())
+        dg_reference = (ca1_mean + ca3_mean) / 2
         dg_delta = float(values["Dentate granule, mature"].mean() - dg_reference)
+        dg_minus_ca1 = dg_mean - ca1_mean
+        dg_minus_ca3 = dg_mean - ca3_mean
 
         cb_boot = rng.choice(
             values["Cerebellar granule"],
@@ -540,6 +551,24 @@ def local_contrast_table(
                 replace=True,
             ).mean(axis=1)
         ) / 2
+        dg_ca1_boot = rng.choice(
+            values["Dentate granule, mature"],
+            size=(N_BOOTSTRAP, len(values["Dentate granule, mature"])),
+            replace=True,
+        ).mean(axis=1) - rng.choice(
+            values["CA1/ProS pyramidal"],
+            size=(N_BOOTSTRAP, len(values["CA1/ProS pyramidal"])),
+            replace=True,
+        ).mean(axis=1)
+        dg_ca3_boot = rng.choice(
+            values["Dentate granule, mature"],
+            size=(N_BOOTSTRAP, len(values["Dentate granule, mature"])),
+            replace=True,
+        ).mean(axis=1) - rng.choice(
+            values["CA3 pyramidal"],
+            size=(N_BOOTSTRAP, len(values["CA3 pyramidal"])),
+            replace=True,
+        ).mean(axis=1)
         shared_boot = np.minimum(cb_boot, dg_boot)
         rows.append(
             {
@@ -551,6 +580,17 @@ def local_contrast_table(
                 "dentate_granule_minus_mean_ca1_ca3": dg_delta,
                 "dentate_bootstrap_95ci_low": float(np.quantile(dg_boot, 0.025)),
                 "dentate_bootstrap_95ci_high": float(np.quantile(dg_boot, 0.975)),
+                "dentate_granule_minus_ca1": dg_minus_ca1,
+                "dentate_ca1_bootstrap_95ci_low": float(np.quantile(dg_ca1_boot, 0.025)),
+                "dentate_ca1_bootstrap_95ci_high": float(np.quantile(dg_ca1_boot, 0.975)),
+                "dentate_positive_vs_ca1": bool(dg_minus_ca1 > 0),
+                "dentate_granule_minus_ca3": dg_minus_ca3,
+                "dentate_ca3_bootstrap_95ci_low": float(np.quantile(dg_ca3_boot, 0.025)),
+                "dentate_ca3_bootstrap_95ci_high": float(np.quantile(dg_ca3_boot, 0.975)),
+                "dentate_positive_vs_ca3": bool(dg_minus_ca3 > 0),
+                "positive_against_both_hippocampal_comparators": bool(
+                    dg_minus_ca1 > 0 and dg_minus_ca3 > 0
+                ),
                 "shared_minimum_local_delta": min(cb_delta, dg_delta),
                 "shared_minimum_bootstrap_95ci_low": float(np.quantile(shared_boot, 0.025)),
                 "shared_minimum_bootstrap_95ci_high": float(np.quantile(shared_boot, 0.975)),

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build machine-readable TSV tables for the compact DGD supplement."""
+"""Build the compact machine-readable TSV tables for the current manuscript."""
 
 from __future__ import annotations
 
@@ -268,7 +268,7 @@ def main() -> None:
     manifest_name = "Table_S13_table_manifest.tsv"
     manifest.to_csv(OUT / manifest_name, sep="\t", index=False)
 
-    print(f"Wrote {len(tables) + 1} supplementary TSV tables to {OUT}")
+    print(f"Wrote {len(tables) + 1} repository TSV tables to {OUT}")
 
 
 if __name__ == "__main__":

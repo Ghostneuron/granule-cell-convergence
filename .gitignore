@@ -16,3 +16,10 @@ cache/
 *.npz
 *.h5seurat
 *.loom
+
+# Local/generated plotting outputs; finalized manuscript figures are tracked
+# under dgd_reanalysis/Project/manuscript/main_figures/.
+/dgd_reanalysis/Project/manuscript/Revised_figures_20260817/
+/dgd_reanalysis/Project/results/mplconfig/
+/dgd_reanalysis/Project/results/dgd_allen_cross_region_transfer.png
+/dgd_reanalysis/Project/results/dgd_allen_cross_region_transfer.pdf

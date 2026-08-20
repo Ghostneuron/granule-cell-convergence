@@ -1,8 +1,10 @@
 # Comparator-relative granule-cell reanalysis
 
-This directory is the manuscript-matched analysis packet for **"Comparator-
-relative molecular recurrence in distinct dentate and cerebellar granule
-cells"**.
+This directory is the manuscript-matched analysis packet for
+**"Comparator-relative molecular recurrence in distinct dentate and
+cerebellar granule cells"**, prepared for the Journal of Comparative
+Neurology. The directory name predates the JCN submission and is retained so
+that repository paths cited in the manuscript remain stable.
 
 ## Directory layout
 
@@ -18,7 +20,13 @@ cells"**.
 - `Project/scripts/build_supplementary_tables.py`: compact machine-readable
   Tables S1-S13.
 - `Project/results/`: compact inputs and derived tables.
+- `Project/manuscript/JCN_manuscript.md`: current manuscript text.
+- `Project/manuscript/main_figures/`: finalized Figures 1-4.
 - `Project/manuscript/source_tables/`: final Tables S1-S13 in TSV format.
+
+The Table S labels are stable repository identifiers. JCN does not receive
+these files as a conventional supplementary-information packet; they support
+the manuscript's data-availability statement.
 
 ## Environment
 
@@ -56,7 +64,8 @@ requires the Allen matrices described above.
 2. Run `analyze_allen_consensus_comparators.py` with the Allen directory set.
 3. Run `analyze_cross_region_granule_specificity.py` after the Allen library-
    level expression table has been generated.
-4. Run `build_main_figures.py`.
+4. Run `build_main_figures.py` to rebuild Figures 1-3. The Allen comparator
+   script generates the source plot for Figure 4.
 5. Run `build_supplementary_tables.py` when rebuilding the table packet from
    the full project archive.
 

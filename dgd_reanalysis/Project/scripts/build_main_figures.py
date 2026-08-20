@@ -12,7 +12,7 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[2]
 RESULTS = ROOT / "Project/results"
-OUT = ROOT / "Project/manuscript/Revised_figures_20260817"
+OUT = ROOT / "Project/manuscript/main_figures"
 OUT.mkdir(parents=True, exist_ok=True)
 
 os.environ.setdefault("MPLCONFIGDIR", str(RESULTS / "mplconfig"))
@@ -132,7 +132,7 @@ def build_figure1() -> None:
     ax.set_xlim(0, 1)
     ax.set_ylim(0, 1)
 
-    fig.savefig(OUT / "Revised_Figure_1_study_logic.png", dpi=300, bbox_inches="tight", facecolor="white")
+    fig.savefig(OUT / "Figure_1.png", dpi=300, bbox_inches="tight", facecolor="white")
     plt.close(fig)
 
 
@@ -227,7 +227,7 @@ def build_figure2() -> None:
     ax.legend(frameon=False, title="")
     ax.spines[["top", "right"]].set_visible(False)
 
-    fig.savefig(OUT / "Revised_Figure_2_candidate_robustness.png", dpi=300, bbox_inches="tight", facecolor="white")
+    fig.savefig(OUT / "Figure_2.png", dpi=300, bbox_inches="tight", facecolor="white")
     plt.close(fig)
 
 
@@ -283,7 +283,7 @@ def build_figure3() -> None:
     )
     ax.spines[["top", "right"]].set_visible(False)
 
-    fig.savefig(OUT / "Revised_Figure_3_independent_inference.png", dpi=300, bbox_inches="tight", facecolor="white")
+    fig.savefig(OUT / "Figure_3.png", dpi=300, bbox_inches="tight", facecolor="white")
     plt.close(fig)
 
 
@@ -291,7 +291,7 @@ def main() -> None:
     build_figure1()
     build_figure2()
     build_figure3()
-    print(f"Wrote revised figures to {OUT}")
+    print(f"Wrote Figures 1-3 to {OUT}")
 
 
 if __name__ == "__main__":
